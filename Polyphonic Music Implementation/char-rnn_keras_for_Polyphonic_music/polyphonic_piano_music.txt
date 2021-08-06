@@ -1,0 +1,2675 @@
+
+X:1
+T:Ashover simple chords 1
+M:3/4
+L:1/8
+K:Ddor
+e2 [d4G,4B,4D4] | B2 [A2D,2^F,2A,2]>B2 | c2 [B4G,4B,4D4] | G2 [A4D,4^F,4A,4] | e2 [d4G,4B,4D4] |
+B2 [A2D,2^F,2A,2]>B2 | c2 [BF,,][F,A,C] [FF,,][F,A,C] | [G2G,,2] [G,2B,2D2] [e2G,2B,2D2] | e2 [d4G,4B,4D4G,4B,4D4] |
+B2 [A2D,2^F,2A,2]>B2 | c2 [B4G,4B,4D4] | G2 [A4D,4^F,4A,4] | e2 [d4G,4B,4D4] |
+B2 [A2D,2^F,2A,2]>B2 | c2 [BF,,][F,A,C] [FF,,][F,A,C] | [G2G,,2] [G,2B,2D2] [e2G,2B,2D2] | [g2C,,2] [C,2E,2G,2] [e2C,2E,2G,2] |
+[f2_B,,2] [B,2D2F2] [d2B,2D2F2] | [c2F,,2] [F,2A,2C2] [A2F,2A,2C2] | [F2F,,2] [F,2A,2C2] [e2F,2A,2C2] | [g2C,,2] [C,2E,2G,2] [e2C,2E,2G,2] |
+[f2_B,,2] [B,2D2F2] [d2B,2D2F2] | [cF,,][F,A,C] [AF,,][F,A,C] [G2G,,2] | [G,2B,2D2] [e2G,2B,2D2] [g2C,,2] | [C,2E,2G,2] [e2C,2E,2G,2] [f2_B,,2] |
+[_B,2D2F2] [d2B,2D2F2] [c2F,,2] | [F,2A,2C2] [A2F,2A,2C2] [F2F,,2] | [F,2A,2C2] [e2F,2A,2C2] [g2C,,2] | [C,2E,2G,2] [e2C,2E,2G,2] [f2_B,,2] |
+[_B,2D2F2] [d2B,2D2F2] [cF,,][F,A,C] | [AF,,][F,A,C] [G2G,,2] [G,2B,2D2] | [G,B,D] |
+
+
+X:2
+T:Ashover simple chords 8
+M:3/4
+L:1/8
+K:A
+[E2A,2C2E2] AB Ec | BE [cA,CE]B A2 | c4 [E2A,2C2E2] | AB Ec BE | [cA,CE]B A2 A4 |
+[E2A,2C2E2] AB | Ec BE [cA,CE]B | A2 B4 | [cA,CE]e a2 a2 |
+=G2 [FD,F,A,]A B2 | A4 [E2A,2C2E2] | AB Ec BE | [cA,CE]B A2 c4 |
+[E2A,2C2E2] AB | Ec BE [cA,CE]B | A2 A4 | [E2A,2C2E2] AB Ec |
+BE [cA,CE]B A2 | B4 [cA,CE]e | a2 a2 =G2 | [FD,F,A,]A B2 A4 |
+[BE,G,B,]^A BG | EG Bc [dE,G,B,]B | c2 B4 | [AD,F,A,]G AF DF |
+AB [^BD,F,A,]A =B2 | A4 [BE,G,B,]^A | BG EG Bc | [dE,G,B,]B c2 B4 |
+[cA,CE]e a2 | a2 =G2 [FD,F,A,]A | B2 A4 |
+
+
+X:3
+T:Ashover simple chords 9
+M:3/4
+L:1/8
+K:Gm
+[G4G,4B,4D4] B4 A2 c2 | [B2G,2B,2D2] d2 A2 c2 G2 B2 | [AD,^F,A,] cAc A2 c2 B2 d2 | [c6D,6^F,6A,6] e6 | [^F4D,4F,4A,4] A4 G2 B2 |
+[A2D,2^F,2A,2] c2 G2 B2 =F2 A2 | [GG,B,D] BGB G2 B2 A2 c2 | [B6G,6B,6D6] d6 | [G4G,4B,4D4] B4 A2 c2 |
+[B2G,2B,2D2] d2 G BAc B2 d2 | [c4C,4E,4G,4] e4 d2 f2 | [e6C,6E,6G,6] g6 | [eD,^F,A,] gd=f d2 f2 d2 f2 |
+[c2D,2^F,2A,2] =f2 c2 e2 c2 f2 | [B6G,6B,6D6] g6 | [B6G,6B,6D6] g6 | [c4C,4E,4G,4] e4 d2 f2 |
+[e2C,2E,2G,2] g2 d2 f2 c2 e2 | [B4G,4B,4D4] d4 c2 e2 | [d2G,2B,2D2] f2 c2 e2 B2 d2 | [A4D,4^F,4A,4] c4 B2 d2 |
+[c2D,2^F,2A,2] e2 B2 d2 A2 c2 | [G4G,4B,4D4] B4 A2 c2 | [=B6G,6B,6D6F6] d6 | [c4C,4=E,4G,4] e4 d2 ^f2 |
+[=e2C,2E,2G,2] g2 d2 ^f2 c2 e'2 | [=B4G,4B,4D4] d4 c2 =e2 | [d2=E,2_A,2=B,2] ^f2 c2 e2 B2 d2 | [A4A,4C4=E4] c4 =B2 d2 |
+[c4D,4^F,4A,4] =e4 c2 f2 | [=B6G,6B,6D6] g6 | [=B6G,6B,6D6] g6 | [G4G,4B,4D4] B4 A2 c2 |
+[B2G,2B,2D2] d2 A2 c2 G2 B2 | [AD,^F,A,] cAc A2 c2 B2 d2 | [c6D,6^F,6A,6] e6 | [^F4D,4F,4A,4] A4 G2 B2 |
+[A2D,2^F,2A,2] c2 G2 B2 =F2 A2 | [GG,B,D] BGB G2 B2 A2 c2 | [B6G,6B,6D6] d6 | [G4G,4B,4D4] B4 A2 c2 |
+[B2G,2B,2D2] d2 G BAc B2 d2 | [c4C,4E,4G,4] e4 d2 f2 | [e6C,6E,6G,6] g6 | [eD,^F,A,] gd=f d2 f2 d2 f2 |
+[c2D,2^F,2A,2] =f2 c2 e2 c2 f2 | [B6G,6B,6D6] g6 | [B6G,6B,6D6] g6 | [c4C,4E,4G,4] e4 d2 f2 |
+[e2C,2E,2G,2] g2 d2 f2 c2 e2 | [B4G,4B,4D4] d4 c2 e2 | [d2G,2B,2D2] f2 c2 e2 B2 d2 | [A4D,4^F,4A,4] c4 B2 d2 |
+[c2D,2^F,2A,2] e2 B2 d2 A2 c2 | [G4G,4B,4D4] B4 A2 c2 | [=B6G,6B,6D6F6] d6 | [c4C,4=E,4G,4] e4 d2 ^f2 |
+[=e2C,2E,2G,2] g2 d2 ^f2 c2 e'2 | [=B4G,4B,4D4] d4 c2 =e2 | [d2=E,2_A,2=B,2] ^f2 c2 e2 B2 d2 | [A4A,4C4=E4] c4 =B2 d2 |
+[c4D,4^F,4A,4] =e4 c2 f2 | [=B6G,6B,6D6] g6 | [=B6G,6B,6D6] g6 |
+
+
+X:4
+T:Ashover simple chords 14
+M:3/4
+L:1/8
+K:F#m
+[eA,CE]c Ad ef | [eA,CE]c Ad2f | [eA,CE]c Ae cA | [BB,DF]c Bd2f | [eA,CE]c Ad ef |
+[eA,CE]c Ad2f | [fD,F,A,]a fe dc | [BB,DF]c Bd2f | [eA,CE]c Ad ef |
+[eA,CE]c Ad2f | [eA,CE]c Ae cA | [BB,DF]c Bd2f | [eA,CE]c Ad ef |
+[eA,CE]c Ad2f | [fD,F,A,]a fe dc | [BB,DF]c Bd2f | [eA,CE]c Aa cA |
+[eA,CE]c Ad2f | [eA,CE]c Aa cA | [BB,DF]c Bd2f | [eA,CE]c Aa cA |
+[eA,CE]c Ad2f | [fD,F,A,]a fe dc | [BB,DF]c Bd2f |
+
+
+X:5
+T:Ashover simple chords 18
+M:3/4
+L:1/8
+K:F
+[F2F,2A,2C2] Ac2A | [BB,DF]c dc2A | [BB,DF]c dc2A | [AG,=B,D]G F2<G2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [dB,DF]e fc2A | [BC,E,G,]A G2<F2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [BB,DF]c dc2A | [AG,=B,D]G F2<G2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [dB,DF]e fc2A | [BC,E,G,]A G2<F2 | [G2C,2E,2G,2] Gc2B |
+[AC,E,G,]B GG FE | [G2C,2E,2G,2] Gc2B | [AC,E,G,]B F2<G2 | [G2C,2E,2G,2] Gc2B |
+[AC,E,G,]B GG FE | [G2C,2E,2G,2] Gc2B | [AC,E,G,]B F2<G2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [BB,DF]c dc2A | [AG,=B,D]G F2<G2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [dB,DF]e fc2A | [BC,E,G,]A G2<F2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [BB,DF]c dc2A | [AG,=B,D]G F2<G2 | [F2F,2A,2C2] Ac2A |
+[BB,DF]c dc2A | [dB,DF]e fc2A | [BC,E,G,]A G2<F2 |
+
+
+X:6
+T:Ashover simple chords 21
+M:3/4
+L:1/8
+K:F
+[fF,A,C]c cc d/cB/c | [dD,F,A,]A AA B/AG/A | [GG,B,D]B AG AF | [EC,E,G,]F G2<C2 | [fF,A,C]c c2<c2 |
+[dD,F,A,]A AA2f | [eC,E,G,]d cG A=B | [c3C,3E,3G,3]c3 | [fF,A,C]c cc d/cB/c |
+[dD,F,A,]A AA B/AG/A | [GG,B,D]B AG AF | [EC,E,G,]F G2<C2 | [fF,A,C]c c2<c2 |
+[dD,F,A,]A AA2f | [eC,E,G,]d cG A=B | [c3C,3E,3G,3]c3 | [gC,E,G,]c cc d/cB/c |
+[aF,A,C]c cc d/cB/c | [dB,DF]c BA GF | [EC,E,G,]F G2<C2 | [fF,A,C]c c2<c2 |
+[dD,F,A,]A AA B/AG/A | [GG,B,D]B AG FE | [F3F,3A,3C3]F3 | [gC,E,G,]c cc d/cB/c |
+[aF,A,C]c cc d/cB/c | [dB,DF]c BA GF | [EC,E,G,]F G2<C2 | [fF,A,C]c c2<c2 |
+[dD,F,A,]A AA B/AG/A | [GG,B,D]B AG FE | [F3F,3A,3C3]F3 |
+
+
+X:7
+T:Ashover simple chords 25
+M:3/4
+L:1/8
+K:A
+[e2A,2C2E2] ed cB | [cA,CE]A GA df | [e2A,2C2E2] ed fd | [eA,CE]c A=G Bd | [e2A,2C2E2] ed cB |
+[cA,CE]A GA df | [eA,CE]a cB cd | [eE,G,B,]f g2<a2 | [e2A,2C2E2] ed cB |
+[cA,CE]A GA df | [e2A,2C2E2] ed fd | [eA,CE]c A=G Bd | [e2A,2C2E2] ed cB |
+[cA,CE]A GA df | [eA,CE]a cB cd | [eE,G,B,]f g2<a2 | [BE,G,B,]c BB ed |
+[cA,CE]B AB GE | [FD,F,A,]G Aa gf | [eB,DF]c A2<B2 | [c2A,2C2E2] ea gf |
+[cA,CE]A GA df | [eA,CE]a cB cd | [eE,G,B,]f g2<a2 |
+
+
+X:8
+T:Ashover simple chords 30
+M:3/4
+L:1/8
+K:D
+f/g/[aD,F,A,] fd ec | A[dG,B,D] BG F2 | E[DD,F,A,] FA Bg | f[eE,G,B,] fd c2 | f/g/[aD,F,A,] fd ec |
+A[dG,B,D] BG F2 | E[DD,F,A,] FA Bg | f[eA,CE] dc d2 | f/g/[aD,F,A,] fd ec |
+A[dG,B,D] BG F2 | E[DD,F,A,] FA Bg | f[eE,G,B,] fd c2 | f/g/[aD,F,A,] fd ec |
+A[dG,B,D] BG F2 | E[DD,F,A,] FA Bg | f[eA,CE] dc d2 | Ac eg ec |
+[AD,F,A,]d fa fd | [AA,CE]c eg ec | [BE,^G,B,D]e d2<c2 | [AA,CE]c eg ec |
+[AD,F,A,]d fa fd | [AA,CE]c AB gf | [eA,CE]d cd2 |
+
+
+X:9
+T:Ashover simple chords 32
+M:3/4
+L:1/8
+K:A
+[eA,CE]>A a>e [fD,F,A,]>e | d>c [BE,G,B,]>c d>e | [cA,CE]>B A>e [eA,CE]>A | a>e [fD,F,A,]>e d>c | [BE,G,B,]>d c>B [A3A,3C3E3] |
+e [eA,CE]>A a>e | [fD,F,A,]>e d>c [BE,G,B,]>c | d>e [cA,CE]>B A>e | [eA,CE]>A a>e [fD,F,A,]>e |
+d>c [BE,G,B,]>d c>B | [A2A,2C2E2]>e2 [eA,CE][B3/2E,3/2G,3/2B,3/2] |d/c>e[dB,DF]>cB3/2 |c/[cA,CE]>ed>f[e3/2A,3/2C3/2E3/2] |
+d/c>e[eA,CE]>ca3/2 |e/[fD,F,A,]>ed>c[B3/2E,3/2G,3/2B,3/2] |d/c>B[A3A,3C3E3] | e[BE,G,B,]>dc>e[d3/2B,3/2D3/2F3/2] |
+c/B>c[cA,CE]>ed3/2 |f/[eA,CE]>dc>e[e3/2A,3/2C3/2E3/2] |c/a>e[fD,F,A,]>ed3/2 |c/[BE,G,B,]>dc>B[A3A,3C3E3] |
+
+
+X:10
+T:Ashover simple chords 33
+M:3/4
+L:1/8
+K:Am
+(3agf[eC,E,G,] cB d2<[c2C,2E,2G,2] | F[EC,E,G,] GA | c[BG,B,D] d2 g/f/[eC,E,G,] | cB d[eC,E,G,] cB | d[EC,E,G,] Ge B2<[c2C,2E,2G,2] |
+(3agf[eC,E,G,] cB | d2<[c2C,2E,2G,2] F[EC,E,G,] | GA c[BG,B,D] d2 | g/f/[eC,E,G,] cB d[eC,E,G,] |
+cB d[EC,E,G,] Ge | B2<[c2C,2E,2G,2] B/c/[dG,B,D] | BG f[eC,E,G,] g2 | (3agf[eC,E,G,] cB d[gG,B,D] |
+G2 F[EC,E,G,] GA | E[F,A,C] a2 g/f/[eC,E,G,] | cG B[c4C,4E,4G,4] |[dG,B,D] BG f[eC,E,G,] |
+g2 (3agf[eC,E,G,] cB | d[gG,B,D] G2 F[EC,E,G,] | GA E[F,A,C] a2 | g/f/[eC,E,G,] cG B[c4C,4E,4G,4] |
+
+
+X:11
+T:Ashover simple chords 38
+M:3/4
+L:1/16
+K:D
+[DD,F,A,]AFA DBGB [D2D,2F,2A,2]ef | gffe [DD,F,A,]AFA Defg | [fA,CE]edc d4 [eA,CE]cAg | fdAa [eA,CE]cAg f2eA | [aD,F,A,]fdA BcdG [F2D,2F,2A,2]E2 |
+D4 G[F2D,2F,2A,2D,2F,2A,2]E2D4 |[AA,CE]Bc ddcB A[eE,G,B,]fg | ff2e2[f3B,3D3F3] fe^GA | B[cA,CE]BA ^GA4[AA,CE]Bc |
+ddcB A[eE,G,B,]fg ff2e2 |[f3B,3D3F3] fe^GA B[cA,CE]BA | ^GA4[e3A,3C3E3] cA2d2 |[BG,B,D]AG FE4[BG,B,D]eg |
+fecd g[fA,CE]ed cd4 |[e3A,3C3E3] cA2d2[BG,B,D]AG | FE4[BG,B,D]eg fecd | g[fA,CE]ed cd4 |
+
+
+X:12
+T:Ashover simple chords 39
+M:3/4
+L:1/8
+K:Em
+[e4G,4B,4D4] d2 | [B2G,2B,2D2]>A2 G2 | [A4A,4C4E4] B2 | [E6A,6C6E6] | [A4C,4E,4G,4] B2 |
+[E4D,4F,4A,4] F2 | [G2G,2B,2D2] B2 e2 | [d6D,6F,6A,6] | [e4G,4B,4D4] d2 |
+[B2G,2B,2D2]>A2 G2 | [A4A,4C4E4] B2 | [E6A,6C6E6] | [A4C,4E,4G,4] B2 |
+[E4D,4F,4A,4] F2 | [G6G,6B,6D6] | [G,6B,6D6] | [g2E,2G,2B,2]>f2 e2 |
+[f4D,4F,4A,4] d2 | [e2C,2E,2G,2]>d2 c2 | [d4G,4B,4D4] B2 | [c4C,4E,4G,4] e2 |
+[d4G,4B,4D4] B2 | [B4A,4C4E4] E2 | [BD,F,A,]d5 | [g2E,2G,2B,2]>f2 e2 |
+[f4D,4F,4A,4] d2 | [e2C,2E,2G,2]>d2 c2 | [d4E,4^G,4B,4] B2 | [c4A,4C4E4] e2 |
+[e2C,2E,2G,2]>d2 c2 | [B2D,2F,2A,2] c2 A2 | [G6G,6B,6D6] | [e4G,4B,4D4] d2 |
+[B2G,2B,2D2]>A2 G2 | [A4A,4C4E4] B2 | [E6A,6C6E6] | [A4C,4E,4G,4] B2 |
+[E4D,4F,4A,4] F2 | [G2G,2B,2D2] B2 e2 | [d6D,6F,6A,6] | [e4G,4B,4D4] d2 |
+[B2G,2B,2D2]>A2 G2 | [A4A,4C4E4] B2 | [E6A,6C6E6] | [A4C,4E,4G,4] B2 |
+[E4D,4F,4A,4] F2 | [G6G,6B,6D6] | [G,6B,6D6] | [g2E,2G,2B,2]>f2 e2 |
+[f4D,4F,4A,4] d2 | [e2C,2E,2G,2]>d2 c2 | [d4G,4B,4D4] B2 | [c4C,4E,4G,4] e2 |
+[d4G,4B,4D4] B2 | [B4A,4C4E4] E2 | [BD,F,A,]d5 | [g2E,2G,2B,2]>f2 e2 |
+[f4D,4F,4A,4] d2 | [e2C,2E,2G,2]>d2 c2 | [d4E,4^G,4B,4] B2 | [c4A,4C4E4] e2 |
+[e2C,2E,2G,2]>d2 c2 | [B2D,2F,2A,2] c2 A2 | [G6G,6B,6D6] |
+
+
+X:13
+T:Ashover simple chords 44
+M:3/4
+L:1/8
+K:Em
+
+D2<[G2G,2B,2D2] A3 |[B5G,5B,5D5] | d[BG,B,D] AG A2 | d[BG,B,D] AG A2 | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BA,CE] AG A2 | F[G5G,5B,5D5] | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BG,B,D] AG A2 | d[BG,B,D] AG A2 | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BA,CE] AG A2 | F[G5G,5B,5D5] | D2<[F2D,2F,2A,2] G3 |
+[A5D,5F,5A,5] | d[c2A,2^C2E2]e B2 | d[cA,^CE] de A2 | e2<[F2D,2F,2A,2] G3 |
+[A5D,5F,5A,5] | d[BE,G,B,] eg a2 | A2<[d2D,2F,2A,2] D2 | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BG,B,D] AG A2 | d[BG,B,D] AG A2 | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BA,CE] AG A2 | F[G5G,5B,5D5] | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BG,B,D] AG A2 | d[BG,B,D] AG A2 | D2<[G2G,2B,2D2] A3 |
+[B5G,5B,5D5] | d[BA,CE] AG A2 | F[G5G,5B,5D5] | D |
+
+
+X:14
+T:Ashover simple chords 45
+M:3/4
+L:1/8
+K:D
+e[fD,F,A,] dd cd | d[BG,B,D] dd Ac | e[fD,F,A,] dd cd | d[BE,G,B,] ee ed | e[fD,F,A,] dd cd |
+d[BG,B,D] dd Ad | d[BE,G,B,] dd cd | e[fD,F,A,] dd d2 | e[fD,F,A,] dd cd |
+d[BG,B,D] dd Ac | e[fD,F,A,] dd cd | d[BE,G,B,] ee ed | e[fD,F,A,] dd cd |
+d[BG,B,D] dd Ad | d[BE,G,B,] dd cd | e[fD,F,A,] dd d2 | e[fD,F,A,] ef gf |
+g[aD,F,A,] ga2< b2 |[e=C,E,G,] de ^e=e | ^e[g=C,=E,G,] fg2< a2 |[fD,F,A,] ef gf |
+g[aD,F,A,] ga ba | g[fE,^G,B,] ed cd | e[fD,F,A,] dd2< d2 |[fD,F,A,] ef gf |
+g[aD,F,A,] ga2< b2 |[e=C,E,G,] de ^e=e | ^e[g=C,=E,G,] fg2< a2 |[fD,F,A,] ef gf |
+g[aD,F,A,] ga ba | g[fE,^G,B,] ed cd | e[fD,F,A,] dd2< d2 |
+
+
+X:15
+T:Hpps simple chords 1
+M:3/4
+L:1/8
+K:Em
+d2 [G2G,2B,2D2] A2 | B2 c2 [dG,B,D]d2 |d d2 d2 | [dE,G,B,]d2d d2 | d2 [dD,F,A,C]d2d |
+d2 d2 [G2G,2B,2D2] | A2 B2 c2 | [dG,B,D]d2d d2 | d2 [d2D,2F,2A,2C2] c2 |
+B2 A4< [G4G,4B,4D4] | d2 | [G2G,2B,2D2] A2 B2 | c2 [dG,B,D]d2d |
+d2 d2 [dE,G,B,]d2 |d d2 d2 | [dD,F,A,C]d2d d2 | d2 [G2G,2B,2D2] A2 |
+B2 c2 [dG,B,D]d2 |d d2 d2 | [d2D,2F,2A,2C2] c2 B2 | A4< [G4G,4B,4D4] |
+d2 [G2G,2B,2D2] | A2 B2 c2 | [dG,B,D]d2d d2 | d2 [dE,G,B,]d2d |
+d2 d2 [dD,F,A,C]d2 |d d2 d2 | [G2G,2B,2D2] A2 B2 | c2 [dG,B,D]d2d |
+d2 d2 [d2D,2F,2A,2C2] | c2 B2 A2 | [G6G,6B,6D6] | d2 [G2G,2B,2D2] A2 |
+B2 c2 [dG,B,D]d2 |d d2 d2 | [dE,G,B,]d2d d2 | d2 [dD,F,A,C]d2d |
+d2 d2 [G2G,2B,2D2] | A2 B2 c2 | [dG,B,D]d2d d2 | d2 [d2D,2F,2A,2C2] c2 |
+B2 A4< [G4G,4B,4D4] | g2 | g2 f2 =f2 | [eC,E,G,]e2e e2 |
+e2 [g2C,2E,2G,2] g2 | f2 e2 [dG,B,D]d2 |d d2 d2 | [d2G,2B,2D2] d2 e2 |
+d2 [fD,F,A,C]f2f | f2 f2 [d2D,2F,2A,2C2] | c2 B2 A2 | [G6G,6B,6D6] |
+g2 g2 f2 | =f2 [eC,E,G,]e2e | e2 e2 [g2C,2E,2G,2] | g2 f2 e2 |
+[dG,B,D]d2d d2 | d2 [d2G,2B,2D2] d2 | e2 d2 [fD,F,A,C]f2 |f f2 f2 |
+[d2D,2F,2A,2C2] c2 B2 | A4< [G4G,4B,4D4] |
+
+
+X:16
+T:Hpps simple chords 2
+M:3/4
+L:1/8
+K:D
+(3fg^g [a2D,2F,2A,2] a2 | f2 f2 [dD,F,A,]>A | ^G>A B2 A2 | [g2E,2G,2B,2] g2 e2 | e2 [cA,CEG]>A ^G>A |
+B2 A2 [a2D,2F,2A,2] | a2 f2 f2 | [dD,F,A,]>A ^G>A B2 | A2 [cA,CEG]>A c>e |
+b>(3agfe [d2D,2F,2A,2] | f2 d2 (3fg^g | [a2D,2F,2A,2] a2 f2 | f2 [dD,F,A,]>A ^G>A |
+B2 A2 [g2E,2G,2B,2] | g2 e2 e2 | [cA,CEG]>A ^G>A B2 | A2 [a2D,2F,2A,2] a2 |
+f2 f2 [dD,F,A,]>A | ^G>A B2 A2 | [cA,CEG]>A c>e b>(3agf |e [d2D,2F,2A,2] f2 |
+d2 e2 [fD,F,A,]>(3^efg |a d2 d2 | [eE,G,B,]>(3^defg B2 | B2 [cA,CEG]>B c>B |
+A>c e>c [dD,F,A,]>c | d>f b2 a>g | [fD,F,A,]>(3^efga d2 | d2 [eE,G,B,]>(3^defg |
+B2 B2 [cA,CEG]>B | c>B A>c e>c | [d2D,2F,2A,2] f2 d2 | e2 [fD,F,A,]>(3^efga |
+d2 d2 [eE,G,B,]>(3^def |g B2 B2 | [cA,CEG]>B c>B A>c | e>c [dD,F,A,]>c d>f |
+b2 a>g [fD,F,A,]>(3^efg |a d2 d2 | [eE,G,B,]>(3^defg B2 | B2 [cA,CEG]>B c>B |
+A>c e>c [d2D,2F,2A,2] | f2 d2 |
+
+
+X:17
+T:Hpps simple chords 8
+M:3/4
+L:1/8
+K:G
+(3DEF [G2G,2B,2D2] G>B | D2 (3DEF [GG,B,D]>F | G>A B4 | [cC,E,G,]>B c>e d>B | A>G [AA,^CEG]>B A>G |
+E2 (3DEF [G2G,2B,2D2] | G>B D2 (3DEF | [GG,B,D]>F G>A B4 | [cC,E,G,]>B c>e |
+d>B G>A [BD,F,A,C]>c | B>A G2 (3DEF | [G2G,2B,2D2] G>B D2 | (3DEF [GG,B,D]>F G>A |
+B4 [cC,E,G,]>B | c>e d>B A>G | [AA,^CEG]>B A>G E2 | (3DEF [G2G,2B,2D2] G>B |
+D2 (3DEF [GG,B,D]>F | G>A B4 | [cC,E,G,]>B c>e d>B | G>A [BD,F,A,C]>c B>A |
+G2 d2 [e2C,2E,2G,2] | e>g d2>B2 | [cD,F,A,C]>B c>d B4 | [cC,E,G,]>B c>e |
+d>B A>G [AA,^CEG]>B | A>G E2 (3DEF | [G2G,2B,2D2] G>B D2 | (3DEF [GG,B,D]>F G>A |
+B4 [cC,E,G,]>B | c>e d>B G>A | [BD,F,A,C]>c B>A G2 | d2 [e2C,2E,2G,2] e>g |
+d2>B2 [cD,F,A,C]>B | c>d B4 | [cC,E,G,]>B c>e d>B | A>G [AA,^CEG]>B A>G |
+E2 (3DEF [G2G,2B,2D2] | G>B D2 (3DEF | [GG,B,D]>F G>A B4 | [cC,E,G,]>B c>e |
+d>B G>A [BD,F,A,C]>c | B>A G2 |
+
+
+X:18
+T:Hpps simple chords 13
+M:3/4
+L:1/8
+K:D
+(3ABc [dD,F,A,]>A F>A | G>B A>G [FD,F,A,]>A | F>A G>B A>G | [FD,F,A,]>D F>D G>E | G>E [FD,F,A,]>D F>D |
+E>(3AABc [dD,F,A,]>A | F>A G>B A>G | [FD,F,A,]>A F>A G>B | A>G [FD,F,A,]>A d>A |
+f>e d>c [d2D,2F,2A,2] | f2 d2 (3ABc | [dD,F,A,]>A F>A G>B | A>G [FD,F,A,]>A F>A |
+G>B A>G [FD,F,A,]>D | F>D G>E G>E | [FD,F,A,]>D F>D E>(3AAB |c [dD,F,A,]>A F>A |
+G>B A>G [FD,F,A,]>A | F>A G>B A>G | [FD,F,A,]>A d>A f>e | d>c [d2D,2F,2A,2] f2 |
+d2 c>d [eA,CEG]>c | A>c e>c g>e | [fD,F,A,]>d A>d f>d | a>f [eA,CE]>c A>c |
+e>c g>f [eE,^G,B,D]>d | c>B A2 A2 | [BG,B,D]>G D>G B>G | d>B [AD,F,A,]>F D>F |
+A>F d>A [BG,B,D]>d | c>B A>G F>E | [D2D,2F,2A,2] F2 D2 | c>d [eA,CEG]>c A>c |
+e>c g>e [fD,F,A,]>d | A>d f>d a>f | [eA,CE]>c A>c e>c | g>f [eE,^G,B,D]>d c>B |
+A2 A2 [BG,B,D]>G | D>G B>G d>B | [AD,F,A,]>F D>F A>F | d>A [BG,B,D]>d c>B |
+A>G F>E [D2D,2F,2A,2] | F2 D2 |
+
+
+X:19
+T:Hpps simple chords 15
+M:3/4
+L:1/8
+K:Am
+E2 [A2A,2C2E2] A>B | c>B c>d [eA,CE]>f | e>c d2 c>d | [eA,CE]>d c>B A>B | c>A [BE,^G,B,D]>G E2 |
+E2 (3E^F^G [AA,CE]>G | A>B c>B c>d | [eA,CE]>f e>c d2 | c>d [eA,CE]>a ^g>a |
+e>d c>B [c2A,2C2E2] | A2 A2 E2 | [A2A,2C2E2] A>B c>B | c>d [eA,CE]>f e>c |
+d2 c>d [eA,CE]>d | c>B A>B c>A | [BE,^G,B,D]>G E2 E2 | (3E^F^G [AA,CE]>G A>B |
+c>B c>d [eA,CE]>f | e>c d2 c>d | [eA,CE]>a ^g>a e>d | c>B [c2A,2C2E2] A2 |
+A2 e>f [g2C,2E,2G,2] | g>a g>f e>f | [gC,E,G,]>f e>c d2 | c>d [eA,CE]>d c>B |
+A>B c>A [BE,^G,B,D]>G | E2 E2 (3E^F^G | [AA,CE]>^G A>B c>B | c>d [eA,CE]>f e>c |
+d2 c>d [eA,CE]>a | ^g>a e>d c>B | [c2A,2C2E2] A2 A2 | e>f [g2C,2E,2G,2] g>a |
+g>f e>f [gC,E,G,]>f | e>c d2 c>d | [eA,CE]>d c>B A>B | c>A [BE,^G,B,D]>G E2 |
+E2 (3E^F^G [AA,CE]>G | A>B c>B c>d | [eA,CE]>f e>c d2 | c>d [eA,CE]>a ^g>a |
+e>d c>B [c2A,2C2E2] | A2 A2 |
+
+
+X:20
+T:Hpps simple chords 24
+M:3/4
+L:1/8
+K:A
+c>d [e2A,2C2E2] e2 | c2 c>d [e2A,2C2E2] | e2 c2 B>c | [d2E,2G,2B,2D2] d2 B2 | B>c [d2E,2G,2B,2D2] d2 |
+B2 c>B [A2A,2C2E2] | A2 a2>a2 | [g2D,2F,2A,2] f2 e2 | d>c [f2D,2F,2A,2] d>B |
+A2 G>A [B4E,4G,4B,4D4] | A2 c>d | [e2A,2C2E2] e2 c2 | c>d [e2A,2C2E2] e2 |
+c2 B>c [d2E,2G,2B,2D2] | d2 B2 B>c | [d2E,2G,2B,2D2] d2 B2 | c>B [A2A,2C2E2] A2 |
+a2>a2 [g2D,2F,2A,2] | f2 e2 d>c | [f2D,2F,2A,2] d>B A2 | G>A [B4E,4G,4B,4D4] |
+A2 |
+
+
+X:21
+T:Hpps simple chords 25
+M:3/4
+L:1/8
+K:A
+c>d [e2A,2C2E2] e2 | c2 c>d [e2A,2C2E2] | e2 c2 B>c | [d2E,2G,2B,2D2] d2 B2 | B>c [d2E,2G,2B,2D2] d2 |
+B2 c>B [A2A,2C2E2] | A2 a2>a2 | [g2D,2F,2A,2] f2 e2 | d>c [f2D,2F,2A,2] d>B |
+A2 G>A [B4E,4G,4B,4D4] | A2 c>d | [e2A,2C2E2] e2 c2 | c>d [e2A,2C2E2] e2 |
+c2 B>c [d2E,2G,2B,2D2] | d2 B2 B>c | [d2E,2G,2B,2D2] d2 B2 | c>B [A2A,2C2E2] A2 |
+a2>a2 [g2D,2F,2A,2] | f2 e2 d>c | [f2D,2F,2A,2] d>B A2 | G>A [B4E,4G,4B,4D4] |
+A2 c>d [e2A,2C2E2] | ec2E A>c | [e2A,2C2E2] ec2E | G>B [d2A,2C2E2] dB2 |
+E G>B [d2A,2C2E2] | dB2E c>B | [A2A,2C2E2] A2 a3 |g [fA,CE]>A d>f |
+e>E A>c [f2A,2C2E2] | d>B A2 G>A | [B4A,4C4E4] A2 | c>d [e2A,2C2E2] ec2 |
+E A>c [e2A,2C2E2] | ec2E G>B | [d2A,2C2E2] dB2E | G>B [d2A,2C2E2] dB2 |
+E c>B [A2A,2C2E2] | A2 a2>g2 | [fA,CE]>A d>f e>E | A>c [f2A,2C2E2] d>B |
+A2 G>A [B4A,4C4E4] | A2 c>d | [e2A,2C2E2] ec2E | A>c [eA,CE]>E ec2 |
+E G>B [dA,CE]>E | dB2E G>B | [dA,CE]>E dB2E | c>B [A2A,2C2E2] A2 |
+a2>g2 [fA,CE]>A | d>f e>E A>c | [f2A,2C2E2] d>B A2 | G>A [B4A,4C4E4] |
+A2 c>d [e2A,2C2E2] | ec2E A>c | [eA,CE]>E ec2E | G>B [dA,CE]>E dB2 |
+E G>B [dA,CE]>E | dB2E c>B | [A2A,2C2E2] A2 a3 |g [fA,CE]>A d>f |
+e>E A>c [f2A,2C2E2] | d>B A2 G>A | [B4A,4C4E4] A2 | c>d [eA,CE]>E e>E |
+c>E A>c [eA,CE]>E | e>E c>E G>B | [dA,CE]>E d>E B>E | G>B [dA,CE]>E d>E |
+B>E c>B [A2A,2C2E2] | A2 a2>g2 | [fA,CE]>A d>f e>E | A>c [f2A,2C2E2] d>B |
+A2 G>A [B4A,4C4E4] | A2 c>d | [eA,CE]>E e>E c>E | A>c [eA,CE]>E e>E |
+c>E G>B [dA,CE]>E | d>E B>E G>B | [dA,CE]>E d>E B>E | c>B [A2A,2C2E2] A2 |
+a2>g2 [fA,CE]>A | d>f e>E A>c | [f2A,2C2E2] d>B A2 | G>A [B4A,4C4E4] |
+A2 c>d [eA,CE]>E | e>E c>E A>c | [eA,CE]>f e>d c>E | G>B [dA,CE]>E d>E |
+B>E G>B [dA,CE]>e | d>c B>E c>B | A/B/A/G/ A/B/c/d/e/f/g/ a3 |g [fA,CEA,CE]>A d>f e3/2 |
+E< Ac/ [f2A,2C2E2] d3/2 |B/ A2 G>A [B4A,4C4E4] | A2 c3/2 |d< [eA,CE]E< eE< c |
+E< Ac< [eA,CE]f< e |d< cE< GB< [dA,CE] |E< dE< BE< G |B< [dA,CE]e< dc< B |
+E< cB/ A/B/A/G/ A/ | B/c/d/e/f/g/a3g[f3/2A,3/2C3/2E3/2A,3/2C3/2E3/2] |A<df<eE<A |c/[f2A,2C2E2]d3/2B/A2 |
+G3/2A/[B4A,4C4E4] |A2 |
+
+
+X:22
+T:Hpps simple chords 27
+M:3/4
+L:1/8
+K:A
+e>d [c2A,2C2E2] A>c | d2 B>d [c2A,2C2E2] | A>c B>G E>d | [c2A,2C2E2] A>c d2 | B>d [cA,CE]<A B<G |
+A2 e>d [c2A,2C2E2] | A>c d2 B>d | [c2A,2C2E2] A>c B>G | E>d [c2A,2C2E2] A>c |
+d2 B>d [cA,CE]<A | B<G A2 A>B | [cA,CE]<e e>a f2 | e>d [c2A,2C2E2] A>c |
+B>G E>d [cA,CE]<e | e>a f2 e>d | [cA,CE]<A B<G A2 | A>B [cA,CE]<e e>a |
+f2 e>d [c2A,2C2E2] | A>c B>G E>d | [cA,CE]<e e>a f2 | e>d [cA,CE]<A B<G |
+A2 |
+
+
+X:23
+T:Hpps simple chords 37
+M:3/4
+L:1/8
+K:A
+D/C/E3/2A3/2 B/c/B/A/ | G<A c<d e<f | e/d/c/B/ A/G/B>CE3/2 |A3/2 B/c/B/A/ G<A | a/f/g/a/ f<e a<c A/ |
+AD/ C<E A>B | c/B/A/G/ A>c d>e | f>e d/c/B/A/ G<B | C<E A>B c/B/A/G/ |
+A>a f/g/a/f/ e>a | c>A Ag<aA/c/ | d/ef3/2a<ea<d |a<ca<BA/G/ |
+B>(3ABc(3dcB(3cde |a3g/f/ g/ae3/2 |a<cA/Ag/a3/2 |A/c/d/ ef>ae3/2 |
+a/d>ac>aB3/2 |A/G<B(3ABc(3dcB |(3cdea>gf/g/ | ae>ac>AA |
+
+
+X:24
+T:Hpps simple chords 38
+M:3/4
+L:1/8
+K:G
+d>c [B2G,2B,2D2] B>A | B>d B>G [c2C,2E,2G,2] | c>B c>e c>A | [GG,B,D]>B d>f g>f | g>e [d2A,2C2E2]>e2 |
+d>c B>A [B2G,2B,2D2] | B>A B>d B>G | [cC,E,G,]>B c>d e>f | g>e [dG,B,D]>B G>B |
+c>A F>A [G2G,2B,2D2] | G>F G2 d>c | [B2G,2B,2D2] B>A B>d | B>G [c2C,2E,2G,2] c>B |
+c>e c>A [GG,B,D]>B | d>f g>f g>e | [d2A,2C2E2]>e2 d>c | B>A [B2G,2B,2D2] B>A |
+B>d B>G [cC,E,G,]>B | c>d e>f g>e | [dG,B,D]>B G>B c>A | F>A [G2G,2B,2D2] G>F |
+G2 B>A [GG,B,D]>B | d>f g>f g>e | [d2A,2C2E2]>e2 d>c | B>A [GG,B,D]>B d>f |
+g>f g>e [d3A,3C3E3] |e d>c B>A | [BG,B,D]>d G>d B>d | G>d [cA,CE]>e A>e |
+c>e A>d [BG,B,D]>d | G>d B>d G>A | [FD,F,A,C]>A D>A F>A | D>d [BG,B,D]>d G>d |
+B>d G>d [cC,E,G,]>B | c>d e>f g>e | [dG,B,D]>B G>B c>A | F>A [G2G,2B,2D2] G>F |
+G2 B>A [GG,B,D]>B | d>f g>f g>e | [d2A,2C2E2]>e2 d>c | B>A [GG,B,D]>B d>f |
+g>f g>e [d3A,3C3E3] |e d>c B>A | [BG,B,D]>d G>d B>d | G>d [cA,CE]>e A>e |
+c>e A>d [BG,B,D]>d | G>d B>d G>A | [FD,F,A,C]>A D>A F>A | D>d [BG,B,D]>d G>d |
+B>d G>d [cC,E,G,]>B | c>d e>f g>e | [dG,B,D]>B G>B c>A | F>A [G2G,2B,2D2] G>F |
+G2 |
+
+
+X:25
+T:Hpps simple chords 42
+M:3/4
+L:1/8
+K:D
+(3ABc [dD,F,A,]>c d>A | F>A d>f [eE,G,B,]>d | c>B A2 g2 | [fD,F,A,]>g a>f g>f | e>d [eE,G,B,]>d c>B |
+A>g f>e [dD,F,A,]>c | d>A F>A d>f | [eE,G,B,]>d c>B A2 | g2 [fD,F,A,]>g a>f |
+b>g e>c [d2D,2F,2A,2] | f2 d2 (3ABc | [dD,F,A,]>c d>A F>A | d>f [eE,G,B,]>d c>B |
+A2 g2 [fD,F,A,]>g | a>f g>f e>d | [eE,G,B,]>d c>B A>g | f>e [dD,F,A,]>c d>A |
+F>A d>f [eE,G,B,]>d | c>B A2 g2 | [fD,F,A,]>g a>f b>g | e>c [d2D,2F,2A,2] f2 |
+d2 f>g [aD,F,A,]>f | a>f d2 g>a | [bG,B,D]>g b>g e2 | f>g [aD,F,A,]>f b>a |
+g>f e>d [eE,G,B,]>d | c>B A>g f>e | [dD,F,A,]>c d>A F>A | d>f [eE,G,B,]>d c>B |
+A2 g2 [fD,F,A,]>g | a>f b>g e>c | [d2D,2F,2A,2] f2 d2 | f>g [aD,F,A,]>f a>f |
+d2 g>a [bG,B,D]>g | b>g e2 f>g | [aD,F,A,]>f b>a g>f | e>d [eE,G,B,]>d c>B |
+A>g f>e [dD,F,A,]>c | d>A F>A d>f | [eE,G,B,]>d c>B A2 | g2 [fD,F,A,]>g a>f |
+b>g e>c [d2D,2F,2A,2] | f2 d2 |
+
+
+X:26
+T:Hpps simple chords 48
+M:3/4
+L:1/8
+K:D
+F>G [A/D,/F,/A,/]B/A/ F>A | d>f a>f [gG,B,D]>a | b>a g>f e>d | [cE,G,B,]>d e>d c>d | B>c [AA,CEG]>B G>A |
+F>F G>^G [A/D,/F,/A,/]B/A/ | F>A d>f a>f | [gG,B,D]>a b>a g>f | e>d [cA,CEG]>b a>g |
+f>A B>c [d2D,2F,2A,2] | f2 d2 F>G | [A/D,/F,/A,/]B/A/ F>A d>f | a>f [gG,B,D]>a b>a |
+g>f e>d [cE,G,B,]>d | e>d c>d B>c | [AA,CEG]>B G>A F>F | G>^G [A/D,/F,/A,/]B/A/ F>A |
+d>f a>f [gG,B,D]>a | b>a g>f e>d | [cA,CEG]>b a>g f>A | B>c [d2D,2F,2A,2] f2 |
+d2 e2 [e/A,/C/E/]f/e/ | c>e a>e c'>e | [bE,^G,B,D]>e g>e a>e | b>e [e/A,/C/E/]f/e/ c>e |
+a>e c'>e [bE,^G,B,D]>e | ^g>e a4 | [a/A,/C/E/G/]b/a/ g>a e>a | c2 [a/D,/F,/A,/]b/a/ f>a |
+d>a A2 [g/G,/B,/D/]a/g/ | G>(3gfgf A>f | [eA,CEG]>A B>c d2 | e2 [e/A,/C/E/]f/e/ c>e |
+a>e c'>e [bE,^G,B,D]>e | ^g>e a>e b>e | [e/A,/C/E/]f/e/ c>e a>e | c'>e [bE,^G,B,D]>e g>e |
+a4 [a/A,/C/E/G/]b/a/ | g>a e>a c2 | [a/D,/F,/A,/]b/a/ f>a d>a | A2 [g/G,/B,/D/]a/g/ G>(3gfg |
+f A>f [eA,CEG]>A | B>c d2 |
+
+
+X:27
+T:Hpps simple chords 51
+M:3/4
+L:1/8
+K:D
+f>e [dD,F,A,]>c d>B | A2 G>F [EG,B,D]>E | F>G A2 B>c | [dD,F,A,]>B A>A d>d | e>c [d2D,2F,2A,2] f2 |
+d2 f>e [dD,F,A,]>c | d>B A2 G>F | [EG,B,D]>E F>G A2 | B>c [dD,F,A,]>B A>A |
+d>d e>c [d2D,2F,2A,2] | f2 d2 f>e | [dD,F,A,]>c d>B A2 | G>F [EG,B,D]>E F>G |
+A2 B>c [dD,F,A,]>B | A>A d>d e>c | [d2D,2F,2A,2] f2 d2 | f>e [dD,F,A,]>c d>B |
+A2 G>F [EG,B,D]>E | F>G A2 B>c | [dD,F,A,]>B A>A d>d | e>c [d2D,2F,2A,2] f2 |
+d2 d>e [f2D,2F,2A,2] | f2 f2 g>f | [gE,G,B,]>f e2 e4 | [d2B,2D2F2] d2 |
+d2 e>d [cA,CEG]>B | A2 A2 B>c | [dD,F,A,]>(3dcBA B>c | d>A [d/D,/F,/A,/](3edcB/A/ |
+B>c d>f [e2E,2G,2B,2] | (3efg a2 (3ABc | [d2D,2F,2A,2] f2 d2 | d>e [f2D,2F,2A,2] f2 |
+f2 g>f [gE,G,B,]>f | e2 e4 | [d2B,2D2F2] d2 d2 | e>d [cA,CEG]>B A2 |
+A2 B>c [dD,F,A,]>(3dcB |A B>c d>A | [d/D,/F,/A,/](3edcB/A/ B>c | d>f [e2E,2G,2B,2] (3efg |
+a2 (3ABc [d2D,2F,2A,2] | f2 d2 |
+
+
+X:28
+T:Hpps simple chords 61
+M:3/4
+L:1/8
+K:D
+d>=c [BG,B,D]>g d>B | A>e =c>A [GG,B,D]>d | B>G F>=c A>F | [GG,B,D]>D E>F G>A | B>=c [^cA,CEG]>d e>d |
+f>e d>=c [BG,B,D]>g | d>B A>e =c>A | [GG,B,D]>d B>G F>=c | A>F [GG,B,D]>D E>F |
+G>A B>=c [^cD,F,A,=C]>d | e>f g2 d>=c | [BG,B,D]>g d>B A>e | =c>A [GG,B,D]>d B>G |
+F>=c A>F [GG,B,D]>D | E>F G>A B>=c | [cA,CEG]>d e>d f>e | d>=c [BG,B,D]>g d>B |
+A>e =c>A [GG,B,D]>d | B>G F>=c A>F | [GG,B,D]>D E>F G>A | B>=c [^cD,F,A,=C]>d e>f |
+g2 A2 [AD,F,A,]>d | c>d e>d c>d | [BE,G,B,]>e ^d>e f>e | ^d>e [gA,CEG]>f e>=d |
+c>B A>G [FD,F,A,]>A | ^G>B A2 A2 | [AD,F,A,]>d c>d e>d | c>d [BE,G,B,]>e ^d>e |
+f>e ^d>e [gA,CEG]>f | e>d c>A B>c | [d2D,2F,2A,2] f2 d2 | A2 [AD,F,A,]>d c>d |
+e>d c>d [BE,G,B,]>e | ^d>e f>e d>e | [gA,CEG]>f e>d c>B | A>G [FD,F,A,]>A ^G>B |
+A2 A2 [AD,F,A,]>d | c>d e>d c>d | [BE,G,B,]>e ^d>e f>e | ^d>e [gA,CEG]>f e>=d |
+c>A B>c [d2D,2F,2A,2] | f2 d2 |
+
+
+X:29
+T:Hpps simple chords 63
+M:3/4
+L:1/8
+K:A
+e2 [AA,CE]>B c>d | e>c a>e [fD,F,A,]>g | a>f e>c a>e | [fD,F,A,]>g a>f e>c | A>c [BB,^DFA]>A G>F |
+E2 (3EFG [AA,CE]>B | c>d e>c a>e | [fD,F,A,]>g a>f e>c | a>e [fD,F,A,]>a g>f |
+e>d c>B [A2A,2C2E2] | c2 A2 e2 | [AA,CE]>B c>d e>c | a>e [fD,F,A,]>g a>f |
+e>c a>e [fD,F,A,]>g | a>f e>c A>c | [BB,^DFA]>A G>F E2 | (3EFG [AA,CE]>B c>d |
+e>c a>e [fD,F,A,]>g | a>f e>c a>e | [fD,F,A,]>a g>f e>d | c>B [A2A,2C2E2] c2 |
+A2 B2 [BE,G,B,D]>c | d>e d>B G>B | [AA,CE]>c e>g a2 | e>g [aD,F,A,]>f d>f |
+e>c A>c [BB,^DFA]>A | G>F E4 | [BE,G,B,D]>c d>e d>B | G>B [AA,CE]>c e>g |
+a2 b>a [gE,G,B,]>b | g>e f>a f>^d | [e2E,2G,2B,2] e2 e2 | B2 [BE,G,B,D]>c d>e |
+d>B G>B [AA,CE]>c | e>g a2 e>g | [aD,F,A,]>f d>f e>c | A>c [BB,^DFA]>A G>F |
+E4 [BE,G,B,D]>c | d>e d>B G>B | [AA,CE]>c e>g a2 | b>a [gE,G,B,]>b g>e |
+f>a f>^d [e2E,2G,2B,2] | e2 e2 |
+
+
+X:30
+T:Jigs simple chords 1
+M:3/4
+L:1/8
+K:D
+f[eA,,] c[cA,CE] [c2A,,2] | [fA,CE][eA,,] c[cA,CE] [c2A,,2] | [fA,CE][eA,,] c[cA,CE] [c2A,,2] | [fA,CE][BB,,] c[BB,DF] [B2E,,2] | [fE,^G,B,D][eA,,] c[cA,CE] [c2A,,2] |
+[fA,CE][eA,,] c[cA,CE] [c2A,,2] | [c/A,/C/E/]d/[eD,,] f[eD,F,A,] [dE,,]c | [BE,^G,B,D][AA,,] c[eA,CE] [a2A,,2] | [fA,CE][eA,,] c[cA,CE] [c2A,,2] |
+[fA,CE][eA,,] c[cA,CE] [c2A,,2] | [fA,CE][eA,,] c[cA,CE] [c2A,,2] | [fA,CE][BB,,] c[BB,DF] [B2E,,2] | [fE,^G,B,D][eA,,] c[cA,CE] [c2A,,2] |
+[fA,CE][eA,,] c[cA,CE] [c2A,,2] | [c/A,/C/E/]d/[eD,,] f[eD,F,A,] [dE,,]c | [BE,^G,B,D][AA,,] c[eA,CE] [aA,,]g | [gA,CE][f2D,,2][fD,F,A,] [FD,,]d |
+[dD,F,A,][AD,,] F[AD,F,A,] [f2D,,2] | [e/D,/F,/A,/]f/[g2G,,2][gG,B,D] [eG,,]c | [dG,B,D][eE,,] f[dE,G,B,] [cA,,]B | [AA,CEG][fD,,] ^e[fD,F,A,] [dD,,]c |
+[dD,F,A,][AD,,] F[AD,F,A,] [fD,,]e | [fD,F,A,][gG,,] f[gG,B,D] [AA,,]B | [cA,CEG][d2D,,2][D,F,A,] [d2D,,2] | [eD,F,A,][f2D,,2][fD,F,A,] [FD,,]d |
+[dD,F,A,][AD,,] F[AD,F,A,] [f2D,,2] | [e/D,/F,/A,/]f/[g2G,,2][gG,B,D] [eG,,]c | [dG,B,D][eE,,] f[dE,G,B,] [cA,,]B | [AA,CEG][fD,,] ^e[fD,F,A,] [dD,,]c |
+[dD,F,A,][AD,,] F[AD,F,A,] [fD,,]e | [fD,F,A,][gG,,] f[gG,B,D] [AA,,]B | [cA,CEG][d2D,,2][D,F,A,] [d2D,,2] |
+
+
+X:31
+T:Jigs simple chords 3
+M:3/4
+L:1/8
+K:D
+A[dD,F,A,] ef fe | d[BG,B,D] dB AF | D[DD,F,A,] FA B2 | A[cE,G,B,] ee e2 | A[dD,F,A,] ef fe |
+d[BG,B,D] dB AF | D[DD,F,A,] FA B2 | A[AA,CEG] dd d2 | A[dD,F,A,] ef fe |
+d[BG,B,D] dB AF | D[DD,F,A,] FA B2 | A[cE,G,B,] ee e2 | A[dD,F,A,] ef fe |
+d[BG,B,D] dB AF | D[DD,F,A,] FA B2 | A[AA,CEG] dd d2 | e[fD,F,A,] ga ag |
+f[gG,B,D] ab ba | g[fD,F,A,] ga ag | f[gE,G,B,] fg e2 | g[fD,F,A,] ga ag |
+f[gG,B,D] ab ba | g[fD,F,A,] ga ef | g[fD,F,A,] dd d2 | e[fD,F,A,] ga ag |
+f[gG,B,D] ab ba | g[fD,F,A,] ga ag | f[gE,G,B,] fg e2 | g[fD,F,A,] ga ag |
+f[gG,B,D] ab ba | g[fD,F,A,] ga ef | g[fD,F,A,] dd d2 |
+
+
+X:32
+T:Jigs simple chords 8
+M:3/4
+L:1/8
+K:A
+c/d/[e2A,2C2E2]> e2c | A[eA,CE] cA Bc | d2<[e2A,2C2E2] ec | A[BD,F,A,] cd cB | A2<[e2A,2C2E2] ec |
+A[eA,CE] cA Bc | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | c/d/[e2A,2C2E2]> e2c |
+A[eA,CE] cA Bc | d2<[e2A,2C2E2] ec | A[BD,F,A,] cd cB | A2<[e2A,2C2E2] ec |
+A[eA,CE] cA Bc | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | c/d/[e2A,2C2E2]> e2c |
+A[eA,CE] cA Bc | d2<[e2A,2C2E2] ec | A[BD,F,A,] cd cB | A2<[e2A,2C2E2] ec |
+A[eA,CE] cA Bc | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | c/d/[e2A,2C2E2]> e2c |
+A[eA,CE] cA Bc | d2<[e2A,2C2E2] ec | A[BD,F,A,] cd cB | A2<[e2A,2C2E2] ec |
+A[eA,CE] cA Bc | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | e[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[AA,CE] ce Ac | e[BB,DF] cd c2 | B[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | e[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[AA,CE] ce Ac | e[BB,DF] cd c2 | B[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | e[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[AA,CE] ce Ac | e[BB,DF] cd c2 | B[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | e[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[AA,CE] ce Ac | e[BB,DF] cd c2 | B[AA,CE] ce Ac |
+e[AD,F,A,] df Ad | f[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | e[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee ed | c[BD,F,A,] cd cB | A[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee fe | d[cE,G,B,D] dB A2 | e[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee ed | c[BD,F,A,] cd cB | A[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee fe | d[cE,G,B,D] dB A2 | e[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee ed | c[BD,F,A,] cd cB | A[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee fe | d[cE,G,B,D] dB A2 | e[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee ed | c[BD,F,A,] cd cB | A[aA,CE] ee ed |
+c[aA,CE] ee ed | c[aA,CE] ee fe | d[cE,G,B,D] dB A2 | A/B/[cA,CE] Ac cA |
+c[dD,F,A,] Bd dB | d[cA,CE] Ac cA | c[B=G,B,D] GB BG | B[cA,CE] Ac cA |
+c[dE,G,B,D] Bd dB | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | A/B/[cA,CE] Ac cA |
+c[dD,F,A,] Bd dB | d[cA,CE] Ac cA | c[B=G,B,D] GB BG | B[cA,CE] Ac cA |
+c[dE,G,B,D] Bd dB | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | A/B/[cA,CE] Ac cA |
+c[dD,F,A,] Bd dB | d[cA,CE] Ac cA | c[B=G,B,D] GB BG | B[cA,CE] Ac cA |
+c[dE,G,B,D] Bd dB | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 | A/B/[cA,CE] Ac cA |
+c[dD,F,A,] Bd dB | d[cA,CE] Ac cA | c[B=G,B,D] GB BG | B[cA,CE] Ac cA |
+c[dE,G,B,D] Bd dB | d[eA,CE]<ae fe | d[cE,G,B,D] dB A2 |
+
+
+X:33
+T:Jigs simple chords 13
+M:3/4
+L:1/8
+K:Em
+B/A/[G3G,3B,3D3] g2 | e[dGB,D] BG AF | D2<[G2G,2B,2D2] g2 | e[dG,B,D] BG A2 | B2<[G2E,2G,2B,2] g2 |
+e[dG,B,D] BG GA | B[cC,E,G,] de dc | B[cDFA,C] BA G2 | B/A/[G3G,3B,3D3] g2 |
+e[dGB,D] BG AF | D2<[G2G,2B,2D2] g2 | e[dG,B,D] BG A2 | B2<[G2E,2G,2B,2] g2 |
+e[dG,B,D] BG GA | B[cC,E,G,] de dc | B[cDFA,C] BA G2 | B[eE,G,B,] Be gb |
+g[eE,G,B,] Be gb | g[eE,G,B,] Be g2 | a[bA,CE] ag ag | f[eE,G,B,] Be gb |
+g[eE,G,B,] Be g2 | a[bACE] ag ag | f2<[e2E,2G,2B,2] e2 | B[eE,G,B,] Be gb |
+g[eE,G,B,] Be gb | g[eE,G,B,] Be g2 | a[bA,CE] ag ag | f[eE,G,B,] Be gb |
+g[eE,G,B,] Be g2 | a[bACE] ag ag | f2<[e2E,2G,2B,2] d2 |
+
+
+X:34
+T:Jigs simple chords 21
+M:3/4
+L:1/8
+K:A
+c[EA,CE] Ac e2 | f[eA,CE] cA a2 | f[eA,CE] cA EA | c[dD,F,A,] cd B2 | c[EA,CE] Ac e2 |
+f[eA,CE] cA a2 | f[eA,CE] cA EA | c2<[B2E,2G,2B,2D2] A2 | c[EA,CE] Ac e2 |
+f[eA,CE] cA a2 | f[eA,CE] cA EA | c[dD,F,A,] cd B2 | c[EA,CE] Ac e2 |
+f[eA,CE] cA a2 | f[eA,CE] cA EA | c2<[B2E,2G,2B,2D2] A2 | e[eA,CE] fe a2 |
+g[bD,F,A,] ag fg | a[eA,CE] cA EA | c[dE,G,B,D] cd B2 | e[eA,CE] fe a2 |
+g[bD,F,A,] ag fg | a[eA,CE] cA EA | c2<[B2E,2G,2B,2D2] A2 | e[eA,CE] fe a2 |
+g[bD,F,A,] ag fg | a[eA,CE] cA EA | c[dE,G,B,D] cd B2 | e[eA,CE] fe a2 |
+g[bD,F,A,] ag fg | a[eA,CE] cA EA | c2<[B2E,2G,2B,2D2] A2 |
+
+
+X:35
+T:Jigs simple chords 36
+M:3/4
+L:1/8
+K:Bb
+Bc [dB,DF]B FD | FB [dB,DF]B FD | FE [DB,DF]F Bd | cB [AE,G,B,]G ^FG2 |A [aF,A,CE]A Aa |
+Aa [g4F,4A,4C4E4] | ag [fF,A,CE]=e f_e | de2< [d2F,2A,2C2E2]d | Bc [dB,DF]B FD |
+FB [dB,DF]B FD | FE [DB,DF]F Bd | cB [AE,G,B,]G ^FG2 |A [aF,A,CE]A Aa |
+Aa [g4F,4A,4C4E4] | AG [FF,A,CE]A ce | cA2< [B2B,2D2F2]B | FE [DB,DF]F AB |
+FB2< [d2B,2D2F2]d | ^c=c [BB,DF]A Bg | fg [f5B,5D5F5] |b [a4F,4A,4C4E4] |
+_a=a [g4F,4A,4C4E4] | ag [fF,A,CE]=e f_e | de [d4B,4D4F4] | FE [DB,DF]F AB |
+FB2< [d2B,2D2F2]d | ^c=c [BB,DF]A Bg | fg [f5B,5D5F5] |b [a4F,4A,4C4E4] |
+_a=a [g4F,4A,4C4E4] | AG [FF,A,CE]A ce | cA2< [B2B,2D2F2]B |
+
+
+X:36
+T:Jigs simple chords 37
+M:3/4
+L:1/8
+K:Em
+E[AA,CE] BA c2 | d[eA,CE] dc B2 | A[GG,B,D] AG B2 | c[dG,B,D] ge dB | G[AA,CE] BA c2 |
+d[eA,CE] dc Bc | d[e2A,2C2E2]A AB | ^G[A5A,5C5E5] | E[AA,CE] BA c2 |
+d[eA,CE] dc B2 | A[GG,B,D] AG B2 | c[dG,B,D] ge dB | G[AA,CE] BA c2 |
+d[eA,CE] dc Bc | d[e2A,2C2E2]A AB | ^G[A5A,5C5E5] | B[c2C,2E,2G,2]e g2 |
+a[gC,E,G,] ec ge | c[G2G,2B,2D2]B d2 | e[dG,B,D] ge dB | G[c2C,2E,2G,2]e g2 |
+a[gC,E,G,] ec de | ^g[a2A,2C2E2]A AB | ^G[A5A,5C5E5] | B[c2C,2E,2G,2]e g2 |
+a[gC,E,G,] ec ge | c[G2G,2B,2D2]B d2 | e[dG,B,D] ge dB | G[c2C,2E,2G,2]e g2 |
+a[gC,E,G,] ec de | ^g[a2A,2C2E2]A AB | ^G[A5A,5C5E5] |
+
+
+X:37
+T:Jigs simple chords 43
+M:3/4
+L:1/8
+K:G
+B[BE,G,B,] ef gf | e[bE,G,B,] ef gf | e[fB,^DFA] dB fd | B[bB,^DFA] c'b ag | f[BE,G,B,] ef gf |
+e[bE,G,B,] ef gf | e2<[b2B,2^D2F2A2] b2 | a[gE,G,B,] ee e2 | B[BE,G,B,] ef gf |
+e[bE,G,B,] ef gf | e[fB,^DFA] dB fd | B[bB,^DFA] c'b ag | f[BE,G,B,] ef gf |
+e[bE,G,B,] ef gf | e2<[b2B,2^D2F2A2] b2 | a[gE,G,B,] ee2< e2 |[d3E,3G,3B,3] c3 |
+[BG,B,D] dg bg | d[cD,F,A,C] df af | d[BG,B,D] dg bg | d2<[d2E,2G,2B,2] c3 |
+[BG,B,D] dg bg | d[cD,F,A,C] df af | d[gG,B,D] db2< g2 |[d3G,3B,3D3] c3 |
+[BG,B,D] dg bg | d[cD,F,A,C] df af | d[BG,B,D] dg bg | d2<[d2E,2G,2B,2] c3 |
+[BG,B,D] dg bg | d[cD,F,A,C] df af | d[gG,B,D] db2< g2 |
+
+
+X:38
+T:Jigs simple chords 48
+M:3/4
+L:1/8
+K:D
+B/c/[dD,F,A,] FF AG | F[DD,F,A,] FA AF | A[BE,G,B,] EE GE | E[BG,B,D] dB AF | A[dD,F,A,] FF AG |
+F[DD,F,A,] FA AF | A[BG,B,D] cd ef | g[fD,F,A,] dd d2 | B/c/[dD,F,A,] FF AG |
+F[DD,F,A,] FA AF | A[BE,G,B,] EE GE | E[BG,B,D] dB AF | A[dD,F,A,] FF AG |
+F[DD,F,A,] FA AF | A[BG,B,D] cd ef | g[fD,F,A,] dd d2 | B/c/[dD,F,A,] fd ce |
+c[BB,DF] dB AG | F[BE,G,B,] EE GE | E[BG,B,D] dB AF | A[dD,F,A,] fd ce |
+c[BB,DF] dB AF | A[BG,B,D] cd ef | g[fD,F,A,] dd d2 | B/c/[dD,F,A,] fd ce |
+c[BB,DF] dB AG | F[BE,G,B,] EE GE | E[BG,B,D] dB AF | A[dD,F,A,] fd ce |
+c[BB,DF] dB AF | A[BG,B,D] cd ef | g[fD,F,A,] dd d2 |
+
+
+X:39
+T:Jigs simple chords 55
+M:3/4
+L:1/8
+K:D
+A[dD,F,A,] AF DF | A[dD,F,A,] ed cB | A[dD,F,A,] cd ef | g[fB,DF] df ec | A[dD,F,A,] AF DF |
+A[dD,F,A,] ed cB | A[dB,DF] cd ef | g[fD,F,A,] ed d2 | A[dD,F,A,] AF DF |
+A[dD,F,A,] ed cB | A[dD,F,A,] cd ef | g[fB,DF] df ec | A[dD,F,A,] AF DF |
+A[dD,F,A,] ed cB | A[dB,DF] cd ef | g[fD,F,A,] ed d2 | e[fD,F,A,] df fg |
+a[eA,CE] cA AB | c[dB,DF] cd Be | d[cA,CEG] BA A2 | =c[BG,B,D] GB B^c |
+d[AD,F,A,] FD DF | A[dD,F,A,] cd ef | g[fD,F,A,] ed d2 | e[fD,F,A,] df fg |
+a[eA,CE] cA AB | c[dB,DF] cd Be | d[cA,CEG] BA A2 | =c[BG,B,D] GB B^c |
+d[AD,F,A,] FD DF | A[dD,F,A,] cd ef | g[fD,F,A,] ed d2 |
+
+
+X:40
+T:Jigs simple chords 60
+M:3/4
+L:1/8
+K:C#dor
+d[eC,E,G,] de G2 | G[A2F,2A,2C2]A G2 | G[eC,E,G,] de G2 | G[A2G,2B,2D2F2]B ^c2 | d[eC,E,G,] de G2 |
+G[A2F,2A,2C2]A G2 | G[eC,E,G,] de G2 | G[A2G,2B,2D2F2]B ^c2 | d[e2C,2E,2G,2]^c d2 |
+B[^c2=C,2E,2G,2]^c BA | G[e2C,2E,2G,2]^c d2 | d[e2C,2E,2G,2]^f2< g2 |[a2F,2A,2C2]^f g2 |
+e[^f2G,2B,2D2=F2]d2< e2 |[eC,E,G,] de G2 | G[A2G,2B,2D2F2]B ^c2 |
+
+
+X:41
+T:Jigs simple chords 63
+M:3/4
+L:1/8
+K:G
+ef [aG,B,D]g dB2 |c [eG,B,D]d BG2 |B [AA,CE]G Ac2 |A [E5A,5C5E5] |G [FD,F,A,]A cf2 |
+e [d2D,2F,2A,2] cB2 |^A [BG,B,D]A Be2 |B [d4D,4F,4A,4] | ef [aG,B,D]g dB2 |
+c [eG,B,D]d BG2 |B [AA,CE]G Ac2 |A [E5A,5C5E5] |G [FD,F,A,]A cf2 |
+e [d2D,2F,2A,2C2] cB2 |A [ED,F,A,C]=F ^FB2 |A [G6G,6B,6D6] | [d2G,2B,2D2] GG |
+AB [A2G,2B,2D2] G2<d2 | [e2A,2C2E2] AA | Bc [B2A,2C2E2] A2<e2 | [f2D,2F,2A,2] cc |
+de [f2D,2F,2A,2] f2<f2 | [e2E,2G,2B,2] BB | cd [e2E,2G,2B,2] e2<e2 | [d2G,2B,2D2] GG |
+AB [A2G,2B,2D2] G2<d2 | [e2A,2C2E2] AA | Bc [B2A,2C2E2] A2<e2 | [f2D,2F,2A,2] cc |
+de [f2D,2F,2A,2] f2<f2 | [fD,F,A,C]e dc | BA [G6G,6B,6D6] | [G2C,2E,2G,2] AG |
+F=F [E2C,2E,2G,2] Gc2 |e [dD,=F,A,]c df2 |d [A5D,5=F,5A,5] |c [B2G,2B,2D2] ^AB2 |
+c [d2G,2B,2D2] ^cd2 |^d [eC,E,G,]d ea2 |e2< [g2G,2B,2D2]E | =F^F [G2C,2E,2G,2] AG |
+F=F [E2C,2E,2G,2] Gc2 |e [dD,=F,A,]c df2 |d [A5D,5=F,5A,5] |c [B2G,2B,2D2] ^AB2 |
+d [a2G,2B,2D2] gA2 |B2< [c2C,2E,2G,2]e3 | [c4C,4E,4G,4] |
+
+
+X:42
+T:Jigs simple chords 68
+M:3/4
+L:1/8
+K:Em
+d[BG,B,D] dd gd | d[eC,E,G,] fg dB | G[A2A,2^C2E2G2]A a2 | g[fD,F,A,] dd d2 | c[BG,B,D] dd gd |
+d[eC,E,G,] fg dB | G[AA,CE] Bc de | f[g5D,5F,5A,5C5] | d[BG,B,D] dd gd |
+d[eC,E,G,] fg dB | G[A2A,2^C2E2G2]A a2 | g[fD,F,A,] dd d2 | c[BG,B,D] dd gd |
+d[eC,E,G,] fg dB | G[AA,CE] Bc de | f[g5D,5F,5A,5C5] | f[eE,G,B,] fg BB |
+B[eE,G,B,] fg B2 | B[eE,G,B,] fg a2 | g[fD,F,A,] dd de | f[g2G,2B,2D2]g de |
+f[gG,B,D] fe dc | B[AA,CE] Bc de | f[g5G,5B,5D5] | f[eE,G,B,] fg BB |
+B[eE,G,B,] fg B2 | B[eE,G,B,] fg a2 | g[fD,F,A,] dd de | f[g2G,2B,2D2]g de |
+f[gG,B,D] fe dc | B[AA,CE] Bc de | f[g5G,5B,5D5] |
+
+
+X:43
+T:Jigs simple chords 80
+M:3/4
+L:1/8
+K:G
+[d2D,2F,2A,2C2] c[BG,B,D] dd | GB B[DG,B,D] GG | B,D D[B,G,B,D] DD | GB B[GD,F,A,] FF | F2>[D2D,2F,2A,2] FF |
+FA A[AD,F,A,] cc | cd d[dD,F,A,] ff | fd d[cG,B,D] BB | B2>[B2G,2B,2D2] dd |
+GB B[DG,B,D] GG | B,D D[B,G,B,D] DD | GB B[GD,F,A,] FF | F2>[D2D,2F,2A,2] FF |
+FA A[AD,F,A,] cc | cd d[dD,F,A,] ff | fe f[aG,B,D] gg | g2>[b2G,2B,2D2] gg |
+dg g[bG,B,D] gg | ed d[bG,B,D] gg | dg g[gD,F,A,] ff | f2>[a2D,2F,2A,2] ff |
+df f[aD,F,A,] ff | fe d[aD,F,A,] ff | df f[eG,B,D] dd | d2>[b2G,2B,2D2] gg |
+dg g[bG,B,D] gg | ed d[bG,B,D] gg | dg g[gC,E,G,] ee | e2>[e2C,2E,2G,2] cc |
+Gc c[DG,B,D] GG | Bd d[dD,F,A,] ff | fe f[aG,B,D] gg | g3 |
+
+
+X:44
+T:Jigs simple chords 85
+M:3/4
+L:1/8
+K:G
+FE [DG,B,D]E FG | AB [d2G,2B,2D2] d2<B2 | [c2A,2C2E2] c2<A2 | [d2G,2B,2D2] d2<B2 | [DG,B,D]E FG |
+AB [d2G,2B,2D2] d2<B2 | [dG,B,D]^c d=c | AF2< [G2G,2B,2D2]G3 | [DG,B,D]E FG |
+AB [d2G,2B,2D2] d2<B2 | [c2A,2C2E2] c2<A2 | [d2G,2B,2D2] d2<B2 | [DG,B,D]E FG |
+AB [d2G,2B,2D2] d2<B2 | [dG,B,D]^c d=c | AF2< [G2G,2B,2D2]G3 | [e3C,3E,3G,3]c3 |
+[dG,B,D]^c d2<B2 | [cA,CE]B cD | FA [d2D,2F,2A,2C2] cB2 |B2< [e2C,2E,2G,2]c3 |
+[dG,B,D]^c d2<B2 | [dG,B,D]e dc | BA2< [G2G,2B,2D2]G3 | [e3C,3E,3G,3]c3 |
+[dG,B,D]^c d2<B2 | [cA,CE]B cD | FA [d2D,2F,2A,2C2] cB2 |B2< [e2C,2E,2G,2]c3 |
+[dG,B,D]^c d2<B2 | [dG,B,D]e dc | BA2< [G2G,2B,2D2]G3 |
+
+
+X:45
+T:Jigs simple chords 90
+M:3/4
+L:1/8
+K:A
+c/d/[eA,CE] fe dc | B[A2A,2C2E2]c E2 | c[cA,CE] ^Bc ed | c2<[B2E,2G,2B,2D2] Bc | d[eA,CE] fe dc |
+B[A2A,2C2E2]c Ee | f[gE,G,B,D] fe dc | B2<[A2A,2C2E2] A2 | c/d/[eA,CE] fe dc |
+B[A2A,2C2E2]c E2 | c[cA,CE] ^Bc ed | c2<[B2E,2G,2B,2D2] Bc | d[eA,CE] fe dc |
+B[A2A,2C2E2]c Ee | f[gE,G,B,D] fe dc | B2<[A2A,2C2E2] A2 | c/d/[e2A,2C2E2]c a2 |
+g[f2D,2F,2A,2]d b2 | a[g2E,2G,2B,2D2]B Bd | f2<[e2A,2C2E2] ec | d[e2A,2C2E2]c a2 |
+g[f2D,2F,2A,2]d b2 | a[gE,G,B,D] fe dc | B2<[A2A,2C2E2] A2 | c/d/[e2A,2C2E2]c a2 |
+g[f2D,2F,2A,2]d b2 | a[g2E,2G,2B,2D2]B Bd | f2<[e2A,2C2E2] ec | d[e2A,2C2E2]c a2 |
+g[f2D,2F,2A,2]d b2 | a[gE,G,B,D] fe dc | B2<[A2A,2C2E2] A2 |
+
+
+X:46
+T:Jigs simple chords 93
+M:3/4
+L:1/8
+K:C
+g[c'2C,2E,2G,2]c' c2 | d[e2C,2E,2G,2]f g2 | a[_b2B,2D2F2]b d2 | e[f2_B,2D2F2]g a2 | b[c'2C,2E,2G,2]c' c2 |
+d[e2C,2E,2G,2]f g2 | g[aF,A,C] bc' d'2 | b2<[c'2C,2E,2G,2] c'2 | g[c'2C,2E,2G,2]c' c2 |
+d[e2C,2E,2G,2]f g2 | a[_b2B,2D2F2]b d2 | e[f2_B,2D2F2]g a2 | b[c'2C,2E,2G,2]c' c2 |
+d[e2C,2E,2G,2]f g2 | g[aF,A,C] bc' d'2 | b2<[c'2C,2E,2G,2] c'2 | c/d/[e2C,2E,2G,2]e cd |
+e[f2F,2A,2C2]e d2 | c[B2D,2F,2A,2]A G2 | A[B2G,2B,2D2]c d2 | ^d[e2A,2C2E2]e c=d |
+e[f2D,2F,2A,2]e d2 | c[BG,B,DF] AG A2 | B2<[c2C,2E,2G,2] c2 | c/d/[e2C,2E,2G,2]e cd |
+e[f2F,2A,2C2]e d2 | c[B2D,2F,2A,2]A G2 | A[B2G,2B,2D2]c d2 | ^d[e2A,2C2E2]e c=d |
+e[f2D,2F,2A,2]e d2 | c[BG,B,DF] AG A2 | B2<[c2C,2E,2G,2] c2 |
+
+
+X:47
+T:Jigs simple chords 103
+M:3/4
+L:1/8
+K:G
+B/A/[G2G,2B,2D2]G GA | B[A2D,2F,2A,2C2]A AB | c[d2G,2B,2D2]B c2 | A[B2G2B,2D2]G AG | E[G2G,2B,2D2]G GA |
+B[A2A,2C2E2]A AB | c[dG,B,D] cB cB | A2<[G2G,2B,2D2] G2 | B/A/[G2G,2B,2D2]G GA |
+B[A2D,2F,2A,2C2]A AB | c[d2G,2B,2D2]B c2 | A[B2G2B,2D2]G AG | E[G2G,2B,2D2]G GA |
+B[A2A,2C2E2]A AB | c[dG,B,D] cB cB | A2<[G2G,2B,2D2] G2 | B/A/[G2G,2B,2D2]G GA |
+B[A2D,2F,2A,2C2]A AB | c[d2G,2B,2D2]B c2 | A[B2G2B,2D2]G AG | E[G2G,2B,2D2]G GA |
+B[A2A,2C2E2]A AB | c[dG,B,D] cB cB | A2<[G2G,2B,2D2] G2 | B/A/[G2G,2B,2D2]G GA |
+B[A2D,2F,2A,2C2]A AB | c[d2G,2B,2D2]B c2 | A[B2G2B,2D2]G AG | E[G2G,2B,2D2]G GA |
+B[A2A,2C2E2]A AB | c[dG,B,D] cB cB | A2<[G2G,2B,2D2] G2 | d[g2G,2B,2D2]g ga |
+g[f2D,2F,2A,2]f fg | f[e2C,2E,2G,2]d ef | g[a2D,2F,2A,2C2]g fe | d[g2G,2B,2D2]g ga |
+g[f2D,2F,2A,2]f fg | f[eE,G,B,] fg fg | a2<[g2G,2B,2D2] g2 | d[g2G,2B,2D2]g ga |
+g[f2D,2F,2A,2]f fg | f[e2C,2E,2G,2]d ef | g[a2D,2F,2A,2C2]g fe | d2<[g2G,2B,2D2] Bc |
+d2<[e2C,2E,2G,2] AB | c[dD,F,A,C] cB AG | F2<[G2G,2B,2D2] G2 |
+
+
+X:48
+T:Jigs simple chords 111
+M:3/4
+L:1/8
+K:C
+c/d/[eA,CE] AA c2 | d[eA,CE] ag e2 | d[eA,CE] AA c2 | d[BG,B,D] GG Gc | d[eA,CE] AA c2 |
+d[eA,CE] ag e2 | d[eF,A,C] AA BG | G2<[A2A,2C2E2] A2 | c/d/[eA,CE] AA c2 |
+d[eA,CE] ag e2 | d[eA,CE] AA c2 | d[BG,B,D] GG Gc | d[eA,CE] AA c2 |
+d[eA,CE] ag e2 | d[eF,A,C] AA BG | G2<[A2A,2C2E2] A3 |[EA,CE] AA Ac |
+c[GG,B,D] BB Be | e[EA,CE] AA AB | c[BG,B,D] GG2< G2 |[EA,CE] AA Ac |
+c[GG,B,D] BB Be | e[cF,A,C] AA BG | G2<[A2A,2C2E2] A3 |[EA,CE] AA Ac |
+c[GG,B,D] BB Be | e[EA,CE] AA AB | c[BG,B,D] GG2< G2 |[EA,CE] AA Ac |
+c[GG,B,D] BB Be | e[cF,A,C] AA BG | G2<[A2A,2C2E2] A3 |[E/A/][G/B/] [AA,CEA,CEc][Ec] [Ec][A2e2] |
+[BG] [cA,CEA][ec] [dB][c2A2] |[BG] [AA,CEc][Ec] [Ec][A2e2] |[BG] [dA,CEG][Bd] [Bd][dB] | [Ae][BG] [AA,CEc][Ec] [Ec][A2e2] |
+[BG] [cA,CEA][ec] [dB][c2A2] |[BG] [AA,CEc][Ec] [Ec][Gd] | [DB][D2B2]< [E2A,2C2E2c2][E2c2] |[E/A/][G/B/] [AA,CEc][Ec] [Ec][A2e2] |
+[BG] [cA,CEA][ec] [dB][c2A2] |[BG] [AA,CEc][Ec] [Ec][A2e2] |[BG] [dA,CEG][Bd] [Bd][dB] | [Ae][BG] [AA,CEc][Ec] [Ec][A2e2] |
+[BG] [cA,CEA][ec] [dB][c2A2] |[BG] [AA,CEc][Ec] [Ec][Gd] | [DB][D2B2]< [E2A,2C2E2c2][E2c2] |[AA] [AA,CEc][ce] [ce][ce] |
+[eA][eA] [BA,CEd][dG] [dG][dG] | [gB][gB] [AA,CEc][ce] [ce][dF] | [eG][fA] [gA,CEB][Bd] [B2d2]<[B2d2] | [AA,CEc][ce] [ce][ce] |
+[FA][FA] [BA,CEd][dG] [dG][dG] | [BB][BB] [AA,CEF][Fc] [Fc][Gd] | [DB][D2B2]< [E2A,2C2E2c2][E2c2] |[AA] [AA,CEc][ce] [ce][ce] |
+[eA][eA] [BA,CEd][dG] [dG][dG] | [gB][gB] [AA,CEc][ce] [ce][dF] | [eG][fA] [gA,CEB][Bd] [B2d2]<[B2d2] | [AA,CEc][ce] [ce][ce] |
+[FA][FA] [BA,CEd][dG] [dG][dG] | [BB][BB] [AA,CEF][Fc] [Fc][Gd] | [DB][D2B2]< [E2A,2C2E2c2][E2c2] |
+
+
+X:49
+T:Jigs simple chords 116
+M:3/4
+L:1/8
+K:Em
+d[dG,B,D] BG GB | d[eC,E,G,] fg g2 | e[dG,B,D] BG GA | B[A5A,5C5E5] | d[dG,B,D] BG GB |
+d[eC,E,G,] fg g2 | e[dG,B,D] BG AB | A[G5G,5B,5D5] | d[dG,B,D] BG GB |
+d[eC,E,G,] fg g2 | e[dG,B,D] BG GA | B[A5A,5C5E5] | d[dG,B,D] BG GB |
+d[eC,E,G,] fg g2 | e[dG,B,D] BG AB | A[G5G,5B,5D5] | B/c/[d2G,2B,2D2]g gf |
+g[e2C,2E,2G,2]g gf | g[dG,B,D] BG GA | B[A5A,5C5E5] | d[dG,B,D] BG GB |
+d[eC,E,G,] fg g2 | e[dG,B,D] BG AB | A[G5G,5B,5D5] | B/c/[d2G,2B,2D2]g gf |
+g[e2C,2E,2G,2]g gf | g[dG,B,D] BG GA | B[A5A,5C5E5] | d[dG,B,D] BG GB |
+d[eC,E,G,] fg g2 | e[dG,B,D] BG AB | A[G5G,5B,5D5] |
+
+
+X:50
+T:Jigs simple chords 129
+M:3/4
+L:1/8
+K:G
+[d2D,2F,2A,2C2]>[g2G,2B,2D2] dB | GB d[g2G,2B,2D2]f | a2 g[f2A,2C2E2]e | c2 A2<[E2A,2C2E2] | Ee ^d[=dD,F,A,] cA |
+FA c2<[f2D,2F,2A,2] | e2>[d2D,2F,2A,2C2] ^cd | ^de ^c[BG,B,=D] =c^c | de f[gG,B,D] dB |
+GB d[g2G,2B,2D2]f | a2 g[f2A,2C2E2]e | c2 A2<[E2A,2C2E2] | Ee ^d[=dD,F,A,] cA |
+FA c2<[f2D,2F,2A,2] | e2>[d2D,2F,2A,2C2] ^cd | ^de f2<[g2G,2B,2=D2] | g2>[B2G,2B,2D2] c^c |
+d2 e[d2G,2B,2D2]B | G2 G[eC,E,G,] ^de | c2 e2<[d2G,2B,2D2] | d2>[B2G,2B,2D2] c^c |
+d2 e[d2G,2B,2D2]B | G2 B[A2A,2^C2E2G2]g | f2 e[fD,F,A,C] ed | cB A[BG,B,D] c^c |
+d2 e[d2G,2B,2D2]B | G2 G[eC,E,G,] ^de | c2 e2<[d2G,2B,2D2] | d2>[e2C,2E,2G,2] gc' |
+b2 a[dG,B,D] gb | a2 g[fD,F,A,C] ed | cB A2<[G2G,2B,2D2] | G2 d[E4C,4E,4G,4] |
+D C2<[E2C,2E,2G,2] | E3[F4G,4B,4D4=F4] |E D[F4G,4B,4D4=F4] |E F[GC,E,G,] ed |
+cB A[BG,B,D=F] ^AB | f2 B[^A2G,2B,2D2=F2]B | f2 B[AC,E,G,] ^GA | ed c[E4C,4E,4G,4] |
+D C2<[E2C,2E,2G,2] | E3[F4G,4B,4D4=F4] |E D[F4G,4B,4D4=F4] |E F[GC,E,G,] ed |
+cB A[BG,B,D=F] ^AB | f2 B[B2G,2B,2D2=F2]^f | e2 d2<[c2C,2E,2G,2] |
+
+
+X:51
+T:Jigs simple chords 141
+M:3/4
+L:1/8
+K:G
+d/c/[BG,B,D] GG DG | G[BG,B,D] GB dc | B[cA,CE] AA EA | A[cD,F,A,C] Ac ed | c[BG,B,D] GG DG |
+G[BG,B,D] GB dc | B[cC,E,G,] Bc Ad | c[BG,B,D] GG G2 | d/c/[BG,B,D] GG DG |
+G[BG,B,D] GB dc | B[cA,CE] AA EA | A[cD,F,A,C] Ac ed | c[BG,B,D] GG DG |
+G[BG,B,D] GB dc | B[cC,E,G,] Bc Ad | c[BG,B,D] GG G2 | g[gG,B,D] dg gd |
+g[gG,B,D] dg ba | g[fD,F,A,C] df fd | f[fD,F,A,C] df ag | f[eC,E,G,] gg dg |
+g[cDFA,C] gg Bg | B[cC,E,G,] Bc Ad | c[BG,B,D] GG G2 | g[gG,B,D] dg gd |
+g[gG,B,D] dg ba | g[fD,F,A,C] df fd | f[fD,F,A,C] df ag | f[eC,E,G,] gg dg |
+g[cDFA,C] gg Bg | B[cC,E,G,] Bc Ad | c[BG,B,D] GG G2 |
+
+
+X:52
+T:Jigs simple chords 153
+M:3/4
+L:1/8
+K:D
+(3ABc[dD,F,A,] cd f2 | e/f/[gG,B,D] fg B2 | e/d/[cA,CEG] BA g2 | e[f5A5D,5F,5A,5] | f/g/[aD,F,A,] ba fd |
+A[BB,DF] cd2< f2 |[eE,^G,B,D] fe Bc | d[e5c5A,5C5E5G5] | (3ABc[dD,F,A,] cd f2 |
+e/f/[gG,B,D] fg B2 | e/d/[cA,CEG] BA g2 | e[f5A5D,5F,5A,5] | f/g/[aD,F,A,] fd A2 |
+e/f/[gG,B,D] fg B2 | e/d/[AA,CEG] ge Bc | A2<[d2D,2F,2A,2] d3 |[c4A,4C4E4G4]B |
+A[g4A4A,4C4E4G4]e | c[d4D,4F,4A,4]B | A[f4A4D,4F,4A,4]e | d[c2A,2C2E2G2]c cB |
+A[g2A,2C2E2G2]g2< g2 |[d2D,2F,2A,2]d dB | A[f2D,2F,2A,2]A2fA2< f2 A3 |[c4A,4C4E4G4]B |
+A[g4A4A,4C4E4G4]e | c[d4D,4F,4A,4]B | A[f4A4D,4F,4A,4]e | d[g4G,4B,4D4]a |
+b[f4D,4F,4A,4]g | a[eE,G,B,] fg B2 | c2<[d2D,2F,2A,2] d2 |
+
+
+X:53
+T:Jigs simple chords 158
+M:3/4
+L:1/8
+K:D
+d/B/[A2D,2F,2A,2]d =cB | A[dD,F,A,] ef ga | g[fD,F,A,] ed cB | A[GE,G,B,] FG AF | D[A2D,2F,2A,2]d =cB |
+A[dD,F,A,] ef ga | g[fD,F,A,] ed cB | A[AA,CEG] dc d2 | d/B/[A2D,2F,2A,2]d =cB |
+A[dD,F,A,] ef ga | g[fD,F,A,] ed cB | A[GE,G,B,] FG AF | D[A2D,2F,2A,2]d =cB |
+A[dD,F,A,] ef ga | g[fD,F,A,] ed cB | A[AA,CEG] dc d2 | f/e/[dD,F,A,] fa df |
+a[dD,F,A,] fa ag | f[=cC,E,G,] eg ce | g[=cC,E,G,] eg gf | e[fD,F,A,] ef gf |
+g[aD,F,A,] ga ba | g[fDFA,] ed cB | A[AA,CEG] dc d2 | f/e/[dD,F,A,] fa df |
+a[dD,F,A,] fa ag | f[=cC,E,G,] eg ce | g[=cC,E,G,] eg gf | e[fD,F,A,] ef gf |
+g[aD,F,A,] ga ba | g[fDFA,] ed cB | A[AA,CEG] dc d2 |
+
+
+X:54
+T:Jigs simple chords 176
+M:3/4
+L:1/8
+K:G
+d/c/[B2G,2B,2D2]B B^A | B[g2G,2B,2D2]d d2 | B[c2A,2C2E2]c c2 | d2<[e2A,2C2E2] e2 | c[A2D,2F,2A,2]A A^G |
+A[f2D,2F,2A,2C2]e e2 | c[B2G,2B,2D2]B B2 | c[d5G,5B,5D5] | c[B2G,2B,2D2]B B^A |
+B[g2G,2B,2D2]d d2 | B[^c2A,2C2E2]a a2 | a2<[a2A,2^C2E2G2] a2 | g[f2D,2F,2A,2]a a^g |
+a[e2A,2^C2E2G2]a a^g | a[d2D,2F,2A,2C2]^c d2 | ^c2<[d2D,2F,2A,2=C2] d2 | d/c/[B2G,2B,2D2]B B^A |
+B[g2G,2B,2D2]d d2 | B[c2A,2C2E2]c c2 | d2<[e2A,2C2E2] e2 | c[A2D,2F,2A,2]A A^G |
+A[f2D,2F,2A,2C2]e e2 | c[B2G,2B,2D2]B B2 | c[d5G,5B,5D5] | c[B2G,2B,2D2]B B^A |
+B[g2G,2B,2D2]d d2 | B[^c2A,2C2E2]a a2 | a2<[a2A,2^C2E2G2] a2 | g[f2D,2F,2A,2]a a^g |
+a[e2A,2^C2E2G2]a a^g | a[d2D,2F,2A,2C2]^c d2 | ^c2<[d2D,2F,2A,2=C2] d2 | c[BG,B,D] ^AB e2 |
+d2<[B2G,2B,2D2] G3 |[E3C,3E,3G,3] A3 |[G3G,3B,3D3] G2 | G[AD,F,A,C] Bd f2 |
+e2<[d2G,2B,2D2] g3 |[f3D,3F,3A,3] e3 |[d3D,3F,3A,3C3] d2 | d[e2C,2E,2G,2]e e^d |
+e2<[f2B,2^D2F2A2] f3 |[g2E,2G,2B,2]g ag | a2<[b2B,2^D2F2] b2 | b[a2C,2E,2G,2]g e2 |
+c2<[B2G,2B,2D2] G3 |[A3D,3F,3A,3C3] F3 |[G3G,3B,3D3] G2 | c[BG,B,D] ^AB e2 |
+d2<[B2G,2B,2D2] G3 |[E3C,3E,3G,3] A3 |[G3G,3B,3D3] G2 | G[AD,F,A,C] Bd f2 |
+e2<[d2G,2B,2D2] g3 |[f3D,3F,3A,3] e3 |[d3D,3F,3A,3C3] d2 | d[e2C,2E,2G,2]e e^d |
+e2<[f2B,2^D2F2A2] f3 |[g2E,2G,2B,2]g ag | a2<[b2B,2^D2F2] b2 | b[a2C,2E,2G,2]g e2 |
+c2<[B2G,2B,2D2] G3 |[A3D,3F,3A,3C3] F3 |[G3G,3B,3D3] G2 | G2<[E2C,2E,2G,2] =F3 |
+[F3C,3E,3G,3] G3 |[e2C,2E,2G,2]e e2 | ^d2<[e2C,2E,2G,2] e2 | G2<[E2C,2E,2G,2] =F3 |
+[F3C,3E,3G,3] G3 |[=f2G,2B,2D2]f f2 | e2<[=f2G,2B,2D2] f2 | e2<[d2G,2B,2D2] ^c3 |
+[d2G,2B,2D2]G F2 | G2<[e2C,2E,2G,2] ^d3 |[e2C,2E,2G,2]G F2 | G2<[B2G,2B,2D2] d3 |
+[c2D,2F,2A,2C2]d A2 | c[B2G,2B,2D2]c A2 | B[G2G,2B,2D2=F2]A F2 | G2<[E2C,2E,2G,2] =F3 |
+[F3C,3E,3G,3] G3 |[e2C,2E,2G,2]e e2 | ^d2<[e2C,2E,2G,2] e2 | G2<[E2C,2E,2G,2] =F3 |
+[F3C,3E,3G,3] G3 |[=f2G,2B,2D2]f f2 | e2<[=f2G,2B,2D2] f2 | e2<[d2G,2B,2D2] ^c3 |
+[d2G,2B,2D2]G F2 | G2<[e2C,2E,2G,2] ^d3 |[e2C,2E,2G,2]G F2 | G2<[A2=F,2A,2C2] f3 |
+[e2C,2E,2G,2]c d2 | B[c6C,6E,6G,6] |[c4C,4E,4G,4] |
+
+
+X:55
+T:Jigs simple chords 189
+M:3/4
+L:1/8
+K:G
+g[dG,B,D] BG GB | d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G2G,2B,2D2]G G2 | g[dG,B,D] BG Bc |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G5G,5B,5D5] | g[dG,B,D] BG GB |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G2G,2B,2D2]G G2 | g[dG,B,D] BG Bc |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G5G,5B,5D5] | g[dG,B,D] BG GB |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G2G,2B,2D2]G G2 | g[dG,B,D] BG Bc |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G5G,5B,5D5] | g[dG,B,D] BG GB |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G2G,2B,2D2]G G2 | g[dG,B,D] BG Bc |
+d[E2C,2E,2G,2]E E2 | c[AD,F,A,C] FD DE | F[G5G,5B,5D5] | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[dG,B,D] Bg dB | G[AD,F,A,C] FD D2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[fD,F,A,] af ge | ^c[d2D,2F,2A,2=C2]d de | =f[eC,E,G,] ce dB |
+d[cC,E,G,] ac Bg | B[AC,E,G,] ce dB | G[FA,CE] AF DE | F[GG,B,D] AB EF |
+G[AA,CE] Bc de | f[gG,B,D] dB cA | F[G2G,2B,2D2]G G2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[dG,B,D] Bg dB | G[AD,F,A,C] FD D2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[fD,F,A,] af ge | ^c[d2D,2F,2A,2=C2]d de | =f[eC,E,G,] ce dB |
+d[cC,E,G,] ac Bg | B[AC,E,G,] ce dB | G[FA,CE] AF DE | F[GG,B,D] AB EF |
+G[AA,CE] Bc de | f[gG,B,D] dB cA | F[G2G,2B,2D2]G G2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[dG,B,D] Bg dB | G[AD,F,A,C] FD D2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[fD,F,A,] af ge | ^c[d2D,2F,2A,2=C2]d de | =f[eC,E,G,] ce dB |
+d[cC,E,G,] ac Bg | B[AC,E,G,] ce dB | G[FA,CE] AF DE | F[GG,B,D] AB EF |
+G[AA,CE] Bc de | f[gG,B,D] dB cA | F[G2G,2B,2D2]G G2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[dG,B,D] Bg dB | G[AD,F,A,C] FD D2 | g/a/[bG,B,D] gb af |
+d[eC,E,G,] fg gf | e[fD,F,A,] af ge | ^c[d2D,2F,2A,2=C2]d de | =f[eC,E,G,] ce dB |
+d[cC,E,G,] ac Bg | B[AC,E,G,] ce dB | G[FA,CE] AF DE | F[GG,B,D] AB EF |
+G[AA,CE] Bc de | f[gG,B,D] dB cA | F[G2G,2B,2D2]G G2 |
+
+
+X:56
+T:Jigs simple chords 194
+M:3/4
+L:1/8
+K:Dm
+[fF,A,C]c fa gf | [eC,E,G,]d c2<b2 | [aF,A,C]g fe fg | [fF,A,C]c BA GF | [fF,A,C]c fa gf |
+[eC,E,G,]d c2<b2 | [aF,A,C]g fe fg | [f6F,6A,6C6] | [fF,A,C]c fa gf |
+[eC,E,G,]d c2<b2 | [aF,A,C]g fe fg | [fF,A,C]c BA GF | [fF,A,C]c fa gf |
+[eC,E,G,]d c2<b2 | [aF,A,C]g fe fg | [f6F,6A,6C6] | [AF,A,C]F Ac BA |
+[BG,B,D]G Bd cB | [AF,A,C]F Ac BA | [BG,B,D]G G2<G2 | [AF,A,C]F Ac BA |
+[dB,DF]e fg ab | [aF,A,C]g fe fg | [f6F,6A,6C6] | [AF,A,C]F Ac BA |
+[BG,B,D]G Bd cB | [AF,A,C]F Ac BA | [BG,B,D]G G2<G2 | [AF,A,C]F Ac BA |
+[dB,DF]e fg ab | [aF,A,C]g fe fg | [f6F,6A,6C6] |
+
+
+
+X:58
+T:Jigs simple chords 204
+M:3/4
+L:1/8
+K:D
+A[D2D,2F,2A,2]D ED | E[F2D,2F,2A,2]F GF | G[A2D,2F,2A,2]d dc | d[eE,G,B,] dB AF | E[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GA | B[AA,CEG] Bc de | f[gA,CEG] ec d2 | A[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GF | G[A2D,2F,2A,2]d dc | d[eE,G,B,] dB AF | E[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GA | B[AA,CEG] Bc de | f[gA,CEG] ec d2 | A[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GF | G[A2D,2F,2A,2]d dc | d[eE,G,B,] dB AF | E[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GA | B[AA,CEG] Bc de | f[gA,CEG] ec d2 | A[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GF | G[A2D,2F,2A,2]d dc | d[eE,G,B,] dB AF | E[D2D,2F,2A,2]D ED |
+E[F2D,2F,2A,2]F GA | B[AA,CEG] Bc de | f[gCEG] ec d2 | [f/A,/]g/[a2D,2F,2A,2D,2F,2A,2]a de |
+f[g2=C,2E,2G,2]g cd | e[f2D,2F,2A,2]d g2 | f[eE,G,B,] dB Af | g[a2D,2F,2A,2]a de |
+f[g2=C,2E,2G,2]g cd | e[f2B,2D2F2]d g2 | f[eA,CEG] cA d2 | f/g/[a2F,2A,2C2]a de |
+f[g2E,2G,2B,2]g =cd | e[f2D,2F,2A,2]d g2 | f[eE,^G,B,D] dB AF | E[D2B,2D2F2]D ED |
+E[F2D,2F,2A,2]F GA | B[AF,A,C] Bc de | f[gA,CEG] ec d2 |
+
+X:59
+T:Jigs simple chords 212
+M:3/4
+L:1/8
+K:Em
+d[g2G,2B,2D2]g dB | d[g2G,2B,2D2]g d2 | c[BG,B,D] cd cB | A[BG,B,D] G4 | d[g2G,2B,2D2]g dB |
+d[gG,B,D] ab a2 | g[aD,F,A,] ba gf | e[fD,F,A,] d4 | d[e2C,2E,2G,2]e d2 |
+d[cA,CE] dc B2 | B[cD,F,A,C] BA BA | G[A2D,2F,2A,2C2]F D2 | d[g2G,2B,2D2]g d2 |
+d[cC,E,G,] de d2 | d[gG,B,D] ab ag | a[bG,B,D] g4 | B[e2E,2G,2B,2]e d2 |
+d[cA,CE] dc B2 | B[BE,G,B,] cB AG | F[GE,G,B,] E4 | B[e2E,2G,2B,2]e d2 |
+d[cA,CE] dc B2 | B[BE,G,B,] cB AG | A[cB,^DFA] B4 | B[c2C,2E,2G,2]c B2 |
+B[cC,E,G,] cc B2 | B[cA,CE] BA BA | G[A2A,2C2E2]G F2 | B[e2E,2G,2B,2]e d2 |
+d[cA,CE] dc B2 | B[BB,DF] cB AG | F[GE,G,B,] E4 |
+
+
+X:60
+T:Jigs simple chords 219
+M:3/4
+L:1/8
+K:G
+[dG,B,D]e dg dB | [c2D,2F,2A,2C2] BA2F | [G2G,2B,2D2] AB2c | [d3D,3F,3A,3C3]A3 | [dG,B,D]e dg bg |
+[f2C,2E,2G,2] ec2e | [dG,B,D]e de2f | [g3G,3B,3D3]G3 | [BG,B,D]A BB cd |
+[e3C,3E,3G,3]E3 | [AD,F,A,C]B AA Bc | [d3G,3B,3D3]D3 | [dD,F,A,C]e db gd |
+[f2C,2E,2G,2] ec2e | [dG,B,D]e de2f | [g3G,3B,3D3]G3 |
+
+
+X:61
+T:Jigs simple chords 224
+M:3/4
+L:1/8
+K:Edor
+[AA,CE]c de2a | [f2D,2F,2A,2] ae2a | [dD,F,A,]e fe cA | [BB,^D^FA]c A2<B2 | [AA,CE]c de2a |
+[f2D,2F,2A,2] ae2c | [dD,F,A,]e fe2^G | [BA,CE]A A2<A2 | [AA,CE]c de2a |
+[f2D,2F,2A,2] ae2a | [dD,F,A,]e fe cA | [BB,^D^FA]c A2<B2 | [AA,CE]c de2a |
+[f2D,2F,2A,2] ae2c | [dD,F,A,]e fe2^G | [BA,CE]A A2<A2 | [A2D,2F,2A,2] AB AB |
+[c2A,2C2E2] de cA | [B2B,2^D2^F2A2] df2a | [^gE,G,B,D]b ge ^fg | [aA,^CEG]^g =g^f ed |
+[gD,F,A,]^f =fe dc | [dD,F,A,]e fe2^G | [BA,CE]A A2<A2 | [A2D,2F,2A,2] AB AB |
+[c2A,2C2E2] de cA | [B2B,2^D2^F2A2] df2a | [^gE,G,B,D]b ge ^fg | [aA,^CEG]^g =g^f ed |
+[gD,F,A,]^f =fe dc | [dD,F,A,]e fe2^G | [BA,CE]A A2<A2 | [B/A,/C/E/] |
+
+X:63
+T:Jigs simple chords 266
+M:3/4
+L:1/8
+K:Em
+[G2G,2B,2D2] FG2A | [B2G,2B,2D2] AB2c | [dG,B,D]e dB AG | [A6D,6F,6A,6C6] | [A2D,2F,2A,2C2] ^GA2B |
+[A2D,2F,2A,2C2] FD2B | [AA,^CEG]B AE FG | [F6D,6F,6A,6C6] | [G2G,2B,2D2] FG2A |
+[B2G,2B,2D2] AB2c | [dG,B,D=F]e dB AG | [e6C,6E,6G,6] | [g2G,2B,2D2] de2B |
+[dA,CE]c BA2e | [dD,F,A,C]c BA GF | [G6G,6B,6D6] | [E2E,2G,2B,2] BB2c |
+[B2B,2D2F2] AG2F | [G2E,2G,2B,2] AB2^c | [d5D,5F,5A,5]^d | [e2E,2G,2B,2] fg2e |
+[f2D,2F,2A,2] dd2f | [e2E,2G,2B,2] BB2d | [e5E,5G,5B,5]f | [g2G,2B,2D2] fe2d |
+[B2G,2B,2D2] dG2B | [c2C,2E,2G,2] Bc2e | [g5A,5C5E5]d | [g2G,2B,2D2] de2B |
+[dA,CE]c BA2e | [dD,F,A,C]c BA GF | [G6G,6B,6D6] |
+
+
+X:64
+T:Jigs simple chords 277
+M:3/4
+L:1/8
+K:Am
+[cC,E,G,]G EF ED | [CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fD,F,A,]d cB AB | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fG,B,D]d B2<c2 | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fD,F,A,]d cB AB | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fG,B,D]d B2<c2 | [AA,CE]B cc BA |
+[^G2E,2G,2B,2] EA2E | [FD,F,A,]E DD EF | [E2A,2C2E2] CA,2C | [B,E,^G,B,]C DD CB, |
+[A,A,CE]C EA Bc | [B2E,2^G,2B,2] G^F GF | [E3E,3^G,3B,3]E2G | [AA,CE]B cc BA |
+[^G2E,2G,2B,2] EA2E | [FD,F,A,]E DD EF | [E2A,2C2E2] CA,2C | [B,E,^G,B,]C DD CB, |
+[A,A,CE]C EA ce | [fF,A,C]e dc2B | [A3A,3C3E3]G3 |
+
+
+X:65
+T:Jigs simple chords 277
+M:3/4
+L:1/8
+K:Am
+[cC,E,G,]G EF ED | [CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fD,F,A,]d cB AB | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fG,B,D]d B2<c2 | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fD,F,A,]d cB AB | [cC,E,G,]G EF ED |
+[CC,E,G,]E CD B,G, | [CC,E,G,]E Gc eg | [fG,B,D]d B2<c2 | [AA,CE]B cc BA |
+[^G2E,2G,2B,2] EA2E | [FD,F,A,]E DD EF | [E2A,2C2E2] CA,2C | [B,E,^G,B,]C DD CB, |
+[A,A,CE]C EA Bc | [B2E,2^G,2B,2] G^F GF | [E3E,3^G,3B,3]E2G | [AA,CE]B cc BA |
+[^G2E,2G,2B,2] EA2E | [FD,F,A,]E DD EF | [E2A,2C2E2] CA,2C | [B,E,^G,B,]C DD CB, |
+[A,A,CE]C EA ce | [fF,A,C]e dc2B | [A3A,3C3E3]G3 |
+
+
+X:66
+T:Jigs simple chords 288
+M:3/4
+L:1/8
+K:D
+f/g/[aD,F,A,] ba a2 | f[dD,F,A,] ed d2 | B[AD,F,A,] BA A2 | F2<[A2E,2G,2B,2] Af | g[aD,F,A,] ba a2 |
+f[dD,F,A,] ed d2 | B[AD,F,A,] BA Ad | f2<[e2E,2G,2B,2] ef | g[aD,F,A,] ba a2 |
+f[dD,F,A,] ed d2 | B[AD,F,A,] BA A2 | F2<[A2D,2F,2A,2] A3 |[BG,B,D] cd dc |
+B[AD,F,A,] df a2 | a[bE,G,B,] ag f2 | e2<[d2D,2F,2A,2] A2 | F2<[D2D,2F,2A,2] DF |
+A2<[d2D,2F,2A,2] d2 | c[BG,B,D] ^AB d2 | B[AA,CEG] BA GF | E2<[D2D,2F,2A,2] DF |
+A2<[d2B,2D2F2] d2 | c[BE,G,B,] cB A2 | F2<[E2A,2C2E2G2] F2 | E2<[D2D,2F,2A,2] DF |
+A2<[d2D,2F,2A,2] d2 | c[BG,B,D] ^AB d2 | B2<[A2D,2F,2A,2=C2] A3 |[BG,B,D] cd dc |
+B[AD,F,A,] df a2 | a[bE,G,B,] ag f2 | e2<[d2D,2F,2A,2] d2 |
+
+
+X:67
+T:Jigs simple chords 306
+M:3/4
+L:1/8
+K:Bm
+E/F/[GE,G,B,] EE BE | E[GE,G,B,] EE BA | G[FD,F,A,] DD AD | D[dD,F,A,] cd AG | F[GE,G,B,] EE BE |
+E[GE,G,B,] EE B2 | c[dD,F,A,] cd AG | F[GE,G,B,] EE E2 | E/F/[GE,G,B,] EE BE |
+E[GE,G,B,] EE BA | G[FD,F,A,] DD AD | D[dD,F,A,] cd AG | F[GE,G,B,] EE BE |
+E[GE,G,B,] EE B2 | c[dD,F,A,] cd AG | F[GE,G,B,] EE E2 | B[BB,DF] cd e2 |
+f[e2E,2G,2B,2]f ed | B[BB,DF] cd e2 | f[eE,G,B,] dB2< d2 |[BB,DF] cd e2 |
+f[e2E,2G,2B,2]f ed | B[dD,F,A,] cd AG | F[GE,G,B,] EE E2 | B[BB,DF] cd e2 |
+f[e2E,2G,2B,2]f ed | B[BB,DF] cd e2 | f[eE,G,B,] dB2< d2 |[BB,DF] cd e2 |
+f[e2E,2G,2B,2]f ed | B[dD,F,A,] cd AG | F[GE,G,B,] EE E2 |
+
+
+X:68
+T:Jigs simple chords 324
+M:3/4
+L:1/8
+K:Em
+[d2G,2B,2D2] Be2B | [dG,B,D]e dB GE | [D6G,6B,6D6] | [c2A,2C2E2] Ad2B | [c2A,2C2E2] Ad2B |
+[AA,^CEG]^G AB2c | [d6D,6F,6A,6C6] | [dG,B,D]e dB GE | [D6G,6B,6D6] |
+[c2A,2C2E2] Ad2B | [c2A,2C2E2] Ad2c | [BG,B,D]d BG2B | [AA,CE]B AD EF |
+[G6G,6B,6D6] | [g5C,5E,5G,5]f | [g2C,2E,2G,2] fe fe | [d2G,2B,2D2] ed2c |
+[B5G,5B,5D5]B | [c2A,2C2E2] dc2B | [A5D,5F,5A,5C5]A | [d2G,2B,2D2] ed2B |
+[G4G,4B,4D4=F4] Bd | [g5C,5E,5G,5]f | [g2C,2E,2G,2] fe fe | [d2G,2B,2D2] ed2c |
+[B6G,6B,6D6] | [cA,CE]d cA2B | [c2D,2F,2A,2C2] de2f | [g2G,2B,2D2] dB2d |
+[G6G,6B,6D6] |
+
+
+X:69
+T:Jigs simple chords 332
+M:3/4
+L:1/8
+K:G
+(3DEF[G2G,2B,2D2]G FE | F2<[G2G,2B,2D2] D2 | D[E2C,2E,2G,2]E c2 | B2<[A2D,2F,2A,2] A2 | D[E2C,2E,2G,2]c cB |
+c[d2G,2B,2D2]B G2 | E[D2A,2C2E2]c B2 | A2<[G2G,2B,2D2] G2 | (3DEF[G2G,2B,2D2]G FE |
+F2<[G2G,2B,2D2] D2 | D[E2C,2E,2G,2]E c2 | B2<[A2D,2F,2A,2] A2 | D[E2C,2E,2G,2]c cB |
+c[d2G,2B,2D2]B G2 | E[D2A,2C2E2]c B2 | A2<[G2G,2B,2D2] G2 | B/c/[d2G,2B,2D2]d de |
+d2<[^c2A,2C2E2G2] A2 | B[c2D,2F,2A,2C2]c cd | c2<[B2G,2B,2D2] Bc | d[e2C,2E,2G,2]c Ac |
+e[d2G,2B,2D2]B G2 | E[D2A,2C2E2]c B2 | A2<[G2G,2B,2D2] G2 | B/c/[d2G,2B,2D2]d de |
+d2<[^c2A,2C2E2G2] A2 | B[c2D,2F,2A,2C2]c cd | c2<[B2G,2B,2D2] Bc | d[e2C,2E,2G,2]c Ac |
+e[d2G,2B,2D2]B G2 | E[D2A,2C2E2]c B2 | A2<[G2G,2B,2D2] G2 |
+
+
+X:70
+T:Morris simple chords 2
+M:3/4
+L:1/8
+K:Em
+D2 [G2G,2B,2D2] Bc | d2 ef [g2G,2B,2D2] | a2 b4 | [g2G,2B,2D2] d2 de | dc [B4G,4B,4D4] |
+G4 [G2G,2B,2D2] | Bc d2 ef | [g2G,2B,2D2] a2 b4 | [g2G,2B,2D2] d2 |
+de dc [B4G,4B,4D4] | G4 | [e2C,2E,2G,2] c2 e2 | ge [d2G,2B,2D2] B2 |
+d4 [A2D,2F,2A,2C2] | d2 de dc | [B4G,4B,4D4] d4 | [e2C,2E,2G,2] c2 |
+e2 ge [d2G,2B,2D2] | B2 d4 | [A2D,2F,2A,2C2] d2 de | dc [B4G,4B,4D4] |
+G4 [d2D,,2] | [cD,F,A,C][BG,,] A[GG,B,D] [d2D,,2] | [cD,F,A,C][BG,,] A[GG,B,D] [e2C,,2] | [dC,E,G,][cC,,] B[cC,E,G,] [e2C,,2] |
+[C,E,G,][g2C,,2][C,E,G,] [d2D,,2] | [cD,F,A,C][BG,,] A[GG,B,D] [d2D,,2] | [cD,F,A,C][BG,,] A[GG,B,D] [e2C,,2] | [dC,E,G,][cC,,] B[cC,E,G,] [e2C,,2] |
+[C,E,G,][g2C,,2][C,E,G,] [e2C,,2] | [dC,E,G,][cC,,] B[cC,E,G,] [e2C,,2] | [C,E,G,][g2B,,2]B,, [e2A,,2] | [dA,CE][cA,,] B[cA,CE] [e2A,,2] |
+[A,CE][gA,,] f[eA,CE] [d2D,,2] | [eD,F,A,][f2D,,2][gD,F,A,] [a2D,,2] | [gD,F,A,][fD,,] e[dD,F,A,] [e2C,,2] | [gC,E,G,][f2D,,2][aD,F,A,C] [g2G,,2] |
+[G,B,D][gG,,] f[eG,B,D] [d2D,,2] | [eD,F,A,][f2D,,2][gD,F,A,] [a2D,,2] | [gD,F,A,][fD,,] e[dD,F,A,] [e2C,,2] | [gC,E,G,][f2D,,2][aD,F,A,C] [g2G,,2] |
+[G,B,D][G2G,,2][G,B,D] [G2G,,2] | [GG,B,D]G [B2G,,2] [B2G,2B,2D2] | [d2G,,2] [d2G,2B,2D2] [g2G,,2] | [G,2B,2D2] [d2G,,2] [B2G,2B,2D2] |
+[dC,,]c [AC,E,G,]B [c2A,,2] | [A2A,2C2E2] [GD,,]F [ED,F,A,C]D | [G2G,,2] [GG,B,D]G [B2G,,2] | [B2G,2B,2D2] [d2G,,2] [d2G,2B,2D2] |
+[g2G,,2] [G,2B,2D2] [d2G,,2] | [B2G,2B,2D2] [dD,,]c [AD,F,A,C]F | [G2G,,2] [G,2B,2D2] [G2G,,2] | [D2G,2B,2D2] [G2G,,2] [GG,B,D]G |
+[B2G,,2] [B2G,2B,2D2] [d2G,,2] | [d2G,2B,2D2] [g2G,,2] [G,2B,2D2] | [d2G,,2] [B2G,2B,2D2] [dC,,]c | [AC,E,G,]B [c2A,,2] [A2A,2C2E2] |
+[GD,,]F [ED,F,A,C]D [G2G,,2] | [GG,B,D]G [B2G,,2] [B2G,2B,2D2] | [d2G,,2] [d2G,2B,2D2] [g2G,,2] | [G,2B,2D2] [d2G,,2] [B2G,2B,2D2] |
+[dD,,]c [AD,F,A,C]F [G2G,,2] | [G,2B,2D2] [G2G,,2] [dG,B,D]c | [B2G,,2] [G2G,2B,2D2] [B2G,,2] | [d2G,2B,2D2] [A2D,,2] [D,2F,2A,2C2] |
+D,,2 [dD,F,A,C]c [B2G,,2] | [G2G,2B,2D2] [B2G,,2] [d2G,2B,2D2] | [A2D,,2] [D,2F,2A,2C2] D,,2 | [dD,F,A,C]c [B2G,,2] [G2G,2B,2D2] |
+[B2G,,2] [d2G,2B,2D2] [A2D,,2] | [D,F,A,C]B [A2D,,2] [BD,F,A,C]c | [d2G,,2] [BG,B,D]c [dD,,]c | [BD,F,A,C]A [G2G,,2] [G,2B,2D2] |
+[G2G,,2] [dG,B,D]c [B2G,,2] | [G2G,2B,2D2] [B2G,,2] [d2G,2B,2D2] | [A2D,,2] [D,2F,2A,2C2] D,,2 | [dD,F,A,C]c [B2G,,2] [G2G,2B,2D2] |
+[B2G,,2] [d2G,2B,2D2] [A2D,,2] | [D,2F,2A,2C2] D,,2 [dD,F,A,C]c | [B2G,,2] [G2G,2B,2D2] [B2G,,2] | [d2G,2B,2D2] [A2D,,2] [D,F,A,C]B |
+[A2D,,2] [BD,F,A,C]c [d2G,,2] | [BG,B,D]c [dD,,]c [BD,F,A,C]A | [G2G,,2] [G,2B,2D2] G,,2 | [B2G,2B,2D2] G2 B2 |
+d2 [A2D,,2] [D,2F,2A,2C2] | D,,2 [dD,F,A,C]c [B2G,,2] | [G2G,2B,2D2] [B2G,,2] [d2G,2B,2D2] | [A2D,,2] [D,2F,2A,2C2] D,,2 |
+[dD,F,A,C]c [B2G,,2] [G2G,2B,2D2] | [B2G,,2] [d2G,2B,2D2] [A2D,,2] | [D,F,A,C]B [A2D,,2] [BD,F,A,C]c | [d2G,,2] [BG,B,D]c [dD,,]c |
+[BD,F,A,C]A |
+
+
+X:71
+T:Morris simple chords 3
+M:3/4
+L:1/8
+K:F
+CF>FF AG | FA<cC F2 | FA2G F2 | CF>FF AG | FA<cC F>C |
+FA2G F2 | F>F FA GF | A<c CF2F | A2 GF2C |
+F>F FA GF | A<c CF>CF | A2 GF2c2 |B AG FA |
+c2 G2 GG2 |A2< B2c2 |B AG FA<c |C F>C FA2 |
+G F2 c2 | BA GF Ac2 |G2G G2 | A2<B2 c2 |
+BA GF A<c | CF>CF A2 | GF2 |
+
+
+X:72
+T:Morris simple chords 18
+M:3/4
+L:1/8
+K:G
+d2 [gG,B,D]f ge | d2 g2 [aA,CE]g | fe d4 | [c'2C,2E,2G,2] a2 b2 | g2 [aD,F,A,]g fe |
+d4 [gE,G,B,]f | ge d2 g2 | [aC,E,G,]g fe d4 | [c'C,E,G,]b ag |
+fd ef [g2G,2B,2D2] | b2 g2 d2 | [gG,B,D]f ge d2 | g2 [aA,CE]g fe |
+d4 [c'2C,2E,2G,2] | a2 b2 g2 | [aD,F,A,]g fe d4 | [gE,G,B,]f ge |
+d2 g2 [aC,E,G,]g | fe d4 | [c'C,E,G,]b ag fd | ef [g2G,2B,2D2] b2 |
+g2 |
+
+
+X:73
+T:Morris simple chords 12
+M:3/4
+L:1/8
+K:Em
+DE [FD,,]G [FD,F,A,]E | [D2D,,2] [d2D,2F,2A,2] [FD,,]G | [FD,F,A,]E [D2D,,2] [d2D,2F,2A,2] | [FD,,]G [FD,F,A,]E [DA,,]^C | [DA,^CEG]E [F2D,,2] [D2D,2F,2A,2] |
+[D2D,,2] [DD,F,A,]E [FD,,]G | [FD,F,A,]E [D2D,,2] [d2D,2F,2A,2] | [FD,,]G [FD,F,A,]E [D2D,,2] | [d2D,2F,2A,2] [FD,,]G [FD,F,A,]E |
+[DA,,]^C [DA,CEG]E [F2D,,2] | [D2D,2F,2A,2] [D2D,,2] [D/D,/F,/A,/]F/A/ | [d2D,,2] [d2D,2F,2A,2] [d2D,,2] | [eD,F,A,]d [^c2A,,2] [A2A,2C2E2] |
+[A2A,,2] [A,^CE]B [=c2C,,2] | [c2C,2E,2G,2] [c2C,,2] [dC,E,G,]c | [BG,,]c [BG,B,D]A [G2G,,2] | [G,2B,2D2] [FD,,]G [FD,F,A,]E |
+[D2D,,2] [d2D,2F,2A,2] [dD,,]B | [AD,F,A,]F [G2G,,2] [EG,B,D]F | [GA,,]F [EDFA,]D [^CA,,]D | [EA,^CEG]G [F2D,,2] [D2D,2F,2A,2] |
+[D2D,,2] [D/D,/F,/A,/]F/A/ [d2D,,2] | [d2D,2F,2A,2] [d2D,,2] [eD,F,A,]d | [^c2A,,2] [A2A,2C2E2] [A2A,,2] | [A,^CE]B [=c2C,,2] [c2C,2E,2G,2] |
+[c2C,,2] [dC,E,G,]c [BG,,]c | [BG,B,D]A [G2G,,2] [G,2B,2D2] | [FD,,]G [FD,F,A,]E [D2D,,2] | [d2D,2F,2A,2] [dD,,]B [AD,F,A,]F |
+[G2G,,2] [EG,B,D]F [GA,,]F | [EDFA,]D [^CA,,]D [EA,CEG]G | [F2D,,2] [D2D,2F,2A,2] [D2D,,2] |
+
+
+X:74
+T:Morris simple chords 15
+M:3/4
+L:1/8
+K:G
+D[G2G,2B,2D2]A B2 | c[dG,B,D] ge d2 | c[BG,B,D] dB GF | G[cA,CE] Bc AB | c[dD,F,A,] ^cd ef |
+g[f/D,/F,/A,/]g/ af d2 | g[fE,G,B,] ed AB | ^c2<[d2D,2F,2A,2=C2] d2 | D[G2G,2B,2D2]A B2 |
+c[dG,B,D] ge d2 | c[BG,B,D] dB GF | G[cA,CE] Bc AB | c[dD,F,A,] ^cd ef |
+g[f/D,/F,/A,/]g/ af d2 | g[fE,G,B,] ed AB | ^c2<[d2D,2F,2A,2=C2] d2 | e/f/g/[aD,F,A,]fdaf |
+d[cC,E,G,]BcB2 |c[dG,B,D]gddg |d[cC,E,G,]BcBc |d[e2C,2E,2G,2]fgf |
+e[d2G,2B,2D2]cBc |d[eC,E,G,]dcBc |A[B2E,2G,2B,2]GE2 |D[GG,B,D]AGGB |
+d[e2C,2E,2G,2]fgf |e[dG,B,D]BGA2 |B[E2E,2G,2B,2]FG2 |A[B2G,2B,2D2]gB2 |
+A[G3G,3B,3D3]G2 |e/f/g/ [aD,F,A,]f da | fd [cC,E,G,]B cB2 |c [dG,B,D]g dd |
+gd [cC,E,G,]B cB | cd [e2C,2E,2G,2] fg | fe [d2G,2B,2D2] cB | cd [eC,E,G,]d cB |
+cA [B2E,2G,2B,2] GE2 |D [GG,B,D]A GG | Bd [e2C,2E,2G,2] fg | fe [dG,B,D]B GA2 |
+B [E2E,2G,2B,2] FG2 |A [B2G,2B,2D2] gB2 |A2< [G2G,2B,2D2]G2 |
+
+X:76
+T:Morris simple chords 18
+M:3/4
+L:1/8
+K:G
+d2 [gG,B,D]f ge | d2 g2 [aA,CE]g | fe d4 | [c'2C,2E,2G,2] a2 b2 | g2 [aD,F,A,]g fe |
+d4 [gE,G,B,]f | ge d2 g2 | [aC,E,G,]g fe d4 | [c'C,E,G,]b ag |
+fd ef [g2G,2B,2D2] | b2 g2 d2 | [gG,B,D]f ge d2 | g2 [aA,CE]g fe |
+d4 [c'2C,2E,2G,2] | a2 b2 g2 | [aD,F,A,]g fe d4 | [gE,G,B,]f ge |
+d2 g2 [aC,E,G,]g | fe d4 | [c'C,E,G,]b ag fd | ef [g2G,2B,2D2] b2 |
+g2 |
+
+
+X:77
+T:Morris simple chords 24
+M:3/4
+L:1/8
+K:Em
+dc [B2G,2B,2D2] BB | AB [d2G,2B,2D2] BB | AB [c2C,2E,2G,2] eg2 |e [d2G,2B,2D2] BB | AB [c2A,2C2E2] AA |
+GA [B2G,2B,2D2] GG2 |B [A2A,2C2E2] BA2 |B [A2D,2F,2A,2C2] dd2 |c [B2G,2B,2D2] BB |
+AB [d2G,2B,2D2] BB | AB [c2C,2E,2G,2] eg2 |e [d2G,2B,2D2] BB | AB [c2A,2C2E2] AA |
+GA [B2G,2B,2D2] GG2 |F [E2C,2E,2G,2] ed2 |c B2 Bc | [d2G,2B,2D2G,2B,2D2] cB cd |
+[e2C,2E,2G,2] fg2a | [b2G,2B,2D2] ag fe | [d2G,2B,2D2] BB cd | [e2C,2E,2G,2] ee cA |
+[d2G,2B,2D2] dd BG | [c2A,2C2E2] AB2G | [F2D,2F,2A,2C2] Ad2d | c[B2G,2B,2D2]B BA |
+B[d2G,2B,2D2]B BA | B[c2C,2E,2G,2]e g2 | e[d2G,2B,2D2]B BA | B[c2A,2C2E2]A AG |
+A[B2G,2B,2D2]G G2 | B[A2A,2C2E2]B A2 | B[A2D,2F,2A,2C2]d d2 | c[B2G,2B,2D2]B BA |
+B[d2G,2B,2D2]B BA | B[c2C,2E,2G,2]e g2 | e[d2G,2B,2D2]B BA | B[c2A,2C2E2]A AG |
+A[B2G,2B,2D2]G G2 | F[E2C,2E,2G,2]e d2 | cB2B c[d2G,2B,2D2G,2B,2D2] |c Bc d[e2C,2E,2G,2] |
+f g2 a[b2G,2B,2D2] |a gf e[d2G,2B,2D2] |B Bc d[e2C,2E,2G,2] |e ec A[d2G,2B,2D2] |
+d dB G[c2A,2C2E2] |A B2 G[F2D,2F,2A,2C2] |A d2 dc | [B2G,2B,2D2] BB AB |
+[d2G,2B,2D2] BB AB | [c2C,2E,2G,2] eg2e | [d2G,2B,2D2] BB AB | [c2A,2C2E2] AA GA |
+[B2G,2B,2D2] GG2B | [A2A,2C2E2] BA2B | [A2D,2F,2A,2C2] dd2c | [B2G,2B,2D2] BB AB |
+[d2G,2B,2D2] BB AB | [c2C,2E,2G,2] eg2e | [d2G,2B,2D2] BB AB | [c2A,2C2E2] AA GA |
+[B2G,2B,2D2] GG2F | [E2C,2E,2G,2] ed2c | [B2G,2B,2D2] |
+
+
+X:78
+T:Morris simple chords 25
+M:3/4
+L:1/8
+K:G
+d2 [BG,B,D]d dg | gd dg [gC,E,G,]e | dc B2 G2 | d2 [BG,B,DG,B,D]d dg | gd dg [gC,E,G,]e |
+dc B2 G2 | [cC,E,G,]d (3edc Bd | d2 [cC,E,G,]d (3edc | B2 G2 [cC,E,G,]d |
+(3edc Bd d2 | [eC,E,G,]g fa g2 |
+
+
+X:79
+T:Morris simple chords 26
+M:3/4
+L:1/8
+K:Em
+e2 [d2G,2B,2D2] B2 | A2>E2 [E2C,2E,2G,2] | E2 D2>D2 | [G2G,2B,2D2] B2 A2 | G2 [A4D,4F,4A,4] |
+e4 [d2G,2B,2D2] | B2 A2>G2 | [A2C,2E,2G,2] E2 D3 |D [G2G,2B,2D2] B2 |
+A2 G2 [d4G,4B,4D4] | G2 GA | [B2G,2B,2D2] d2 g3 |e [d2G,2B,2D2] B2 |
+A2 GA [B2G,2B,2D2] | d2 g2 d2 | [e4C,4E,4G,4] g3 |e [d2G,2B,2D2] B2 |
+A2>E2 [E2A,2C2E2] | E2 D2>D2 | [G2G,2B,2D2] B2 A2 | G2 [A4G,4B,4D4] |
+e4 |
+
+
+X:80
+T:Morris simple chords 30
+M:3/4
+L:1/8
+K:G
+g[gC,E,G,] fe ed | e[eC,E,G,] dc cB | c[dG,B,D] Bg dB | G[FA,CE] AA A2 | g[gC,E,G,] fe ed |
+e[eC,E,G,] dc cB | c[dG,B,D] BG DA | F[GG,B,D] AG G2 | g[gC,E,G,] fe ed |
+e[eC,E,G,] dc cB | c[dG,B,D] Bg dB | G[FA,CE] AA A2 | g[gC,E,G,] fe ed |
+e[eC,E,G,] dc cB | c[dG,B,D] BG DA | F[GG,B,D] AG G2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG G2 | A/B/[cC,E,G,] Ac BG | B[FA,CE] AA A2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG GB | d[eC,E,G,] fg dB | d[BG,B,D] GG G2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG G2 | A/B/[cC,E,G,] Ac BG | B[FA,CE] AA A2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG GB | d[eC,E,G,] fg dB | d[BG,B,D] GG G2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG G2 | A/B/[cC,E,G,] Ac BG | B[FA,CE] AA A2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG GB | d[eC,E,G,] fg dB | d[BG,B,D] GG G2 | g[gC,E,G,] fe ed |
+e[eC,E,G,] dc cB | c[dG,B,D] Bg dB | G[FA,CE] AA A2 | g[gC,E,G,] fe ed |
+e[eC,E,G,] dc cB | c[dG,B,D] BG DA | F[GG,B,D] AG G2 | B/c/[dG,B,D] ed dB |
+d[BG,B,D] GG G2 | A/B/[c2C,,2][A2C,2E,2G,2][c2D,,2] |[D,2F,2A,2C2][B2G,,2][G2F,,2] |[B2E,,2][E,2G,2B,2][F2A,,2] |
+[A2A,2C2E2][A2A,,2][A,2^C2E2G2] |[A2D,,2][D,2F,2A,2C2]C,,2 |[BB,,] c[d2G,,2][eG,B,D] | G,,d [G,B,D]d2B2 |
+d2[B2G,,2][GG,B,D] | G,,G [G,B,D]G2B2 |d2[e2C,,2][fC,E,G,] | C,,g [C,E,G,]d2B2 |
+d2[B2G,,2][GG,B,D] | G,,G [G,B,D]G4 |[B/G,,/]c/ [dG,,]e [dG,B,D][dG,,] | B[dG,B,D] [BG,,]G [GG,B,D][G2G,,2] |
+[A/G,/B,/D/]B/ [c2C,,2] [A2C,2E,2G,2] | [c2D,,2] [D,2F,2A,2C2] [B2G,,2] | [G2F,,2] [B2E,,2] [E,2G,2B,2] | [F2A,,2] [A2A,2C2E2] [A2A,,2] |
+[A,2^C2E2G2] [A2D,,2] [D,2F,2A,2=C2] | C,,2 [BB,,]c [d2G,,2] | [eG,B,D]G,, d[G,B,D] d2 | B2 d2 [B2G,,2] |
+[GG,B,D]G,, G[G,B,D] G2 | B2 d2 [e2C,,2] | [fC,E,G,]C,, g[C,E,G,] d2 | B2 d2 [B2G,,2] |
+[GG,B,D]G,, G[G,B,D] G4 | [B/G,,/]c/[dG,,] e[dG,B,D] | [dG,,]B [dG,B,D][BG,,] G[GG,B,D] | [G2G,,2] [A/G,/B,/D/]B/[c2C,,2][A2C,2E,2G,2] |
+[c2D,,2][D,2F,2A,2C2][B2G,,2] |[G2F,,2][B2E,,2][E,2G,2B,2] |[F2A,,2][A2A,2C2E2][A2A,,2] |[A,2^C2E2G2][A2D,,2][D,2F,2A,2=C2] |
+C,,2[BB,,] c[d2G,,2] |[eG,B,D] G,,d [G,B,D]d2 |B2d2[B2G,,2] |[GG,B,D] G,,G [G,B,D]G2 |
+B2d2[e2C,,2] |[fC,E,G,] C,,g [C,E,G,]d2 |B2d2[B2G,,2] |[GG,B,D] G,,G [G,B,D]G4 |
+[gG,,] [gC,,]f | [eC,E,G,][eC,,] d[eC,E,G,] [eC,,]d | [cC,E,G,][cC,,] B[cC,E,G,] [dG,,]B | [gG,B,D][dG,,] B[GG,B,D] [FA,,]A |
+[AA,CE][A2D,,2][g^C,,] [g=C,,]f | [eC,E,G,][eC,,] d[eC,E,G,] [eC,,]d | [cC,E,G,][cC,,] B[cC,E,G,] [dG,,]B | [GG,B,D][DD,,] A[FD,F,A,C] [GG,,]A |
+[GG,B,D][G2G,,2] |
+
+
+X:81
+T:Playford simple chords 1
+M:3/4
+L:1/8
+K:Bb
+D2 [G2G,2B,2D2] B4 | G2 [^F2D,2F,2A,2C2] | d4 D2 | [G2G,2B,2D2] B4 | G2 [^F2D,2F,2A,2C2] A4 |
+D2 [G2G,2B,2D2] | B4 G2 | [^F2D,2F,2A,2] g4 | c2 [B4G4B4D4] |
+A4 [G6G,6B,6D6] | D2 | [G2G,2B,2D2] B4 | G2 [^F2D,2F,2A,2C2] d4 |
+D2 [G2G,2B,2D2] | B4 G2 | [^F2D,2F,2A,2C2] A4 | D2 [G2G,2B,2D2] B4 |
+G2 [^F2D,2F,2A,2] | g4 c2 | [B4G4B4D4] A4 | [G6G,6B,6D6] |
+d2 [d2G,2B,2D2] | g4 d2 | [g2G,2B,2D2] b4 | d2 [c2F,2A,2C2] f4 |
+c2 [f2F,2A,2C2] | a4 c2 | [B2E,2G,2B,2] e4 | dc [d2G,2B,2D2] g4 |
+c2 [B4G4B4D4] | A4 | [G6G,6B,6D6] | d2 [d2G,2B,2D2] g4 |
+d2 [g2G,2B,2D2] | b4 d2 | [c2F,2A,2C2] f4 | c2 [f2F,2A,2C2] a4 |
+c2 [B2E,2G,2B,2] | e4 dc | [d2G,2B,2D2] g4 | c2 [B4G4B4D4] |
+A4 [G6G,6B,6D6] |
+
+
+X:82
+T:Playford simple chords 2
+M:3/4
+L:1/8
+K:Em
+G2 E[D5G,5B,5D5] | EG2B | [A3E,3G,3B,3]G5 | A2<[A2C,2E,2G,2] | G3E3 |
+[D6G,6B,6D6] | B2 A[G5E,5G,5B,5] | FG2A | [B5G,5B,5D5]A |
+GA B[A5A,5C5E5] | BA2G | [E3C,,3]F3 | G3[A3D,3F,3A,3] |
+A3G3 | [B5G,5B,5D5]A | B2 d2<[e2C,2E,2G,2] | d3B3 |
+[A6D,6F,6A,6] | G2 A2<[B2E,2G,2B,2] | A3G3 | [E6C,6E,6G,6] |
+D6<[D6G,6B,6D6] | D6 | [G2G,2B,2D2] E[D5G,5B,5D5G,5B,5D5] | EG2B |
+[A3E,3G,3B,3]G5 | A2<[A2C,2E,2G,2] | G3E3 | [D6G,6B,6D6] |
+B2 A[G5E,5G,5B,5] | FG2A | [B5G,5B,5D5]A | GA B[A5A,5C5E5] |
+BA2G | [E3C,,3]F3 | G3[A3D,3F,3A,3] | A3G3 |
+[B5G,5B,5D5]A | B2 d2<[e2C,2E,2G,2] | d3B3 | [A6D,6F,6A,6] |
+G2 A2<[B2E,2G,2B,2] | A3G3 | [E6C,6E,6G,6] | D6<[D6G,6B,6D6] |
+D6 | [A2G,2B,2D2G,2B,2D2]<[A2D,2F,2A,2] B3 |c3 [d5G,5B,5D5] |c B2 |
+d[c9A,9C9E9] | [B3G3B,3D3] |A3 G3 |[A3C,3E,3G,3] B3 |
+c3 [B6E,6G,6B,6] | A2 | G2<[E2A,2C2E2] c3 |B2G A7 |
+[G2D,2F,2A,2C2D,2F,2A,2C2] |E [D5G,5B,5D5] |E G2 B2<[A2E,2G,2B,2] | G5 |
+A2< [A2C,2E,2G,2]G3 | E3[D6G,6B,6D6] |B2 |A [G5E,5G,5B,5] |
+F G2 A[B5G,5B,5D5] | AG | AB [A5A,5C5E5] |B A2 G2<[E2C,,2] |
+F3G3 | [A3D,3F,3A,3]A3 | G3[B5G,5B,5D5] | AB2 |
+d2< [e2C,2E,2G,2]d3 | B3[A6D,6F,6A,6] |G2 |A2< [B2E,2G,2B,2]A3 |
+G3[E6C,6E,6G,6] |D3 | [D9G,9B,9D9] |D6 |
+[AG,B,DG,B,D] | [A3D,3F,3A,3]B3 | c3[d5G,5B,5D5] | cB2d |
+[c9A,9C9E9] |[B3G3B,3D3] | A3G3 | [A3C,3E,3G,3]B3 |
+c3[B6E,6G,6B,6] |A2G | [E3A,3C3E3]c3 | B2 GA7 |
+[G2D,2F,2A,2C2D,2F,2A,2C2] | E[D5G,5B,5D5] | EG2B2< [A2E,2G,2B,2] |G5 |
+A2<[A2C,2E,2G,2] G3 |E3 [D6G,6B,6D6] | B2 | A[G5E,5G,5B,5] |
+FG2A [B5G,5B,5D5] |A GA | B[A5A,5C5E5] | BA2G2< [E2C,,2] |
+F3 G3 |[A3D,3F,3A,3] A3 |G3 [B5G,5B,5D5] |A B2 |
+d2<[e2C,2E,2G,2] d3 |B3 [A6D,6F,6A,6] | G2 | A2<[B2E,2G,2B,2] A3 |
+G3 [E6C,6E,6G,6] | D3 |[D9G,9B,9D9] | [D6G,6B,6D6] |
+
+
+X:83
+T:Playford simple chords 7
+M:3/4
+L:1/8
+K:Bb
+[g4G,,4] [^f2D,2F,2A,2C2] | =e^f [g4G,4B,4D4] | [d2C,,2] cB [AD,^F,A,C]B | c2 [B2G,2B,2D2] G2 | [g4G,,4] [a2F,2A,2C2E2] |
+ga [b4B,4D4F4] | [f2E,,2] ed [cF,A,CE]d | e2 [d2B,2D2F2] B2 | [g4G,,4] [^f2D,2F,2A,2C2] |
+=e^f [g4G,4B,4D4] | [d2C,,2] cB [AD,^F,A,C]B | c2 [B2G,2B,2D2] G2 | [g4G,,4] [a2F,2A,2C2E2] |
+ga [b4B,4D4F4] | [f2E,,2] ed [cF,A,CE]d | e2 [d2B,2D2F2] B2 | [d2B,,2] f2 [B,2D2F2] |
+f2 [f4B,4D4F4] | [c2F,,2] e2 [F,2A,2C2] | e2 [e4F,4A,4C4] | [B2G,,2] d2 [G,2B,2D2] |
+d2 [d2G,2B,2D2] cB | [AC,,]B c2 [B2A,2^C2=E2G2] | AG [^F2D,2F,2A,2C2] D2 | [d2D,,2] a2 [D,2^F,2A,2C2] |
+a2 [a2D,2^F,2A,2C2] d2 | [b2G,,2] a2 [g2D,2^F,2A,2C2] | ^f2 [g4G,4B,4D4] | [dB,,]e f2 [BB,DF]c |
+d2 [AF,A,C]B c2 | [B2C,,2] G2 [G2D,2^F,2A,2C2] | ^F2 [G4G,4B,4D4] | [d2B,,2] f2 [B,2D2F2] |
+f2 [f4B,4D4F4] | [c2F,,2] e2 [F,2A,2C2] | e2 [e4F,4A,4C4] | [B2G,,2] d2 [G,2B,2D2] |
+d2 [d2G,2B,2D2] cB | [AC,,]B c2 [B2A,2^C2=E2G2] | AG [^F2D,2F,2A,2C2] D2 | [d2D,,2] a2 [D,2^F,2A,2C2] |
+a2 [a2D,2^F,2A,2C2] d2 | [b2G,,2] a2 [g2D,2^F,2A,2C2] | ^f2 [g4G,4B,4D4] | [dB,,]e f2 [BB,DF]c |
+d2 [AF,A,C]B c2 | [B2C,,2] G2 [G2D,2^F,2A,2C2] | ^F2 [G4G,4B,4D4] |
+
+
+X:84
+T:Playford simple chords 9
+M:3/4
+L:1/8
+K:Ddor
+[DG,B,D]E DG2A | [BG,B,D]c BA2G | [dG,B,DF]B2A2G | [E6C,6E,6G,6] | [DG,B,D]E DG2A |
+[BG,B,D]c BA2G | [dG,B,D]B2c2d | [e5C,5E,5G,5]e | [dG,B,D]B2A2G |
+[c2C,2E,2G,2] de dc | [dG,B,D]B cA2G | [E3A,3C3E3]G2E | [DG,B,D]E DG2A |
+[BG,B,D]c de dc | [dA,CE]B cA2G | [G5G,5B,5D5] |
+
+
+X:85
+T:Playford simple chords 12
+M:3/4
+L:1/8
+K:G
+A2 [d4D,4F,4A,4] | d2 e2 [f4D,4F,4A,4] | e2 f2 | [g2G,2B,2D2] g2 f2 | e4< [d4D,4F,4A,4] |
+A2 [d4D,4F,4A,4] | d2 e2 | [f4D,4F,4A,4] e2 | f2 [g2G,2B,2D2] g2 |
+f2 e4< [d4D,4F,4A,4] | ef | [g2C,2E,2G,2] f2 e2 | d2 [d2G,2B,2D2] c2 |
+B2 Bc [d2G,2B,2D2] | d2 c2 B2 | [A4D,4F,4A,4C4] G2 | ef [g2C,2E,2G,2] f2 |
+e2 d2 [d2G,2B,2D2] | c2 B2 Bc | [d2G,2B,2D2] d2 c2 | B2 [A4D,4F,4A,4C4] |
+G4 [B3G,3B,3D3] |c d2 d2 | [e2C,2E,2G,2] c2 d4 | [B2G,2B,2D2]>c2 |
+d2 d2 [e2G,2B,2D2] | c2 d2 Bc | [d2G,2B,2D2] d2 c2 | B2 [A4D,4F,4A,4C4] |
+G4 [B3G,3B,3D3] |c d2 d2 | [e2C,2E,2G,2] c2 d4 | [B2G,2B,2D2]>c2 |
+d2 d2 [e2G,2B,2D2] | c2 d2 Bc | [d2G,2B,2D2] d2 c2 | B2 [A4D,4F,4A,4C4] |
+G4 |
+
+
+X:86
+T:Playford simple chords 14
+M:3/4
+L:1/8
+K:Bm
+[d2D,2F,2A,2] d2 c2 | e2 [B2G,2B,2D2] B2 | A2>A2 [B2E,2G,2B,2] | B2 c2 A2 | [d6D,6F,6A,6] |
+A2 [d2D,2F,2A,2] dd | c2 e2 [d2G,2B,2D2] | cB2< A2A | [B2E,2G,2B,2] B2 c2 |
+A2 [d4D,4F,4A,4] | A4 [d2D,2F,2A,2] | A2 B2 AG | [F2D,2F,2A,2]>G2 A2 |
+GF [E2E,2G,2B,2] F2 | G2 A2 [F3D,3F,3A,3] |E D2 E2 | [F2B,2D2F2]>E2 D2 |
+E2 [F2D,2F,2A,2]>E2 | D2 E2 [FG,B,D]G | A2 E2>D2 | [D6D,6F,6A,6] |
+
+
+X:87
+T:Reels simple chords 1
+M:3/4
+L:1/8
+K:Em
+ef [g2G,2B,2D2] ga | g2 dc [BG,B,D]G | AG [AD,F,A,]G FE | DF Ac Be | f[g2G,2B,2D2G,2B,2D2]g ag |
+ed c[BG,B,D] GA | G[AD,F,A,] GF ED | FA cB ef | [g2G,2B,2D2G,2B,2D2G,2B,2D2] ga g2 |
+dc [BG,B,D]G AG | [AD,F,A,]G FE DF | Ac Be f[g2G,2B,2D2G,2B,2D2] |g ag ed |
+c[BG,B,D] GA G[AD,F,A,] | GF ED FA | cB ef [g2G,2B,2D2G,2B,2D2] | ga ge de |
+[gG,B,D]f ga b2 | be [fD,F,A,]e fg | af af [gG,B,D]f | ga ge de |
+[g2G,2B,2D2] ga ge | de [gG,B,D]f ga | b2 b2 [d'2D,2F,2A,2] | d'2 e2<f2 |
+[g2G,2B,2D2]>a2 g2 | ef [g2G,2B,2D2] ga | ge de [gG,B,D]f | ga b2 be |
+[fD,F,A,]e fg af | af [gG,B,D]f ga | ge de [g2G,2B,2D2] | ga ge de |
+[gG,B,D]f ga b2 | b2 [d'2D,2F,2A,2] d'2 | e2<f2 [g3G,3B,3D3] |a g2 GE |
+[DG,B,D]B, DG DB, | DG [EC,E,G,][AD,F,A,] BA | FD FA cB | GE [DG,B,DG,B,D]B, DG |
+DB, DG [EC,E,G,][AD,F,A,] | BA FD FA | cB GE [DG,B,DG,B,D]B, | DG DB, DG |
+[EC,E,G,][AD,F,A,] BA FD | FA cB GE | [DG,B,DG,B,D]B, DG DB, | DG [EC,E,G,][AD,F,A,] BA |
+FD FA c[BG,B,D] |
+
+
+X:88
+T:Reels simple chords 9
+M:3/4
+L:1/8
+K:G
+dc [B2G,2B,2D2] Bc | BA GF [EC,E,G,]C | EG c2 dc | [BG,B,D]A Bc BA | GB [AD,F,A,C]B AF |
+D2 dc [B2G,2B,2D2] | Bc BA GF | [EC,E,G,]C EG cc | dc [BG,B,D]A GB |
+AG FA [G2G,2B,2D2] | GG G2 dc | [B2G,2B,2D2] Bc BA | GF [EC,E,G,]C EG |
+c2 dc [BG,B,D]A | Bc BA GB | [AD,F,A,C]B AF D2 | dc [B2G,2B,2D2] Bc |
+BA GF [EC,E,G,]C | EG cc dc | [BG,B,D]A GB AG | FA [G2G,2B,2D2] GG |
+G2 d2 [e3C,3E,3G,3] |d c2 A2 | [B4G,4B,4D4]< d4 | [D2D,2F,2A,2] DD |
+F2 FF [AD,F,A,]A | A2 d4 | [G2G,2B,2D2] GG B2 | BB [dG,B,D]d d2 |
+g2 d2 [e3C,3E,3G,3] |d c2 A2 | [B4G,4B,4D4]< d4 | [D2D,2F,2A,2] DD |
+F2 FF [AD,F,A,]A | A2 d2 dc | [BG,B,D]A GB AG | FA [G2G,2B,2D2] GG |
+G |
+
+
+X:89
+T:Reels simple chords 14
+M:3/4
+L:1/8
+K:A
+af [e2A,2C2E2] A2 | c2 Bc [e2A,2C2E2] | A2 A2 af | [e2A,2C2E2] c2 c2 | Bc [f2B,2D2F2] B2 |
+B2 cd [eA,CE]f | ed c2 BA | [c2A,2C2E2] e2 a2 | c2 [d2B,2D2F2] f2 |
+B2 ed [c2A,2C2E2] | A2 A2 af | [e2A,2C2E2] A2 c2 | Bc [e2A,2C2E2] A2 |
+A2 af [e2A,2C2E2] | c2 c2 Bc | [f2B,2D2F2] B2 B2 | cd [eA,CE]f ed |
+c2 BA [c2A,2C2E2] | e2 a2 c2 | [d2B,2D2F2] f2 B2 | ed [c2A,2C2E2] A2 |
+A2 g2 [a4A,4C4E4] | e2 fg | [a2A,2C2E2] ed c2 | BA [a2A,2C2E2] a2 |
+ef ec [d2B,2D2F2] | B2 B2 e2 | [a4A,4C4E4] e2 | fg [aA,CE]e fd |
+c2 BA [d2D,2F,2A,2] | f2 B2 ed | [c2A,2C2E2] A2 A2 | g2 [a4A,4C4E4] |
+e2 fg [a2A,2C2E2] | ed c2 BA | [a2A,2C2E2] a2 ef | ec [d2B,2D2F2] B2 |
+B2 e2 [a4A,4C4E4] | e2 fg | [aA,CE]e fd c2 | BA [d2D,2F,2A,2] f2 |
+B2 ed [c2A,2C2E2] | A2 A2 |
+
+
+X:90
+T:Reels simple chords 21
+M:3/4
+L:1/8
+K:Bm
+A2 [d2D,2F,2A,2] A2 | GF EG [F2D,2F,2A,2] | A4 de | [fD,F,A,]e df e2 | c4< [d4D,4F,4A,4] |
+A2 [d2D,2F,2A,2] | A2 GF EG | [F2D,2F,2A,2] A2 d2 | f2 [eE,^G,B,D]f ed |
+c2 B4< [A4A,4C4E4] | de | [f2D,2F,2A,2] f2 e2 | fe [d2D,2F,2A,2] A4 |
+a2 [b2G,2B,2D2] | a2 g2 f2 | [e6E,6G,6B,6] | de [f2D,2F,2A,2] f2 |
+g2 fg [a2D,2F,2A,2] | f2 a2 ag | [f2D,2F,2A,2] ed e2 | c4< [d4D,4F,4A,4] |
+a2 [fD,F,A,]e | de f2 g2 | [f2D,2F,2A,2] d4 | a2 [g2E,2G,2B,2] fe |
+f2 e4< [d4D,4F,4A,4] | e2 | [fD,F,A,]e de f2 | g2 [f2B,2D2F2] d4 |
+f2 [eE,G,B,]f | ef g2 f2 | [e6A,6C6E6G6] | a2 [fD,F,A,]e df |
+e2 a2 [fD,F,A,]e | df e2 A2 | [B2G,2B,2D2] cd g2 | f4< [e4A,4C4E4] |
+de [f2D,2F,2A,2] | f2 e2 fe | [d2G,2B,2D2] B2 A2 | AA [B2G,2B,2D2] cd |
+e2 c4< [d4D,4F,4A,4] |
+
+
+X:91
+T:Reels simple chords 32
+M:3/4
+L:1/8
+K:D
+FE [D2D,2F,2A,2] DE | F2 ED [FD,F,A,]A2 |F2< A2A | [BG,B,D]A Bc dB | AG [F2E,2^G,2B,2D2] ED |
+E2 FE [A,D,F,A,]D | DD F2 ED | [FD,F,A,]A2F2< A2 |A [BG,B,D]A Bc |
+dB AG [F2D,2F,2A,2] | D2 D4 | FE [D2D,2F,2A,2D,2F,2A,2] DE | F2 ED [FD,F,A,]A2 |
+F2< A2A | [BG,B,D]A Bc dB | AG [F2E,2^G,2B,2D2] ED | E2 FE [A,D,F,A,]D |
+DD F2 ED | [FD,F,A,]A2F2< A2 |A [BG,B,D]A Bc | dB AG [F2D,2F,2A,2] |
+D2 D4 | [fD,F,A,]a2b af | de [fD,F,A,]e de | fe de [fD,F,A,]a2 |
+b af de | [fE,^G,B,D]e d2 e3 |e [fD,F,A,]a2b | af de [fE,^G,B,D]e |
+d2 B2 A2 | [BG,B,D]c dB AG | FE [F2D,2F,2A,2] D2 | D4 [fD,F,A,]a2 |
+b af de | [fD,F,A,]e de fe | de [fD,F,A,]a2b | af de [fE,^G,B,D]e |
+d2 e2>e2 | [fD,F,A,]a2b af | de [fE,^G,B,D]e d2 | B2 A2 [BG,B,D]c |
+dB AG FE | [F2D,2F,2A,2] D2 D4 |
+
+
+X:92
+T:Reels simple chords 43
+M:3/4
+L:1/8
+K:D
+[F2D,2F,2A,2] F2 A2 | F2 [G2A,2C2E2G2] BG | E2 E2 [F2D,2F,2A,2] | D2 C2 D2 | [EA,CEG]F GE A4 |
+[F2B,2D2F2] F2 | A2 F2 [G2E,2G,2B,2] | BG E2 E2 | [F2D,2F,2A,2] D2 E2 |
+C2 [D4D,4F,4A,4] | D4 [F2D,2F,2A,2] | F2 A2 F2 | [G2A,2C2E2G2] BG E2 |
+E2 [F2D,2F,2A,2] D2 | C2 D2 [EA,CEG]F | GE A4 | [F2B,2D2F2] F2 A2 |
+F2 [G2E,2G,2B,2] BG | E2 E2 [F2D,2F,2A,2] | D2 E2 C2 | [D4D,4F,4A,4] D4 |
+[d2D,2F,2A,2] d2 | A2 B2 [c2A,2C2E2G2] | B2 A4 | [d2D,2F,2A,2] d2 A2 |
+B2 [c2A,2C2E2] dc | B2 AG [F2D,2F,2A,2] | F2 A2 F2 | [G2E,2G,2B,2] BG E2 |
+E2 [F2D,2F,2A,2] D2 | E2 C2 [D4D,4F,4A,4] | D4 | [d2D,2F,2A,2] d2 A2 |
+B2 [c2A,2C2E2G2] B2 | A4 [d2D,2F,2A,2] | d2 A2 B2 | [c2A,2C2E2] dc B2 |
+AG [F2D,2F,2A,2] F2 | A2 F2 [G2E,2G,2B,2] | BG E2 E2 | [F2D,2F,2A,2] D2 E2 |
+C2 [D2D,2F,2A,2] FA | d4 |
+
+
+X:93
+T:Reels simple chords 68
+M:3/4
+L:1/8
+K:Bm
+[eE,G,B,]f ed cd | ef [gG,B,D]e dB | AG EF [G2G,2B,2D2] | AG BG AG | [EE,G,B,]F GA BA |
+A2 [eE,G,B,]f ed | cd ef [gG,B,D]e | dB AG EF | [G2G,2B,2D2] AG BG |
+AG [DG,B,D]E GA | BA A2 [eE,G,B,]f | ed cd ef | [gG,B,D]e dB AG |
+EF [G2G,2B,2D2] AG | BG AG [EE,G,B,]F | GA BA A2 | [eE,G,B,]f ed cd |
+ef [gG,B,D]e dB | AG EF [G2G,2B,2D2] | AG BG AG | [DG,B,D]E GA BA |
+A2 [eA,=CE]a ab | ag ef [gG,B,D]a | bg ag ef | [gG,B,D]a ge d2 |
+ef [gE,G,B,]d ed | cd e2 [eA,=CE]a | ab ag ef | [gG,B,D]a bg ag |
+ef [gG,B,D]f ge | d2 ef [gE,G,B,]f | gB BA A2 | [eA,=CE]a ab ag |
+ef [gG,B,D]a bg | ag ef [gG,B,D]a | ge d2 ef | [gE,G,B,]d ed cd |
+e2 [eA,=CE]a ab | ag ef [gG,B,D]a | bg ag ef | [gG,B,D]f ge d2 |
+ef [gE,G,B,]f gB | BA A2 |
+
+
+X:94
+T:Reels simple chords 84
+M:3/4
+L:1/8
+K:Bm
+A2 [d2D,2F,2A,2] A2 | F2 A2 [B2E,2G,2B,2] | G2 E2 G2 | [F2D,2F,2A,2] A2 d3 |e [fA,CEG]g fe |
+d2 A2 [d2D,2F,2A,2] | A2 F2 A2 | [B2E,2G,2B,2] G2 E2 | G2 [F2A,2C2E2G2]>E2 |
+D2 C4< [D4D,4F,4A,4] | A2 | [d2D,2F,2A,2] A2 F2 | A2 [B2E,2G,2B,2] G2 |
+E2 G2 [F2D,2F,2A,2] | A2 d2>e2 | [fA,CEG]g fe d2 | A2 [d2D,2F,2A,2] A2 |
+F2 A2 [B2E,2G,2B,2] | G2 E2 G2 | [F2A,2C2E2G2]>E2 D2 | C4< [D4D,4F,4A,4] |
+FG2< [A2D,2F,2A,2] |G F2 G2 | [A2D,2F,2A,2] d2 f2 | A2 [B2E,2G,2B,2] d2 |
+g2 f2 [eA,CEG]f | ed c2 FG | [A2D,2F,2A,2]>G2 F2 | G2 [A2D,2F,2A,2] d2 |
+f2 A2 [B2G,2B,2D2] | g2 fe dc | [d6D,6F,6A,6] | FG2< [A2D,2F,2A,2]G |
+F2 G2 [A2D,2F,2A,2] | d2 f2 A2 | [B2E,2G,2B,2] d2 g2 | f2 [eA,CEG]f ed |
+c2 FG2< [A2D,2F,2A,2] |G F2 G2 | [A2D,2F,2A,2] d2 f2 | A2 [B2G,2B,2D2] g2 |
+fe dc [d6D,6F,6A,6] | cd | [e2A,2C2E2]>c2 A2 | A2 [f2D,2F,2A,2]>d2 |
+A2 A2 [^g2E,2G,2B,2D2] | e2 f2 ^g2 | [a2A,2C2E2G2] g2 f2 | e2 [d2D,2F,2A,2] A2 |
+F2 A2 [B2E,2G,2B,2] | G2 E2 G2 | [F2D,2F,2A,2] A2 d3 |e [d6D,6F,6A,6] |
+cd2< [e2A,2C2E2] |c A2 A2 | [f2D,2F,2A,2]>d2 A2 | A2 [^g2E,2G,2B,2D2] e2 |
+f2 ^g2 [a2A,2C2E2=G2] | g2 f2 e2 | [d2D,2F,2A,2] A2 F2 | A2 [B2E,2G,2B,2] G2 |
+E2 G2 [F2D,2F,2A,2] | A2 d2>e2 | [d6D,6F,6A,6] |
+
+
+X:95
+T:Reels simple chords 87
+M:3/4
+L:1/8
+K:G
+d2 [g2G,2B,2D2] d2 | B2 dB [EE,G,B,]F | GA B4 | [c2C,2E,2G,2] A2 A2 | G2 [AD,F,A,C]D BD |
+cD dD [g2G,2B,2D2] | d2 d2 Bd | [cC,E,G,]A BG A2 | D2 [EE,G,B,]F GA |
+B2 c2 [AD,F,A,]D | cA G2 d2 | [g2G,2B,2D2] d2 B2 | dB [EE,G,B,]F GA |
+B4 [c2C,2E,2G,2] | A2 A2 G2 | [AD,F,A,C]D BD cD | dD [g2G,2B,2D2] d2 |
+d2 Bd [cC,E,G,]A | BG A2 D2 | [EE,G,B,]F GA B2 | c2 [AD,F,A,]D cA |
+G2 FG [A2D,2F,2A,2] | D2 D2 c2 | [B2G,2B,2D2] G2 G3 |F [EA,^CEG]F GA |
+BA B^c [d2D,2F,2A,2] | d2 d2 ef | [g2G,2B,2D2] d2 d2 | Bd [cC,E,G,]A BG |
+A2 D2 [EE,G,B,]F | GA B2 c2 | [AD,F,A,]D cA G2 | FG [A2D,2F,2A,2] D2 |
+D2 c2 [B2G,2B,2D2] | G2 G2>F2 | [EA,^CEG]F GA BA | B^c [d2D,2F,2A,2] d2 |
+d2 ef [g2G,2B,2D2] | d2 d2 Bd | [cC,E,G,]A BG A2 | D2 [EE,G,B,]F GA |
+B2 c2 [AD,F,A,]D | cA G2 |
+
+
+X:96
+T:Reels simple chords 102
+M:3/4
+L:1/8
+K:Am
+[cA,CE]d/c/ Bc/B/ [AF,A,C]B/A/ | G>A [B/G,/B,/D/]c/d ed | [g2G,2B,2D2]>d2 [eA,CE]a | ge [dG,B,D]B GA/B/ | [cA,CE]e dB [A2A,2C2E2] |
+A2 [B/G,/B,/D/]c/d ed | [g2G,2B,2D2]>d2 [eA,CE]a | ge [dG,B,D]B GA/B/ | [cA,CE]e dB [A2A,2C2E2] |
+A2 [eA,CE]a ag/e/ | [dG,B,D]g gd [eA,CE]a | ab [gG,B,D]>^f gd | [eA,CE]a ge [dG,B,D]B |
+GA/B/ [cA,CE]e dB | [A2A,2C2E2] A2 [eA,CE]a | ag/e/ [dG,B,D]g gd | [eA,CE]a ab [gG,B,D]>^f |
+gd [eA,CE]a ge | [dG,B,D]B GA/B/ [cA,CE]e | dB [A2A,2C2E2] A2 |
+
+
+X:97
+T:Reels simple chords 105
+M:3/4
+L:1/8
+K:Em
+dc [B2G,2B,2D2] d2 | G2 B2 [A2D,2F,2A,2] | F2 D4 | [B2G,2B,2D2] G2 d2 | B2 [A4D,4F,4A,4] |
+d4 [g2G,2B,2D2] | d2 B2>d2 | [e2A,2C2E2] c2 A3 |G [F2D,2F,2A,2C2] A2 |
+D2 F4< [G4G,4B,4D4] | dc | [B2G,2B,2D2] d2 G2 | B2 [A2D,2F,2A,2] F2 |
+D4 [B2G,2B,2D2] | G2 d2 B2 | [A4D,4F,4A,4] d4 | [g2G,2B,2D2] d2 |
+B2>d2 [e2A,2C2E2] | c2 A2>G2 | [F2D,2F,2A,2C2] A2 D2 | F2 [G8G,8B,8D8] |
+[D2D,2F,2A,2C2] | EF G2 G2 | [E2E,2G,2B,2] FG A2 | A2 [F2F,2A,2^C2] GA |
+B2 B2 [G2E,2G,2B,2] | F2 E4 | [D2D,2F,2A,2C2] EF G2 | G2 [E2E,2G,2B,2] FG |
+A2 d2 [dD,F,A,C]e | dc B2 A2 | [G8G,8B,8D8] | [D2D,2F,2A,2C2] EF |
+G2 G2 [E2E,2G,2B,2] | FG A2 A2 | [F2F,2A,2^C2] GA B2 | B2 [G2E,2G,2B,2] F2 |
+E4 [D2D,2F,2A,2C2] | EF G2 G2 | [E2E,2G,2B,2] FG A2 | d2 [dD,F,A,C]e dc |
+B2 A2 [G8G,8B,8D8] | [d2D,2F,2A,2] d2 dA | Fd [c2C,2E,2G,2] c2 | cG Ec [^A2A,2D2=F2] |
+^A2 A=F DA | [A8A,8^C8E8] | [d2D,2F,2A,2] d2 | d2 ^cd [e2A,2=C2E2] |
+c2 A2 G2 | [F2D,2F,2A,2C2] A2 de | f2 [g8G,8B,8D8] | [d2D,2F,2A,2] |
+d2 dA Fd | [c2C,2E,2G,2] c2 cG | Ec [^A2A,2D2=F2] A2 | ^A=F DA [=A8A,8^C8E8] |
+[d2D,2F,2A,2] d2 d2 | ^cd [e2A,2=C2E2] c2 | A2 G2 [F2D,2F,2A,2C2] | A2 de f2 |
+[g8G,8B,8D8] |
+
+
+X:98
+T:Reels simple chords 120
+M:3/4
+L:1/8
+K:Bm
+[AD,F,A,]A/A/ AA [BG,B,D]B/B/ | BB [AD,F,A,]A/A/ AF | [E4A,4C4E4G4] [AD,F,A,]A/A/ | AA [BG,B,D]B/B/ BB | [AA,CEG]c/c/ ec [d4D,4F,4A,4] |
+[AD,F,A,]A/A/ AA | [BG,B,D]B/B/ BB [AD,F,A,]A/A/ | AF [E4A,4C4E4G4] | [AD,F,A,]A/A/ AA [BG,B,D]B/B/ |
+BB [AA,CEG]c/c/ ec | [d2D,2F,2A,2]>A2 [dD,F,A,]d/d/ | fA2< [d2D,2F,2A,2]A | [dD,F,A,]d/d/ cB2< [A2A,2C2E2G2] |
+A [dD,F,A,]d/d/ dd | [BG,B,D]B/B/ BB [AA,CEG]c/c/ | ec2< [d2D,2F,2A,2]A | [dD,F,A,]d/d/ fA2< [d2D,2F,2A,2] |
+A [dD,F,A,]d/d/ cB | [A2A,2C2E2G2]>A2 [dD,F,A,]d/d/ | dd [BG,B,D]B/B/ BB | [AA,CEG]c/c/ ec2< [d2D,2F,2A,2] |
+
+
+X:99
+T:Reels simple chords 123
+M:3/4
+L:1/8
+K:Em
+D2 [G2G,2B,2D2]>A2 | B2 d2 [cD,F,A,]B | AG B2 GA | [B2A,2C2E2] A2 A2 | GA [B2D,2F,2A,2C2] A2 |
+A2 D2 [G3G,3B,3D3] |A B2 d2 | [cG,B,D]B AG Bc | AB [G2E,2G,2B,2] E2 |
+E2 DE [G2E,2G,2B,2] | E2 E2 D2 | [G2G,2B,2D2]>A2 B2 | d2 [cD,F,A,]B AG |
+B2 GA [B2A,2C2E2] | A2 A2 GA | [B2D,2F,2A,2C2] A2 A2 | D2 [G2G,2B,2D2]>A2 |
+B2 d2 [cG,B,D]B | AG Bc AB | [G2E,2G,2B,2] E2 E2 | DE [G2E,2G,2B,2] E2 |
+E2 d2 [e2C,2E,2G,2] | eg d2 dB | [cD,F,A,]B AG B2 | GA [B2A,2C2E2] A2 |
+A2 GA [B2D,2F,2A,2] | A2 A2 d2 | [e2C,2E,2G,2] eg d2 | dB [cD,F,A,]B AG |
+Bc AB [G2E,2G,2B,2] | E2 E2 DE | [G2E,2G,2B,2] E2 E2 | d2 [e2C,2E,2G,2] eg |
+d2 dB [cD,F,A,]B | AG B2 GA | [B2A,2C2E2] A2 A2 | GA [B2D,2F,2A,2] A2 |
+A2 d2 [e2C,2E,2G,2] | eg d2 dB | [cD,F,A,]B AG Bc | AB [G2E,2G,2B,2] E2 |
+E2 DE [G2E,2G,2B,2] | E2 E2 |
+
+
+X:100
+T:Reels simple chords 134
+M:3/4
+L:1/8
+K:Em
+Bc [dG,B,D]d dd | ^c2 d2 [e2G,2B,2D2] | d2 B4 | [DG,B,D]D DD G2 | B2 [e2A,2C2E2] d2 |
+c4 [cA,CE]c | cc B2 c2 | [f2A,2C2E2] e2 c4 | [f2D,2F,2A,2C2] e2 |
+c2 A2 [e2G,2B,2D2] | d2 B4 | [dG,B,D]d dd ^c2 | d2 [e2G,2B,2D2] d2 |
+B4 [DG,B,D]D | DD G2 B2 | [e2A,2C2E2] d2 c4 | [cA,CE]c cc |
+B2 c2 [f2A,2C2E2] | e2 c4 | [fD,F,A,C]e dc B2 | A2 [G4G,4B,4D4] |
+GA Bc [dG,B,D]d | dd B2 B2 | [dG,B,D]d dd B2 | B2 [d4G,4B,4D4] |
+e2>d2 [d2A,2C2E2] | ^c2 =c4 | [cA,CE]d cB A2 | A2 [cA,CE]d cB |
+A2 A2 [f3D,3F,3A,3C3] |e2< f2e | [e2G,2B,2D2] d2 e2 | d2 [d2G,2B,2D2] d2 |
+de dc [B2G,2B,2D2] | B2 B4 | [d4G,4B,4D4] e3 |d [d2A,2C2E2] ^c2 |
+c4 [c2A,2C2E2] | c2 cd cB | [A2A,2C2E2] A2 A4 | [dD,F,A,C]d dd |
+e2 f4< [g4G,4B,4D4] |
+
+
+X:101
+T:Reels simple chords 139
+M:3/4
+L:1/8
+K:A
+[E2A,2C2E2] c2 c2 | AB [cA,CE]B Ac | BA FE [DD,F,A,]F | Ac d2 Bc | [dD,F,A,]c de dc |
+BA [E2A,2C2E2] c2 | c2 AB [cA,CE]B | Ac BA FA | [dD,F,A,]c de fg |
+af [eE,G,B,D]c Bc | A4 [E2A,2C2E2] | c2 c2 AB | [cA,CE]B Ac BA |
+FE [DD,F,A,]F Ac | d2 Bc [dD,F,A,]c | de dc BA | [E2A,2C2E2] c2 c2 |
+AB [cA,CE]B Ac | BA FA [dD,F,A,]c | de fg af | [eE,G,B,D]c Bc A4 |
+[eA,CE]c ea | fd fa [gE,G,B,]a | bg a2 cd | [eA,CE]c ea fd |
+fa [eA,CE]c BA | B2 cd [eA,CE]c | ea fd fa | [gE,G,B,]a bg a2 |
+fg [aA,CE]g ae | fa ed [cE,G,B,]A | B2 A4 | [eA,CE]c ea fd |
+fa [gE,G,B,]a bg | a2 cd [eA,CE]c | ea fd fa | [eA,CE]c BA B2 |
+cd [eA,CE]c ea | fd fa [gE,G,B,]a | bg a2 fg | [aA,CE]g ae fa |
+ed [cE,G,B,]A B2 | A4 |
+
+
+X:102
+T:Reels simple chords 162
+M:3/4
+L:1/16
+K:Bm
+fg[a2A,2C2E2] a4 e2[aA,CE]b | age4[gG,B,D]f gage | de[gG,B,D]f gag2 d2[e2A,2C2E2] | fga2 ae[aA,CE]b age2 | f2[gE,G,B,]d BAGA Bd[c2A,2C2E2] |
+A2A2 fg[a2A,2C2E2] a4 | e2[aA,CE]b age4[gG,B,D]f | gage de[gG,B,D]f gag2 | d2[e2A,2C2E2] fga2 ae[aA,CE]b |
+age2 f2[gE,G,B,]d BAGA | Bd[c2A,2C2E2] A2A2 e2[eA,CE]c | ccAc cc[AA,CE]c BAG2 | B2[BG,B,D]d BABd BA[BG,B,D]d |
+BAG2 B2[AA,CE]B cde2 | fg[aD,F,A,]f ged2 gf[eE,G,B,]d | BAGA Bd[c2A,2C2E2] A2A2 | e2[eA,CE]c ccAc cc[AA,CE]c |
+BAG2 B2[BG,B,D]d BABd | BA[BG,B,D]d BAG2 B2[AA,CE]B | cde2 fg[aD,F,A,]f ged2 | gf[eE,G,B,]d BAGA Bd[c2A,2C2E2] |
+A2A2 |
+
+
+X:103
+T:Reels simple chords 171
+M:3/4
+L:1/8
+K:Bm
+[A2F,2^A,2C2E2] A2 [B4B,4^D4F4=A4] | A2 F2 | [B4B,4^D4F4A4] A2 | F2 [E4E,4^G,4B,4D4] | B,4 [E,4^G,4B,4D4] |
+B,2 =C2 | [C4A,4C4E4G4] B,2 | A,2 [G2A,2C2E2G2] G2 | F2 E2 [F8D,8F,8A,8] |
+[D,4F,4A,4] A2 | ^A2 [B4B,4^D4F4=A4] | A2 F2 [B4B,4^D4F4A4] | A2 F2 |
+[E4E,4^G,4B,4D4] B,4 | [E,4^G,4B,4D4] | F4 [F4B,4^D4F4A4] | F4 |
+[F4B,4^D4F4A4] E2 | D2 [E8E,8^G,8B,8D8] | [A,6C6E6] | A2 |
+[A4D,4F,4A,4] A4 | [A4D,4F,4A,4=C4] | B2>A2 [A2G,2B,2D2] | G6 |
+[G,4B,4D4] G4 | [F4B,4^D4F4A4] | F4 [F4B,4^D4F4A4] | G2>F2 |
+[E8E,8^G,8B,8D8] | [A,4C4E4] | A2 ^A2 [B4B,4^D4F4=A4] | A2 F2 |
+[B4B,4^D4F4A4] A2 | F2 [E4E,4^G,4B,4D4] | B,4 [E,4^G,4B,4D4] | B,2 =C2 |
+[C4A,4C4E4G4] B,2 | A,2 [G2A,2C2E2G2] G2 | F2 E2 [F8D,8F,8A,8] | [D,8F,8A,8] |
+
+
+X:104
+T:Reels simple chords 180
+M:3/4
+L:1/8
+K:Em
+GA [B2G,2B,2D2] AB | d2 BA [GG,B,D]A | GE D2 GA | [B2G,2B,2D2] AB dB | GB [A6A,6C6E6] |
+GA [B2G,2B,2D2] | AB d2 BA | [GG,B,D]A GE D2 | GA [BG,B,D]A Bd |
+AG Ad [G6G,6B,6D6] | GA | [B2G,2B,2D2] AB d2 | BA [GG,B,D]A GE |
+D2 GA [B2G,2B,2D2] | AB dB GB | [A6A,6C6E6] | GA [B2G,2B,2D2] AB |
+d2 BA [GG,B,D]A | GE D2 GA | [BG,B,D]A Bd AG | Ad [G6G,6B,6D6] |
+Bc [d2G,2B,2D2] | Bd g2 fg | [eC,E,G,]d Bc d2 | Bc [d2G,2B,2D2] Bd |
+g2 fg [e6A,6C6E6] | de | [g2G,2B,2D2] G2 G2 | BA [GC,E,G,]A GE |
+D2 GA [BG,B,D]A | Bd AG Ad | [G6G,6B,6D6] | Bc [d2G,2B,2D2] Bd |
+g2 fg [eC,E,G,]d | Bc d2 Bc | [d2G,2B,2D2] Bd g2 | fg [e6A,6C6E6] |
+de [g2G,2B,2D2] | G2 G2 BA | [GC,E,G,]A GE D2 | GA [BG,B,D]A Bd |
+AG Ad [G6G,6B,6D6] |
+
+
+X:105
+T:Reels simple chords 188
+M:3/4
+L:1/8
+K:D
+(3ABc [d2D,2F,2A,2] d2 | cd ec [d2D,2F,2A,2] | d2 cd ec | [dD,F,A,]e fg a2 | f2 [gG,B,D]f ed |
+c2 A2 [d2D,2F,2A,2] | d2 cd ec | [d2D,2F,2A,2] d2 cd | ec [dD,F,A,]e fg |
+a2 d2 [cA,CEG]d | ec d2 (3ABc | [d2D,2F,2A,2] d2 cd | ec [d2D,2F,2A,2] d2 |
+cd ec [dD,F,A,]e | fg a2 f2 | [gG,B,D]f ed c2 | A2 [d2D,2F,2A,2] d2 |
+cd ec [d2D,2F,2A,2] | d2 cd ec | [dD,F,A,]e fg a2 | d2 [cA,CEG]d ec |
+d2 fg [aD,F,A,]^g | ab a2 fg | [aD,F,A,]^g ab a2 | f2 [g2G,2B,2D2] eg |
+f2 df [eE,G,B,]d | cd e2 fg | [aD,F,A,]^g ab a2 | fg [a=C,E,G,]^g ab |
+a2 f2 [g2E,2G,2B,2] | eg f2 df | [e2A,2C2E2G2] c2 d2 | fg [aD,F,A,]^g ab |
+a2 fg [aD,F,A,]^g | ab a2 f2 | [g2G,2B,2D2] eg f2 | df [eE,G,B,]d cd |
+e2 fg [aD,F,A,]^g | ab a2 fg | [a=C,E,G,]^g ab a2 | f2 [g2E,2G,2B,2] eg |
+f2 df [e2A,2C2E2G2] | c2 d2 |
+
+
+X:106
+T:Reels simple chords 207
+M:3/4
+L:1/8
+K:G
+ge [dG,B,D]B ge | dB AG [BA,CE]A | AB A2 de | [d2D,2F,2A,2]>e2 dB | AG [BG,B,D]G GG |
+G2 ge [dG,B,D]B | ge dB AG | [BA,CE]A AB A2 | ED [CC,E,G,]E AB |
+A2>B2 [A2D,2F,2A,2C2] | G2 G2 ge | [dG,B,D]B ge dB | AG [BA,CE]A AB |
+A2 de2< [d2D,2F,2A,2] |e dB AG | [BG,B,D]G GG G2 | ge [dG,B,D]B ge |
+dB AG [BA,CE]A | AB A2 ED | [CC,E,G,]E AB2< A2 |B [A2D,2F,2A,2C2] G2 |
+G2 ga [b4E,4G,4B,4] | ba gb | [a2C,2E,2G,2] g2 g4 | [e2C,2E,2G,2] ge |
+de ga [b2A,2C2E2] | a2 a2 ga | [b4E,4G,4B,4] ba | gb [a2C,2E,2G,2] g2 |
+g4 [e2C,2E,2G,2] | ge dB Ad | [B2D2F2A,2] G2 G2 | ga [b4E,4G,4B,4] |
+ba gb [a2C,2E,2G,2] | g2 g4 | [e2C,2E,2G,2] ge de | ga [b2A,2C2E2] a2 |
+a2 ga [b4E,4G,4B,4] | ba gb | [a2C,2E,2G,2] g2 g4 | [e2C,2E,2G,2] ge |
+dB Ad [B2D2F2A,2] | G2 G2 |
+
+
+X:107
+T:Reels simple chords 222
+M:3/4
+L:1/8
+K:A
+ed [c2A,2C2E2] A2 | Ac BA [G2E,2G,2B,2] | E2 E2>E2 | [^D2B,2D2F2A2] B2 Bc | BA [G2E,2G,2B,2D2] E2 |
+E2 ed [c2A,2C2E2] | A2 Ac BA | [GB,DF]A Bc de | fg [aA,CE]e ce |
+Bf ed [c2A,2C2E2] | A2 A2 ed | [c2A,2C2E2] A2 Ac | BA [G2E,2G,2B,2] E2 |
+E2>E2 [^D2B,2D2F2A2] | B2 Bc BA | [G2E,2G,2B,2D2] E2 E2 | ed [c2A,2C2E2] A2 |
+Ac BA [GB,DF]A | Bc de fg | [aA,CE]e ce Bf | ed [c2A,2C2E2] A2 |
+A2 ce [fA,CE]e | ce ag fe | [f2A,2C2E2] e2 e2 | ce [fA,CE]e ce |
+ag fe [d2E,2G,2B,2D2] | B2 B2 e2 | [fA,CE]e ce ag | fe [fD,F,A,]e fg |
+ag fe [dA,CE]c | BA GB ed | [c2A,2C2E2] A2 A2 | ce [fA,CE]e ce |
+ag fe [f2A,2C2E2] | e2 e2 ce | [fA,CE]e ce ag | fe [d2E,2G,2B,2D2] B2 |
+B2 e2 [fA,CE]e | ce ag fe | [fD,F,A,]e fg ag | fe [dA,CE]c BA |
+GB ed [c2A,2C2E2] | A2 A2 |
+
+
+X:108
+T:Reels simple chords 224
+M:3/4
+L:1/8
+K:A
+[cA,CE]B AG E2 | C2 [EA,CE]F A2 | B4 [cA,CE]B | AG E2 C2 | [ED,F,A,]F A2 A4 |
+[cA,CE]B AG | E2 C2 [EA,CE]F | A2 B4 | [cA,CE]B AG E2 |
+C2 [ED,F,A,]F A2 | A4 [c2A,2C2E2] | ef e2 c2 | [BA,CE]c e2 e4 |
+[f2D,2F,2A,2] fg | f2 e2 [BE,G,B,D]c | e2 e4 | [a2D,2F,2A,2] ba fe |
+c2 [eA,CE]f e2 | c4 [A2F,2A,2C2] | Bc BA F2 | [EE,G,B,D]F A2 A4 |
+[c2A,2C2E2] ef | e2 c2 [BA,CE]c | e2 e4 | [f2D,2F,2A,2] fg f2 |
+e2 [BE,G,B,D]c e2 | e4 [a2D,2F,2A,2] | ba fe c2 | [eA,CE]f e2 c4 |
+[A2F,2A,2C2] Bc | BA F2 [EE,G,B,D]F | A2 A4 |
+
+
+X:109
+T:Reels simple chords 234
+M:3/4
+L:1/8
+K:G
+(3DEF [G2G,2B,2D2] GF | GA Bc [dG,B,D]B | eB dB AG | [BE,G,B,]E ED EF | GA [BE,G,B,]G AF |
+GF ED [G2G,2B,2D2] | GF GA Bc | [dG,B,D]B eB dB | AG [BE,G,B,]E ED |
+EF GA [BD,F,A,C]G | AF G2 (3DEF | [G2G,2B,2D2] GF GA | Bc [dG,B,D]B eB |
+dB AG [BE,G,B,]E | ED EF GA | [BE,G,B,]G AF GF | ED [G2G,2B,2D2] GF |
+GA Bc [dG,B,D]B | eB dB AG | [BE,G,B,]E ED EF | GA [BD,F,A,C]G AF |
+G2 B2 [BE,G,B,]e | ed2< e2f | [gE,G,B,]e af gf | ed [AD,F,A,]d d^c |
+d2>e2 [fD,F,A,]d | af gf ed | [BC,E,G,]e ed2< e2 |f [gC,E,G,]e af |
+gf ed [BG,B,D]A | GF EF GA | [BD,F,A,C]G AF G2 | B2 [BE,G,B,]e ed |
+e2>f2 [gE,G,B,]e | af gf ed | [AD,F,A,]d d^c2< d2 |e [fD,F,A,]d af |
+gf ed [BC,E,G,]e | ed2< e2f | [gC,E,G,]e af gf | ed [BG,B,D]A GF |
+EF GA [BD,F,A,C]G | AF G2 |
+
+
+X:110
+T:Reels simple chords 240
+M:3/4
+L:1/8
+K:D
+(3ABc [d2D,2F,2A,2] df | ed cB [A2D,2F,2A,2] | AB AG FE | [DD,F,A,]F AF DG | BG [DD,F,A,]F AF |
+GF ED [d2D,2F,2A,2] | df ed cB | [A2D,2F,2A,2] AB AG | FE [DD,F,A,]F Ad |
+fe dc [d2D,2F,2A,2] | dc d2 (3ABc | [d2D,2F,2A,2] df ed | cB [A2D,2F,2A,2] AB |
+AG FE [DD,F,A,]F | AF DG BG | [DD,F,A,]F AF GF | ED [d2D,2F,2A,2] df |
+ed cB [A2D,2F,2A,2] | AB AG FE | [DD,F,A,]F Ad fe | dc [d2D,2F,2A,2] dc |
+d2 cd [eA,CE]c | ec Ac ec | [fD,F,A,]d fd Ad | fd [gG,B,D]e ge |
+fd fd [eE,^G,B,D]d | cB A2 DG | [BG,B,D]G BG DG | Bd [AD,F,A,]F AF |
+DF Ad [FD,F,A,]A | de fe dc | [d2D,2F,2A,2] dc d2 | cd [eA,CE]c ec |
+Ac ec [fD,F,A,]d | fd Ad fd | [gG,B,D]e ge fd | fd [eE,^G,B,D]d cB |
+A2 DG [BG,B,D]G | BG DG Bd | [AD,F,A,]F AF DF | Ad [FD,F,A,]A de |
+fe dc [d2D,2F,2A,2] | dc d2 |
+
+
+X:111
+T:Reels simple chords 254
+M:3/4
+L:1/8
+K:D
+[=c2E,2^G,2B,2D2] B2 c2 | B2 [E,2^G,2B,2D2] G2 | E4 [=c2E,2^G,2B,2D2] | B2 =c2 B2 | [E,8^G,8B,8D8] |
+[B2A,2C2E2] A2 | B2 A2 [A,2C2E2] | E2 C4 | [A,8A,8C8E8G8] |
+[A,8C8E8G8] | [D2D,2F,2A,2] | E2 ^E2 F2 | [D,2F,2A,2] E2 D4 |
+[B4D,4F,4A,4] | ^A4 [=A8D,8F,8A,8=C8] | [G2G,2B,2D2] A2 B4 | [e4G,4B,4D4] |
+B4 [d8D,8F,8A,8] | [D,4F,4A,4=C4] ^c4 | [=c2E,2^G,2B,2D2] B2 | =c2 B2 [E,2^G,2B,2D2] |
+^G2 E4 | [=c2E,2^G,2B,2D2] B2 c2 | B2 [E,8^G,8B,8D8] | [B2A,2C2E2] |
+A2 B2 A2 | [A,2C2E2] E2 C4 | [A,8A,8C8E8G8] | [A,8C8E8G8] |
+[D2D,2F,2A,2] E2 ^E2 | F2 [D,2F,2A,2] E2 | D4 [B4D,4F,4A,4] | ^A4 |
+[A8D,8F,8A,8=C8] | [G2G,2B,2D2] G4 | G2 [^A4=C,4E,4G,4A,4] | A4 |
+[G8G,8B,8D8] | [G,8B,8D8] |
+
+
+X:112
+T:Reels simple chords 272
+M:3/4
+L:1/8
+K:D
+AG [F2D,2F,2A,2] A2 | d2 c2 [BG,B,D]A | Bc B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [dD,F,A,]c de |
+d2 AG [F2D,2F,2A,2] | A2 d2 c2 | [BG,B,D]A Bc B2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [d4D,4F,4A,4] | d2 AG | [F2D,2F,2A,2] A2 d2 | c2 [BG,B,D]A Bc |
+B2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [dD,F,A,]c de d2 | AG [F2D,2F,2A,2] A2 |
+d2 c2 [BG,B,D]A | Bc B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [d4D,4F,4A,4] |
+d2 AG [F2D,2F,2A,2] | A2 d2 c2 | [BG,B,D]A Bc B2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [dD,F,A,]c | de d2 AG | [F2D,2F,2A,2] A2 d2 | c2 [BG,B,D]A Bc |
+B2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [d4D,4F,4A,4] d2 | AG [F2D,2F,2A,2] A2 |
+d2 c2 [BG,B,D]A | Bc B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [dD,F,A,]c de |
+d2 AG [F2D,2F,2A,2] | A2 d2 c2 | [BG,B,D]A Bc B2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [d4D,4F,4A,4] | d2 a2 | [f2D,2F,2A,2] d2 B2 | ^d2 [eE,G,B,]d ef |
+e2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [dD,F,A,]c de d2 | AG [F2D,2F,2A,2] A2 |
+d2 c2 [BG,B,D]A | Bc B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [d4D,4F,4A,4] |
+d2 a2 [f2D,2F,2A,2] | d2 B2 ^d2 | [eE,G,B,]^d ef e2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [dD,F,A,]c | de d2 AG | [F2D,2F,2A,2] A2 d2 | c2 [BG,B,D]A Bc |
+B2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [d4D,4F,4A,4] d2 | a2 [f2D,2F,2A,2] d2 |
+B2 ^d2 [eE,G,B,]d | ef e2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [dD,F,A,]c de |
+d2 AG [F2D,2F,2A,2] | A2 d2 c2 | [BG,B,D]A Bc B2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [d4D,4F,4A,4] | d2 a2 | [f2D,2F,2A,2] d2 B2 | ^d2 [eE,G,B,]d ef |
+e2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [dD,F,A,]c de d2 | AG [F2D,2F,2A,2] A2 |
+d2 c2 [BG,B,D]A | Bc B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [d4D,4F,4A,4] |
+d2 AG [F2D,2F,2A,2] | F2 F2 EF | [G2G,2B,2D2] G2 G2 | GF [E2A,2C2E2G2] E2 |
+E2 DE [F2D,2F,2A,2] | F2 F2 AG | [F2B,2D2F2] F2 F2 | dc [B2E,2G,2B,2] B2 |
+B2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [d4D,4F,4A,4] d2 | AG [F2D,2F,2A,2] F2 |
+F2 EF [G2G,2B,2D2] | G2 G2 GF | [E2A,2C2E2G2] E2 E2 | DE [F2D,2F,2A,2] F2 |
+F2 AG [F2B,2D2F2] | F2 F2 dc | [B2E,2G,2B,2] B2 B2 | g2 [e2A,2C2E2G2] c2 |
+A2 c2 [d4D,4F,4A,4] | d2 AG | [F2D,2F,2A,2] F2 F2 | EF [G2G,2B,2D2] G2 |
+G2 GF [E2A,2C2E2G2] | E2 E2 DE | [F2D,2F,2A,2] F2 F2 | AG [F2B,2D2F2] F2 |
+F2 dc [B2E,2G,2B,2] | B2 B2 g2 | [e2A,2C2E2G2] c2 A2 | c2 [d4D,4F,4A,4] |
+d2 AG [F2D,2F,2A,2] | F2 F2 EF | [G2G,2B,2D2] G2 G2 | GF [E2A,2C2E2G2] E2 |
+E2 DE [F2D,2F,2A,2] | F2 F2 AG | [F2B,2D2F2] F2 F2 | dc [B2E,2G,2B,2] B2 |
+B2 g2 [e2A,2C2E2G2] | c2 A2 c2 | [d4D,4F,4A,4] d2 |
+
+
+X:113
+T:Reels simple chords 285
+M:3/4
+L:1/8
+K:D
+A2 [dD,F,A,]c df | ec AG [FD,F,A,]A | dc d2 ef | [gG,B,D]d Bg fd | Af [eE,,]d cB |
+A2 (3ABc [dD,F,A,]c | df ec AG | [FD,F,A,]A dc d2 | ef [gG,B,DE]B ed |
+ce Ac [d2D,2F,2A,2] | f2 d2 A2 | [dD,F,A,]c df ec | AG [FD,F,A,]A dc |
+d2 ef [gG,B,D]d | Bg fd Af | [eE,,]d cB A2 | (3ABc [dD,F,A,]c df |
+ec AG [FD,F,A,]A | dc d2 ef | [gG,B,DE]B ed ce | Ac [d2D,2F,2A,2] f2 |
+d2 fg [a2F,,2] | fa gf eg | [fD,F,A,]d AG FA | df [g2G,2B,2D2] Bg |
+f2 Af [eE,,]d | cB A2 fg | [aF,,]A fa gf | eg [fD,F,A,]d AG |
+FA df [gG,B,DE]B | ed ce Ac | [d2D,2F,2A,2] f2 d2 | fg [a2F,,2] fa |
+gf eg [fD,F,A,]d | AG FA df | [g2G,2B,2D2] Bg f2 | Af [eE,,]d cB |
+A2 fg [aF,,]A | fa gf eg | [fD,F,A,]d AG FA | df [gG,B,DE]B ed |
+ce Ac [d2D,2F,2A,2] | f2 d2 |
+
+
+X:114
+T:Reels simple chords 289
+M:3/4
+L:1/8
+K:D
+ag [f2D,2F,2A,2] d2 | f2 d2 [fD,F,A,]a2 |f a2 gf | [e2=C,2E,2G,2] c2 e2 | =c2 [eC,E,G,]g2e |
+g2 ag [f2D,2F,2A,2] | d2 f2 d2 | [fD,F,A,]a2f a2 | (3ABc [d2G,2B,2D2] dB |
+AB AG [F2D,2F,2A,2] | D2 D2 ag | [f2D,2F,2A,2] d2 f2 | d2 [fD,F,A,]a2f |
+a2 gf [e2=C,2E,2G,2] | =c2 e2 c2 | [e=C,E,G,]g2e g2 | ag [f2D,2F,2A,2] d2 |
+f2 d2 [fD,F,A,]a2 |f a2 (3ABc | [d2G,2B,2D2] dB AB | AG [F2D,2F,2A,2] D2 |
+D2 EF [G2G,2B,2D2] | B2 B2 AG | [FD,F,A,]A2A A2 | cd [e2E,2^G,2B,2] ef |
+e2 d2 [cA,CE]d | Bc A2 EF | [GG,B,D]B2B B2 | AG [FD,F,A,]A2A |
+A2 Bc [dG,B,D]c | dB AB AG | [F2D,2F,2A,2] D2 D2 | EF [G2G,2B,2D2] B2 |
+B2 AG [FD,F,A,]A2 |A A2 cd | [e2E,2^G,2B,2] ef e2 | d2 [cA,CE]d Bc |
+A2 EF [GG,B,D]B2 |B B2 AG | [FD,F,A,]A2A A2 | Bc [dG,B,D]c dB |
+AB AG [F2D,2F,2A,2] | D2 D2 |
+
+
+X:115
+T:Reels simple chords 297
+M:3/4
+L:1/8
+K:A
+E2 [A2A,2C2E2] Ac | B2 Bc [A2A,2C2E2] | Ac B2 Bc | [A2A,2C2E2] ag fe | dc [BE,G,B,D]c de |
+c2 A2 [A2A,2C2E2] | Ac B2 Bc | [A2A,2C2E2] Ac B2 | Bc [A2A,2C2E2] ag |
+fe dc [BE,G,B,D]c | de c2 A2 | [e2A,2C2E2] ef ed | cd [e2A,2C2E2] a2 |
+e2 cd [e2A,2C2E2] | ef ed cd | [e2A,2C2E2] ag fe | dc [d2D,2F,2A,2] de |
+c2 cd [B2B,2D2F2] | Bc ed cB | [A2A,2C2E2] ag fe | dc [BE,G,B,D]c de |
+c2 A2 [A2A,2C2E2] | Ac B2 Bc | [A2A,2C2E2] Ac B2 | Bc [A2A,2C2E2] ag |
+fe dc [BE,G,B,D]c | de c2 A2 | [A2A,2C2E2] Ac B2 | Bc [A2A,2C2E2] Ac |
+B2 Bc [A2A,2C2E2] | ag fe dc | [BE,G,B,D]c de c2 | A2 [e2A,2C2E2] ef |
+ed cd [e2A,2C2E2] | a2 e2 cd | [e2A,2C2E2] ef ed | cd [e2A,2C2E2] ag |
+fe dc [d2D,2F,2A,2] | de c2 cd | [B2B,2D2F2] Bc ed | cB [A2A,2C2E2] ag |
+fe dc [BE,G,B,D]c | de c2 A2 | [AA,CE]E Ac BE | GB [AA,CE]E Ac |
+BE GB [A2A,2C2E2] | ag fe dc | [B2E,2G,2B,2D2] gf ed | cB [AA,CE]E Ac |
+BE GB [AA,CE]E | Ac BE GB | [A2A,2C2E2] ag fe | dc [BE,G,B,D]A GB |
+AB cd [eA,CE]^d | ef ec ac | [e2A,2C2E2] af ec | Ac [eA,CE]^d ef |
+ec ac [e2A,2C2E2] | ag fe dc | [d2D,2F,2A,2] bd c2 | ac [B2B,2D2F2] Bc |
+d2 cB [A2A,2C2E2] | ag fe dc | [BE,G,B,D]c de c2 | A2 |
+
+
+X:116
+T:Reels simple chords 302
+M:3/4
+L:1/8
+K:Cdor
+[FA,,]G [A2D,,2] [B2D,2F,2A,2] | [A2D,,2] [F2D,2F,2A,2] [A2D,,2] | [B2D,2F,2A,2] [A2D,,2] [F2D,2F,2A,2] | [A2A,,2] [G2A,2C2E2G2] A,,2 | [F2A,2C2E2G2] [G2A,,2] [A,2C2E2G2] |
+A,,2 [d2A,2C2E2G2] [c2A,,2] | [A,CEG]c [c2A,,2] [e2A,2C2E2G2] | [B2A,,2] [A,CEG]B [B2A,,2] | [c2A,2C2E2G2] [B2D,,2] [A2D,2F,2A,2] |
+[A2D,,2] [^G2D,2F,2A,2] [A2A,,2] | [A,2C2E2G2] A,,2 [FA,CEG]G | [A2D,,2] [B2D,2F,2A,2] [A2D,,2] | [F2D,2F,2A,2] [A2D,,2] [B2D,2F,2A,2] |
+[A2D,,2] [F2D,2F,2A,2] [A2E,,2] | [^G2E,2G,2B,2D2] E,,2 [G2E,2G,2B,2D2] | [^G2E,,2] [E,2G,2B,2D2] E,,2 | [E2E,2^G,2B,2D2] [A2A,,2] [A,CE]A |
+[A2A,,2] [B2A,2C2E2] [c2A,,2] | [A,CE]c [c2A,,2] [d2A,2C2E2] | [e2E,,2] [d2E,2^G,2B,2D2] [c2E,,2] | [B2E,2^G,2B,2D2] [A2A,,2] [A,2C2E2=G2] |
+[F2A,,2] [A,CEG]G [A2D,,2] | [B2D,2F,2A,2] [A2D,,2] [F2D,2F,2A,2] | [A2D,,2] [B2D,2F,2A,2] [A2D,,2] | [F2D,2F,2A,2] [A2A,,2] [G2A,2C2E2G2] |
+A,,2 [F2A,2C2E2G2] [G2A,,2] | [A,2C2E2G2] A,,2 [d2A,2C2E2G2] | [c2A,,2] [A,CEG]c [c2A,,2] | [e2A,2C2E2G2] [B2A,,2] [A,CEG]B |
+[B2A,,2] [c2A,2C2E2G2] [B2D,,2] | [A2D,2F,2A,2] [A2D,,2] [^G2D,2F,2A,2] | [A2A,,2] [A,2C2E2G2] A,,2 | [FA,CEG]G [A2D,,2] [B2D,2F,2A,2] |
+[A2D,,2] [F2D,2F,2A,2] [A2D,,2] | [B2D,2F,2A,2] [A2D,,2] [F2D,2F,2A,2] | [A2E,,2] [^G2E,2G,2B,2D2] E,,2 | [^G2E,2G,2B,2D2] [G2E,,2] [E,2G,2B,2D2] |
+E,,2 [E2E,2^G,2B,2D2] [A2A,,2] | [A,CE]A [A2A,,2] [B2A,2C2E2] | [c2A,,2] [A,CE]c [c2A,,2] | [d2A,2C2E2] [e2E,,2] [d2E,2^G,2B,2D2] |
+[c2E,,2] [B2E,2^G,2B,2D2] [A2A,,2] | [A,2C2E2G2] [F2A,,2] [A,CEG]G | [A2D,,2] [D,2F,2A,2] [f2D,,2] | [D,2F,2A,2] [f2D,,2] [D,2F,2A,2] |
+[e2D,,2] [D,2F,2A,2] [d2A,,2] | [c2A,2C2E2G2] [c2A,,2] [=c2A,2^C2E2G2] | [c2A,,2] [A,2C2E2G2] [E2A,,2] | [A,CEG]F [G2A,,2] [A,2C2E2G2] |
+[d2A,,2] [A,2C2E2G2] [d2A,,2] | [A,2C2E2G2] [c2A,,2] [A,2C2E2G2] | [B2D,,2] [A2D,2F,2A,2] [A2D,,2] | [^G2D,2F,2A,2] [A2D,,2] [D,2F,2A,2] |
+[F2D,,2] [D,F,A,]G [A2D,,2] | [D,2F,2A,2] [f2D,,2] [D,2F,2A,2] | [f2D,,2] [D,2F,2A,2] [e2D,,2] | [D,2F,2A,2] [d2A,,2] [c2A,2C2E2G2] |
+[c2A,,2] [=c2A,2^C2E2G2] [c2A,,2] | [A,2C2E2G2] [E2A,,2] [A,CEG]F | [G2A,,2] [A,2C2E2G2] [c2A,,2] | [A,CEG]B [A2A,,2] [A,2C2E2G2] |
+[f2A,,2] [A,CEG]e [d2D,,2] | [A2D,2F,2A,2] [c2A,,2] [A2A,2C2E2G2] | [d2D,,2] [D,2F,2A,2] [d2D,,2] | [D,2F,2A,2=C2] [A2D,,2] [D,2F,2A,2] |
+[f2D,,2] [D,2F,2A,2] [f2D,,2] | [D,2F,2A,2] [e2D,,2] [D,2F,2A,2] | [d2A,,2] [c2A,2C2E2G2] [c2A,,2] | [=c2A,2^C2E2G2] [c2A,,2] [A,2C2E2G2] |
+[E2A,,2] [A,CEG]F [G2A,,2] | [A,2C2E2G2] [d2A,,2] [A,2C2E2G2] | [d2A,,2] [A,2C2E2G2] [c2A,,2] | [A,2C2E2G2] [B2D,,2] [A2D,2F,2A,2] |
+[A2D,,2] [^G2D,2F,2A,2] [A2D,,2] | [D,2F,2A,2] [F2D,,2] [D,F,A,]G | [A2D,,2] [D,2F,2A,2] [f2D,,2] | [D,2F,2A,2] [f2D,,2] [D,2F,2A,2] |
+[e2D,,2] [D,2F,2A,2] [d2A,,2] | [c2A,2C2E2G2] [c2A,,2] [=c2A,2^C2E2G2] | [c2A,,2] [A,2C2E2G2] [E2A,,2] | [A,CEG]F [G2A,,2] [A,2C2E2G2] |
+[c2A,,2] [A,CEG]B [A2A,,2] | [A,2C2E2G2] [f2A,,2] [A,CEG]e | [d2D,,2] [A2D,2F,2A,2] [c2A,,2] | [A2A,2C2E2G2] [d2D,,2] [D,2F,2A,2] |
+[d2D,,2] [D,F,A,=C] |
+
+
+X:117
+T:Reels simple chords 324
+M:3/4
+L:1/8
+K:G
+B,A, [G,G,B,D]B, DG | BA GB [dG,B,D]B | GA BA GB | [cC,E,G,]d cB AG | FG [AD,F,A,]G FE |
+DC B,A, [G,G,B,D]B, | DG BA GB | [dG,B,D]B GA BA | GB [cC,E,G,]d cB |
+AG FE [DD,F,A,]F | AF G2 B,A, | [G,G,B,D]B, DG BA | GB [dG,B,D]B GA |
+BA GB [cC,E,G,]d | cB AG FG | [AD,F,A,]G FE DC | B,A, [G,G,B,D]B, DG |
+BA GB [dG,B,D]B | GA BA GB | [cC,E,G,]d cB AG | FE [DD,F,A,]F AF |
+G2 Bc [dG,B,D]c | Bd g2 gB | [cC,E,G,]B A2 a3 |g [f2D,2F,2A,2] fg |
+fe df [eA,^CE]d | ^ce d2 B=c | [dG,B,D]c Bd g2 | gB [cC,E,G,]B A2 |
+a2>g2 [fD,F,A,]e | dB cA FD | [G2G,2B,2D2] B2 G2 | Bc [dG,B,D]c Bd |
+g2 gB [cC,E,G,]B | A2 a2>g2 | [f2D,2F,2A,2] fg fe | df [eA,^CE]d ce |
+d2 Bc [dG,B,D]c | Bd g2 gB | [cC,E,G,]B A2 a3 |g [fD,F,A,]e dB |
+cA FD [G2G,2B,2D2] | B2 G2 |
+
+
+X:118
+T:Reels simple chords 336
+M:3/4
+L:1/8
+K:D
+AG [F2D,2F,2A,2] A2 | A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [d2D,2F,2A,2] e2 |
+f4 [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [e2D,2F,2A,2] | d2 d2 AG | [F2D,2F,2A,2] A2 A4 | [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [d2D,2F,2A,2] e2 f4 | [F2D,2F,2A,2] A2 |
+A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [e2D,2F,2A,2] d2 |
+d2 AG [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [d2D,2F,2A,2] | e2 f4 | [F2D,2F,2A,2] A2 A4 | [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [e2D,2F,2A,2] d2 d2 | AG [F2D,2F,2A,2] A2 |
+A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [d2D,2F,2A,2] e2 |
+f4 [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [e2D,2F,2A,2] | d2 d2 de | [f2D,2F,2A,2] d2 A2 | F2 [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [d2D,2F,2A,2] e2 f2 | de [f2D,2F,2A,2] d2 |
+A2 F2 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [e2D,2F,2A,2] d2 |
+d2 AG [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [d2D,2F,2A,2] | e2 f4 | [F2D,2F,2A,2] A2 A4 | [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [e2D,2F,2A,2] d2 d2 | AG [F2D,2F,2A,2] A2 |
+A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [d2D,2F,2A,2] e2 |
+f4 [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [e2D,2F,2A,2] | d2 d2 de | [f2D,2F,2A,2] d2 A2 | F2 [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [d2D,2F,2A,2] e2 f2 | de [f2D,2F,2A,2] d2 |
+A2 F2 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [e2D,2F,2A,2] d2 |
+d2 AG [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [d2D,2F,2A,2] | e2 f4 | [F2D,2F,2A,2] A2 A4 | [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [e2D,2F,2A,2] d2 d2 | AG [F2D,2F,2A,2] A2 |
+A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [d2D,2F,2A,2] e2 |
+f4 [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [e2D,2F,2A,2] | d2 d2 de | [f2D,2F,2A,2] d2 A2 | F2 [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [d2D,2F,2A,2] e2 f2 | de [f2D,2F,2A,2] d2 |
+A2 F2 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [e2D,2F,2A,2] d2 |
+d2 AG [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [d2D,2F,2A,2] | e2 f4 | [F2D,2F,2A,2] A2 A4 | [G2G,2B,2D2] B2 |
+B4 [cA,CEG]c | c2 B2 c2 | [e2D,2F,2A,2] d2 d2 | AG [F2D,2F,2A,2] A2 |
+A4 [G2G,2B,2D2] | B2 B4 | [cA,CEG]c c2 B2 | c2 [d2D,2F,2A,2] e2 |
+f4 [F2D,2F,2A,2] | A2 A4 | [G2G,2B,2D2] B2 B4 | [cA,CEG]c c2 |
+B2 c2 [e2D,2F,2A,2] | d2 d2 |
+
+
+X:119
+T:Reels simple chords 344
+M:3/4
+L:1/8
+K:D
+DF [A2F,2A,2C2] A2 | A2 A2 [AB,DFA]B | AG F2 A2 | [GE,G,B,]A GF E2 | C2 [D2D,2F,2A,2] F2 |
+A2 DF [A2F,2A,2C2] | A2 A2 A2 | [A^E,A,=C]B AG F2 | A2 [GE,G,B,]A GF |
+E2 C2 [D4D,4F,4A,4] | D2 DF | [A2F,2A,2C2] A2 A2 | A2 [AB,DFA]B AG |
+F2 A2 [GE,G,B,]A | GF E2 C2 | [D2D,2F,2A,2] F2 A2 | DF [A2F,2A,2C2] A2 |
+A2 A2 [A^E,A,=C]B | AG F2 A2 | [GE,G,B,]A GF E2 | C2 [D4D,4F,4A,4] |
+D2 DF [A2D,2F,2A,2] | d2 A2 F2 | [G2=C,2E,2G,2] B2 E3 |D [C2A,2C2E2G2] E2 |
+G2 C2 [D2D,2F,2A,2] | F2 A2 DF | [A2D,2F,2A,2] d2 A2 | F2 [G2=C,2E,2G,2] B2 |
+E2>D2 [C2A,2C2E2G2] | E2 B2 C2 | [D4D,4F,4A,4] D2 | DF [A2D,2F,2A,2] d2 |
+A2 F2 [G2=C,2E,2G,2] | B2 E2>D2 | [C2A,2C2E2G2] E2 G2 | C2 [D2D,2F,2A,2] F2 |
+A2 DF [A2D,2F,2A,2] | d2 A2 F2 | [G2=C,2E,2G,2] B2 E3 |D [C2A,2C2E2G2] E2 |
+B2 C2 [D4D,4F,4A,4] | D2 |
+
+
+X:120
+T:Reels simple chords 349
+M:3/4
+L:1/8
+K:F
+C2 [F2F,2A,2C2] EF | G2 FG [A2F,2A,2C2] | GA B2 AB | [c2F,2A,2C2] c2 cd | cA [B2G,2B,2D2] G2 |
+GB AG [F2F,2A,2C2] | EF G2 FG | [A2F,2A,2C2] GA B2 | AB [c2F,2A,2C2] c2 |
+cd cB [A2F,2A,2C2] | F2 FC DE | [F2F,2A,2C2] EF G2 | FG [A2F,2A,2C2] GA |
+B2 AB [c2F,2A,2C2] | c2 cd cA | [B2G,2B,2D2] G2 GB | AG [F2F,2A,2C2] EF |
+G2 FG [A2F,2A,2C2] | GA B2 AB | [c2F,2A,2C2] c2 cd | cB [A2F,2A,2C2] F2 |
+FA B=B [c2F,2A,2C2] | =Bc d2 c2 | [A2F,2A,2C2] ^GA B2 | A2 [G2C,2E,2G,2] ^FG |
+A2 G2 [E2G,2=B,2D2F2] | _E=E D2 C2 | [c2F,2A,2C2] =Bc d2 | c2 [A2A,2^C2E2G2] ^GA |
+B2 A2 [G2G,2=B,2D2F2] | ^FG cB AG | [A2F,2A,2C2] F2 FA | B=B [c2F,2A,2C2] Bc |
+dc =Bc [A2F,2A,2C2] | ^GA BA GA | [G2C,2E,2G,2] ^FG AG | ^FG [E2G,2=B,2D2=F2] _E=E |
+DE DC [c2F,2A,2C2] | =Bc dc Bc | [A2A,2^C2E2G2] ^GA BA | ^GA [=G2G,2=B,2D2F2] ^FG |
+cB AG [A2F,2A,2C2] | F2 F2 |
+
+
+X:121
+T:Reels simple chords 369
+M:3/4
+L:1/8
+K:Em
+FG [A2D,2F,2A,2] FA | d2 ^cd [B2D,2F,2A,2] | A2 A4 | [A2D,2F,2A,2] FA d^c | BA [G2E,2G,2B,2] E2 |
+E4 [G2E,2G,2B,2] | FG ^c2 c2 | [G2E,2G,2B,2] FG ^c4 | [G2E,2G,2B,2] EG |
+^cB AG [B2D,2F,2A,2] | A2 A4 | [A2D,2F,2A,2] FA d2 | ^cd [B2D,2F,2A,2] A2 |
+A4 [d2D,2F,2A,2] | ^cd e2 d2 | [d2G,2B,2D2] B2 B4 | [e2G,2B,2D2] ^de |
+=f2 ef [^f2D,2F,2A,2] | d2 A2 ^GA | [B2E,2G,2B,2] ^AB ^c2 | A2 [d2D,2F,2A,2] c2 |
+B2 A2 [d4G,4B,4D4] | g2>f2 | [e2G,2B,2D2] d2 d4 | [d2G,2B,2D2] ^cd |
+ed cB [c2A,2C2E2] | A2 A4 | [c2A,2C2E2] Bc A2 | A2 [A2A,2C2E2] ^GA |
+F4 [c2A,2C2E2] | Bc fe dc | [e2G,2B,2D2] d2 d2 | Bc [d2G,2B,2D2] Bd |
+g2>f2 [e2G,2B,2D2] | d2 d4 | [d2G,2B,2D2] Bd g2 | g2 [g2C,2E,2G,2] e2 |
+e4 [A4C,4E,4G,4] | ^A4 | [B2G,2B,2D2] G2 d2 | ^cd [e2A,2=C2E2] ^de |
+f2 d4< [g4G,4B,4D4] |
+
+
+X:122
+T:Reels simple chords 373
+M:3/4
+L:1/8
+K:Em
+D2 [G2G,2B,2D2] G2 | BA GB [d2G,2B,2D2] | d2 dc Bc | [d2G,2B,2D2] g2 f2 | e2 [d8G,8B,8D8] |
+[D2D,2F,2A,2C2] | D2 FE DF | [A2D,2F,2A,2C2] A2 AG | FG [A2D,2F,2A,2C2] c2 |
+A2 F4< [G4G,4B,4D4] | D2 | [G2G,2B,2D2] G2 BA | GB [d2G,2B,2D2] d2 |
+dc Bc [d2G,2B,2D2] | g2 f2 e2 | [d8G,8B,8D8] | [D2D,2F,2A,2C2] D2 |
+FE DF [A2D,2F,2A,2C2] | A2 AG FG | [A2D,2F,2A,2C2] c2 A2 | F4< [G4G,4B,4D4] |
+d2 [d3G,3B,3D3] |B G2 G2 | [c2D,2F,2A,2C2]>A2 F2 | F2 [d2G,2B,2D2]>B2 |
+G2 G2 [A8A,8^C8E8G8] | [d2G,2B,2D2]>B2 G2 | G2 [c2D,2F,2A,2C2]>A2 | F2 F2 [G2E,2G,2B,2] |
+B2 A2 F2 | [G6G,6B,6D6] | d2 [d2G,2B,2D2]>B2 | G2 G2 [c3D,3F,3A,3C3] |
+A F2 F2 | [d2G,2B,2D2]>B2 G2 | G2 [A8A,8^C8E8G8] | [d3G,3B,3D3] |
+B G2 G2 | [c2D,2F,2A,2C2]>A2 F2 | F2 [G2E,2G,2B,2] B2 | A2 F4< [G4G,4B,4D4] |
+
+
+X:123
+T:Reels simple chords 384
+M:3/4
+L:1/8
+K:D
+dc [d2D,2F,2A,2] D2 | F2 A2 [d2D,2F,2A,2] | D2 D2 dc | [d2D,2F,2A,2] D2 F2 | A2 [e2E,2^G,2B,2D2] E2 |
+E2 dc [d2D,2F,2A,2] | D2 F2 A2 | [B2G,2B,2D2] g2 f2 | e2 [dE,G,B,]c BA |
+B2 c2 [d2D,2F,2A,2] | D2 D2 dc | [d2D,2F,2A,2] D2 F2 | A2 [d2D,2F,2A,2] D2 |
+D2 dc [d2D,2F,2A,2] | D2 F2 A2 | [e2E,2^G,2B,2D2] E2 E2 | dc [d2D,2F,2A,2] D2 |
+F2 A2 [B2G,2B,2D2] | g2 f2 e2 | [dE,G,B,]c BA B2 | c2 [d2D,2F,2A,2] D2 |
+D2 fg2< [a2D,2F,2A,2] |f2< g2e | [f2D,2F,2A,2] d2 d2 | fg2< [a2D,2F,2A,2]f |
+g2 a2 [b2E,2G,2B,2] | e2 e2 fg | [a2D,2F,2A,2]>f2 g3 |e [f2B,2D2F2] d2 |
+e2 c2 [dEG,B,]c | BA B2 c2 | [d2D,2F,2A,2] D2 D2 | fg2< [a2D,2F,2A,2]f |
+g2>e2 [f2D,2F,2A,2] | d2 d2 fg | [a2D,2F,2A,2]>f2 g2 | a2 [b2E,2G,2B,2] e2 |
+e2 fg2< [a2D,2F,2A,2] |f2< g2e | [f2B,2D2F2] d2 e2 | c2 [dEG,B,]c BA |
+B2 c2 [d2D,2F,2A,2] | D2 D2 fg | [aD,F,A,]g fa gf | eg [f2D,2F,2A,2] d2 |
+d2 fg [aD,F,A,]g | fa gf ga | [bE,G,B,]a gf e2 | fg [aD,F,A,]g fa |
+gf eg [fB,DF]e | df e2 c2 | [dEG,B,]c BA Bc | de [f2D,2F,2A,2] d2 |
+d2 |
+
+
+X:124
+T:Reels simple chords 403
+M:3/4
+L:1/8
+K:A
+E2 [E2A,2C2E2] Ac | BA af [eA,CE]c | Bd cA FA | [E2A,2C2E2] Ac BA | af [eE,G,B,D]c Bc |
+A2 E2 [E2A,2C2E2] | Ac BA af | [eA,CE]c Bd cA | FA [E2A,2C2E2] Ac |
+BA af [eE,G,B,D]c | Bc A2 e2 | [aA,CE]g af ea | ce [dD,F,A,]B cA |
+BA FA [aA,CE]g | af ea c'a | [bD,F,A,]a bc' b2 | ab [c'A,CE]a fa |
+ea ce [dD,F,A,]B | cA BA FA | [E2A,2C2E2] Ac BA | af [eE,G,B,D]c Bc |
+A2 |
+
+
+X:125
+T:Reels simple chords 414
+M:3/4
+L:1/8
+K:Em
+[E2E,2G,2B,2]>F2 G2 | F2 [E2E,2G,2B,2] D2 | B4 [B2D,2F,2A,2] | A2 A2 GA | [B2D,2F,2A,2] A2 A2 |
+B2 [E2E,2G,2B,2]>F2 | G2 F2 [E2E,2G,2B,2] | D2 B2>A2 | [G2E,2G,2B,2] E2 F2 |
+D2 [E4E,4G,4B,4] | E4 [E3E,3G,3B,3] |F G2 F2 | [E2E,2G,2B,2] D2 B4 |
+[B2D,2F,2A,2] A2 | A2 GA [B2D,2F,2A,2] | A2 A2 B2 | [E2E,2G,2B,2]>F2 G2 |
+F2 [E2E,2G,2B,2] D2 | B2>A2 [G2E,2G,2B,2] | E2 F2 D2 | [E4E,4G,4B,4] E4 |
+[G2G,2B,2D2]>A2 | B2 gf [e2G,2B,2D2] | d2 B4 | [B2D,2F,2A,2] A2 A2 |
+GA [B2D,2F,2A,2] A2 | A2 B2 [G3G,3B,3D3] |A B2 gf | [e2G,2B,2D2] d2 B3 |
+A [G2E,2G,2B,2] E2 | F2 D2 [E4E,4G,4B,4] | E4 | [G2G,2B,2D2]>A2 B2 |
+gf [e2G,2B,2D2] d2 | B4 [B2D,2F,2A,2] | A2 A2 GA | [B2D,2F,2A,2] A2 A2 |
+B2 [G2G,2B,2D2]>A2 | B2 gf [e2G,2B,2D2] | d2 B2>A2 | [G2E,2G,2B,2] E2 F2 |
+D2 [E4E,4G,4B,4] | E4 |
+
+
+X:126
+T:Reels simple chords 420
+M:3/4
+L:1/8
+K:A
+cd [e2A,2C2E2] cB | A2 A2 [B2E,2G,2B,2D2] | cB A2 E2 | [FD,F,A,]E FG A2 | Bc [d2B,2D2F2] c2 |
+c2 B2 [e2A,2C2E2] | cB A2 A2 | [B2E,2G,2B,2D2] cB A2 | E2 [FD,F,A,]E FG |
+A2 B2 [c2A,2C2E2] | A2 A2 cd | [e2A,2C2E2] cB A2 | A2 [B2E,2G,2B,2D2] cB |
+A2 E2 [FD,F,A,]E | FG A2 Bc | [d2B,2D2F2] c2 c2 | B2 [e2A,2C2E2] cB |
+A2 A2 [B2E,2G,2B,2D2] | cB A2 E2 | [FD,F,A,]E FG A2 | B2 [c2A,2C2E2] A2 |
+A2 cd [e2A,2C2E2] | fg ag fe | [f2D,2F,2A,2] f2 fa | gf [e2A,2C2E2] c2 |
+c2 BA [GB,DF]A | Bc B4 | [e2A,2C2E2] fg ag | fe [f2D,2F,2A,2] f2 |
+f2 e2 [fD,F,A,]g | af ga bg | [a2A,2C2E2] A2 A2 | cd [e2A,2C2E2] fg |
+ag fe [f2D,2F,2A,2] | f2 fa gf | [e2A,2C2E2] c2 c2 | BA [GB,DF]A Bc |
+B4 [e2A,2C2E2] | fg ag fe | [f2D,2F,2A,2] f2 f2 | e2 [fD,F,A,]g af |
+ga bg [a2A,2C2E2] | A2 A2 |
+
+
+X:127
+T:Reels simple chords 444
+M:3/4
+L:1/8
+K:D
+de [f2D,2F,2A,2] d2 | ed B2 [dD,F,A,]B | A2 F2 G2 | [A2D,2F,2A,2] A2 B2<d2 | [eA,CEG]f2g |
+f2 e2 [fD,F,A,]e | df ed B2 | [dD,F,A,]B A2 F2 | FG [A2A,2C2E2G2] A2 |
+B2<c2 [d3D,3F,3A,3] |e d4 | [f2D,2F,2A,2] d2 ed | B2 [dD,F,A,]B A2 |
+F2 G2 [A2D,2F,2A,2] | A2 B2<d2 | [eA,CEG]f2g f2 | e2 [fD,F,A,]e df |
+ed B2 [dD,F,A,]B | A2 F2 FG | [A2A,2C2E2G2] A2 B2<c2 | [d2D,2F,2A,2]>e2 |
+d4 [AD,F,A,]B | AG FG A2 | [B2G,2B,2D2]>c2 B2 | cB [AD,F,A,]B AG |
+FD FD2< [E2A,2C2E2G2] |F E2 FG | [AD,F,A,]B AG FG | A2 [B2G,2B,2D2]>c2 |
+B2 cB [AA,CEG]B | cd eg fe | [dD,F,A,]B AF D4 | [AD,F,A,]B AG |
+FG A2 [B3G,3B,3D3] |c B2 cB | [AD,F,A,]B AG FD | FD2< [E2A,2C2E2G2]F |
+E2 FG [AD,F,A,]B | AG FG A2 | [B2G,2B,2D2]>c2 B2 | cB [AA,CEG]B cd |
+eg fe [dD,F,A,]B | AF D4 |
+
+
+X:128
+T:Reels simple chords 445
+M:3/4
+L:1/8
+K:D
+de2< [f2D,2F,2A,2]e | d2 ef [gG,B,D]f | g2 B2 f2 | [e2A,2C2E2G2]>d2 c2 | A2 [dD,F,A,]B AG |
+FE D2 [f3D,3F,3A,3] |e d2 ef | [g2G,2B,2D2] g2 B4 | [e2A,2C2E2G2]>d2 |
+c2 A2 [A,CEG]B | cA d4 | [f2D,2F,2A,2]>e2 d2 | ef [gG,B,D]f g2 |
+B2 f2 [e3A,3C3E3G3] |d c2 A2 | [dD,F,A,]B AG FE | D2 [f2D,2F,2A,2]>e2 |
+d2 ef [g2G,2B,2D2] | g2 B4 | [e2A,2C2E2G2]>d2 c2 | A2 [A,CEG]B cA |
+d4 [A3D,3F,3A,3] |G2< F2G | [A2D,2F,2A,2] d2 F3 |F [GA,CEG]C F2 |
+E2 E2 A2 [GA,CEG]C | F2 E4 | [eA,CEG]f ed cA | Bc [d2D,2F,2A,2] A2 |
+F2 A2 [d2D,2F,2A,2] | f2 ef Ge | [fD,F,A,]A c2 d4 | [A2D,2F,2A,2]>G2 |
+F2>G2 [A2D,2F,2A,2] | d2 F2>F2 | [GA,CEG]C F2 E2 | E2 A2 [GA,CEG]C F2 |
+E4 [eA,CEG]f | ed cA Bc | [d2D,2F,2A,2] A2 F2 | A2 [d2D,2F,2A,2] f2 |
+ef Ge [fD,F,A,]A | c2 d2 |
+
+
+X:129
+T:Reels simple chords 450
+M:3/4
+L:1/8
+K:Em
+GA [B2G,2B,2D2] B2 | B2 AG [B2G,2B,2D2] | B2 B2 g2 | [d2G,2B,2D2] B2 B2 | AG [B2A,2C2E2] A2 |
+A2 GA [B2G,2B,2D2] | B2 cB AG | [B2G,2B,2D2] d2 g2 | ga [bG,B,D]a gf |
+ag fe [d2E,2G,2B,2] | B2 B2 GA | [B2G,2B,2D2] B2 B2 | AG [B2G,2B,2D2] B2 |
+B2 g2 [d2G,2B,2D2] | B2 B2 AG | [B2A,2C2E2] A2 A2 | GA [B2G,2B,2D2] B2 |
+cB AG [B2G,2B,2D2] | d2 g2 ga | [bG,B,D]a gf ag | fe [d2E,2G,2B,2] B2 |
+B2 Bc [d2G,2B,2D2] | B2 g2 Bc | [d2G,2B,2D2] d2 d2 | Bc [d2G,2B,2D2] B2 |
+g2 fg [a2A,2^C2E2G2] | A2 A2 GA | [B2G,2B,2D2] B2 cB | AG [B2G,2B,2D2] d2 |
+g2 ga [bG,B,D]a | gf ag fe | [d2E,2G,2B,2] B2 B2 | Bc [d2G,2B,2D2] B2 |
+g2 Bc [d2G,2B,2D2] | d2 d2 Bc | [d2G,2B,2D2] B2 g2 | fg [a2A,2^C2E2G2] A2 |
+A2 GA [B2G,2B,2D2] | B2 cB AG | [B2G,2B,2D2] d2 g2 | ga [bG,B,D]a gf |
+ag fe [d2E,2G,2B,2] | B2 B2 |
+
+
+X:130
+T:Reels simple chords 462
+M:3/4
+L:1/8
+K:Em
+G2 B2 [d3G,3B,3D3] |e d2 ^c2 | [d2G,2B,2D2] B2 G2 | B2 [d2G,2B,2D2]>e2 | d2 ^c2 [d4G,4B,4D4] |
+A2 B2 | [c2A,2C2E2]>d2 c2 | B2 [c2D,2F,2A,2] A2 | F2 A2 [d3G,3B,3D3] |
+e d2 ^c2 | [d4G,4B,4D4] G2 | B2 [d2G,2B,2D2]>e2 | d2 ^c2 [d2G,2B,2D2] |
+B2 G2 B2 | [c2C,2E,2G,2]>B2 c2 | e2 [g4C,4E,4G,4] | f2 e2 [d3G,3B,3D3] |
+^c d2 e2 | [d2E,2G,2B,2] B2 G2 | A2 [B2A,2C2E2]>c2 | B2 A2 [G2G,2B,2D2] |
+d2 e2 d2 | [g4G,4B,4D4] g3 |f [g2G,2B,2D2] d2 | B2 G2 [F8D,8F,8A,8] |
+[F2D,2F,2A,2] d2 e2 | d2 [f4D,4F,4A,4] | f2>e2 [f2D,2F,2A,2] | e2 c2 A2 |
+[G8G,8B,8D8] | [G2G,2B,2D2] d2 | e2 d2 [g4G,4B,4D4] | g2>f2 |
+[g2G,2B,2D2] d2 B2 | G2 [c4C,,4] | e4 [g4^C,,4] | f2 e2 |
+[d4D,,4] d3 |e [f2A,2C2E2] d2 | e2 f2 [g8G,8B,8D8] | [g4G,4B,4D4] |
+
+
+X:131
+T:Reels simple chords 463
+M:3/4
+L:1/8
+K:A
+cd [e2A,2C2E2] ef | ed cB [A2A,2C2E2] | A2 E2>E2 | [F2D,2F,2A,2] F2 A2 | A2 [F2A,2C2E2] E4 |
+cd [e2A,2C2E2] | ef ed cB | [A2A,2C2E2] A2 A2 | AB2< [c2B,2D2F2]B |
+c2 d2 [c2B,2D2F2] | B4 cd | [e2A,2C2E2] ef ed | cB [A2A,2C2E2] A2 |
+E2>E2 [F2D,2F,2A,2] | F2 A2 A2 | [F2A,2C2E2] E4 | E2 [F2D,2F,2A,2] F2 |
+A2 B2 [c2A,2C2E2] | e4 c2 | [B2B,2D2F2]>d2 c2 | B2 [A4A,4C4E4] |
+A2 GA [B2B,2D2F2] | Bc BA GA | [B2E,2G,2B,2D2] c2 d2 | ed [c2A,2C2E2] B2 |
+c2 d2 [e2A,2C2E2] | fe dc BA | [B2B,2D2F2] Bc BA | GA [B2E,2G,2B,2D2] c2 |
+d2 cd [e2A,2C2E2] | c2 Bd cB | [A2A,2C2E2] A2 A2 | GA [B2B,2D2F2] Bc |
+BA GA [B2E,2G,2B,2D2] | c2 d2 ed | [c2A,2C2E2] B2 c2 | d2 [e2A,2C2E2] fe |
+dc BA [B2B,2D2F2] | Bc BA GA | [B2E,2G,2B,2D2] c2 d2 | cd [e2A,2C2E2] c2 |
+Bd cB [A2A,2C2E2] | A2 A2 GA | [B2B,2D2F2] Bc BA | GA [B2E,2G,2B,2D2] c2 |
+d2 ed [c2A,2C2E2] | B2 c2 d2 | [e2A,2C2E2] fe dc | BA [B2B,2D2F2] Bc |
+BA GA [B2E,2G,2B,2D2] | c2 d2 cd | [e2A,2C2E2] c2 Bd | cB [A2A,2C2E2] A2 |
+A2 GA [B2B,2D2F2] | Bc BA GA | [B2E,2G,2B,2D2] c2 d2 | ed [c2A,2C2E2] B2 |
+c2 d2 [e2A,2C2E2] | fe dc BA | [B2B,2D2F2] Bc BA | GA [B2E,2G,2B,2D2] c2 |
+d2 cd [e2A,2C2E2] | c2 Bd cB | [A2A,2C2E2] A2 A2 |
+
+
+X:132
+T:Slip simple chords 1
+M:3/4
+L:1/8
+K:Am
+B/c/[d2G,2B,2D2]c BG | BB GB [d2G,2B,2D2] | cB GB cB | A[d2G,2B,2D2]c BG | BB GB [cC,E,G,]B |
+cA2B cB | A[d2G,2B,2D2]c BG | BB GB [d2G,2B,2D2] | cB GB cB |
+A[d2G,2B,2D2]c BG | BB GB [cC,E,G,]B | cA2B cB | A[GG,B,D] Bd gd |
+Bg dB [GG,B,D]B | dg dB cB | A[GG,B,D] Bd gd | Bg dB [cC,E,G,]B |
+cA2B cB | A[GD,^F,A,C] Bd gd | Bg dB [GG,B,D]B | dg dB cB |
+A[GG,B,D] Bd gd | Bg dB [cC,E,G,]B | cA2B cB | A |
+
+
+X:133
+T:Slip simple chords 2
+M:3/4
+L:1/8
+K:Em
+B[G2E,2G,2B,2]A BG | EB GE [F2D,2F,2A,2] | GA FD AF | D[G2E,2G,2B,2]A BG | EB GE [dG,B,D]c |
+BA GF E2 | B[G2E,2G,2B,2]A BG | EB GE [F2D,2F,2A,2] | GA FD AF |
+D[G2E,2G,2B,2]A BG | EB GE [dG,B,D]c | BA GF2< E2 |B [G2E,2G,2B,2E,2G,2B,2] AB |
+GE BG E[F2D,2F,2A,2] |G AF DA | FD [G2E,2G,2B,2] AB | GE BG E[e2E,2G,2B,2] |
+f g2 ab | ge [d2D,2F,2A,2] ef2 |g af d[e2E,2G,2B,2] |f g2 ab |
+ge [dG,B,D]c BA | GF E2 |
+
+
+X:134
+T:Slip simple chords 6
+M:3/4
+L:1/8
+K:Am
+[g2G,2B,2D2] dB2G | ^FG A[DD,F,A,C] FA | cB AB cd | [g2G,2B,2D2] dB2G | ^FG A[G2G,2B,2D2]B |
+AG ^F2<G2 | [g2G,2B,2D2] dB2G | ^FG A[DD,F,A,C] FA | cB AB cd |
+[g2G,2B,2D2] dB2G | ^FG A[G2G,2B,2D2]B | AG ^F2<G2 | [g2G,2B,2D2] gb ag |
+^fg a[dD,F,A,] e=f | ed cB AG | [g2G,2B,2D2] gb ag | ^fg a[d2_B,2D2=F2]e |
+f3e2d | [g2G,2B,2D2] gb ag | ^fg a[dD,F,A,] e=f | ed cB AG |
+[g2G,2B,2D2] gb ag | ^fg a[d2_B,2D2=F2]e | f3e2d | [B2G,2B,2D2] cd2B |
+G2 D[F2F,2A,2C2]A | c2 AF2^F | [G2G,2B,2D2] Bd2B | G2 D[FF,A,C] GA |
+G2 D2<G2 | [B2G,2B,2D2] cd2B | G2 D[F2F,2A,2C2]A | c2 AF2^F |
+[G2G,2B,2D2] Bd2B | G2 D[FF,A,C] GA | G2 D2<G2 | [dG,B,D]^c dg2g |
+F2>[d2G,2B,2D2] ^cd | BA G2<F2 | [dG,B,D]^c dg2g | E3[e3C,3E,3G,3] |
+^d3=d3 | [dG,B,D]^c dg2g | F2>[d2G,2B,2D2] ^cd | BA G2<F2 |
+[dG,B,D]^c dg2g | E2>[^F2=F,2A,2C2] e3 |f3 f3 |
+
+
+X:135
+T:Slip simple chords 7
+M:3/4
+L:1/8
+K:Bb
+[B2G,2B,2D2] BB AG | A3[B2G,2B,2D2]B | BA GA Bc | [B2G,2B,2D2] BB AG | AB c[d2G,2B,2D2]d |
+dc B2<c2 | [d2G,2B,2D2] dd cB | cd e[d2G,2B,2D2]d | dc Bc de |
+[dG,B,D]e fe dc | BA G[A2D,2^F,2A,2C2]A | AB c2<d2 | [B2G,2B,2D2] BB AG |
+A3[B2G,2B,2D2]B | BA GA Bc | [B2G,2B,2D2] BB AG | AB c[d2G,2B,2D2]d |
+dc B2<c2 | [d2G,2B,2D2] dd cB | cd e[d2G,2B,2D2]d | dc Bc de |
+[dG,B,D]e fe dc | BA G[A2D,2^F,2A,2C2]A | AB c2<d2 | [d2G,2B,2D2] dB2B |
+G2 G[^F2D,2F,2A,2]A | d2 ^FA2d | [^F2D,2F,2A,2] Ad2A | d3[d2G,2B,2D2]d |
+B2 BG2G | [^FD,F,A,C]G AF GA | G3[d2G,2B,2D2]d | B2 BG2G |
+[^F2D,2F,2A,2] Ad2F | A2 d[^F2D,2F,2A,2]A | d2 A2<d2 | [d2G,2B,2D2] dB2B |
+G2 G[^FD,F,A,C] GA | ^FG A2<G2 | [^FD,F,A,]G Ad2c | B2 A[GG,B,D] AB |
+GA BG AB | [G2G,2B,2D2] Bd2G | B2 d[^FD,F,A,] GA | d2 cB2A |
+[c2G,,2] [BG,B,D][A2G,,2][GG,B,D] | [B2G,,2] [AG,B,D][G2G,,2][^FG,B,D] | [A2D,,2] [GD,^F,A,C][A2D,,2][D,F,A,C] |
+
+
+X:136
+T:Slip simple chords 9
+M:3/4
+L:1/8
+K:Em
+B/A/[G2G,2B,2D2]G G2 | ed BG [A2C,2E,2G,2] | AA BG FE | D[G2G,2B,2D2]G G2 | ed ef [g2G,2B,2D2] |
+GG AG FE | D[G2G,2B,2D2]G G2 | ed BG [A2C,2E,2G,2] | AA BG FE |
+D[G2G,2B,2D2]G G2 | ed ef [g2G,2B,2D2] | GG AG FE | D[dG,B,D] Bd ec |
+ed BG [A2C,2E,2G,2] | AA BG FE | D[dG,B,D] Bd ec | ed ef [g2G,2B,2D2] |
+GG AG FE | D[dD,F,A,C] Bd ec | ed BG [A2C,2E,2G,2] | AA BG FE |
+D[dG,B,D] Bd ec | ed ef [g2G,2B,2D2] | GG AG FE | D |
+
+
+X:137
+T:Waltzes simple chords 2
+M:3/4
+L:1/8
+K:Em
+GA2< [B2G,2B,2D2]B | AG [AG,B,D]B GA | Bd2< [e2C,2E,2G,2]d | BA [BC,E,G,]<d A2 | AB2< [G2G,2B,2D2]B |
+AG [EC,E,G,]G DE | GA2< [B2E,2G,2B,2]B | AG [A4D,4F,4A,4C4] | GA2< [B2G,2B,2D2]B |
+AG [AG,B,D]B GA | Bd2< [e2C,2E,2G,2]d | BA [BC,E,G,]<d A2 | AB2< [G2G,2B,2D2]B |
+AG [EC,E,G,]G DE | GA2< [B2E,2G,2B,2]B | AG [G4G,4B,4D4] | BA2< [G2G,2B,2D2]A |
+Bd2< [e2E,2G,2B,2]d | ef2< [g2G,2B,2D2]f | ed [eC,E,G,]<g d2 | de2< [B2G,2B,2D2]B |
+AG [AG,B,D]B GB | AG2< [E2E,2G,2B,2]D | B,D2< [E2A,2C2E2]D | EF2< [G2G,2B,2D2]F |
+GA2< [B2E,2G,2B,2]A | Bd2< [e2E,2G,2B,2]d | BA [BG,B,D]<d A2 | AB2< [G2G,2B,2D2]B |
+AG [EC,E,G,]G DE | GA2< [B2D,2F,2A,2C2]B | AG [G4G,4B,4D4] |
+
+
+X:138
+T:Waltzes simple chords 3
+M:3/4
+L:1/8
+K:Bm
+A2 [d4D,4F,4A,4] | d2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2] a2 | f2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2]>e2 |
+d2 [d2G,2B,2D2] B2 | A2 [A2E,2G,2B,2] B2 | d2 [e4A,4C4E4G4] | A2 [d4D,4F,4A,4] |
+d2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2] a2 | f2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2]>e2 |
+d2 [d2G,2B,2D2] B2 | A2 [A2A,2C2E2G2] B2 | d2 [d4D,4F,4A,4] | f2 [a4D,4F,4A,4] |
+b2 [a2D,2F,2A,2] f2 | d2 [a4D,4F,4A,4] | b2 [a2D,2F,2A,2] f2 | d2 [a2D,2F,2A,2] f2 |
+d2 [a2D,2F,2A,2] f2 | d2 [b2E,2G,2B,2] ag | f2 [e4A,4C4E4G4] | A2 [d4D,4F,4A,4] |
+d2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2] a2 | f2 [e2A2c2E2G2]>d2 | e2 [f2D,2F,2A,2]>e2 |
+d2 [d2G,2B,2D2] B2 | A2 [A2A,2C2E2G2] B2 | d2 [d4D,4F,4A,4] |
+
+
+X:139
+T:Waltzes simple chords 6
+M:3/4
+L:1/8
+K:Edor
+E2 [A4A,4C4E4] | B2 [c2A2C2E2] B2 | A2 [e2D,2F,2A,2] dc | BA [B4E,4^G,4B,4D4] | E2 [A2A,2C2E2] Ac |
+Bd [c2A,2C2E2] B2 | A2 [^G2E,2G,2B,2D2] GB | Ac [B4E,4^G,4B,4D4] | E2 [A4A,4C4E4] |
+B2 [c2A2C2E2] B2 | A2 [e2D,2F,2A,2] dc | BA [B4E,4^G,4B,4D4] | E2 [A2A,2C2E2] Ac |
+Bd [c2A,2C2E2] B2 | A2 [^G2E,2G,2B,2D2] GB | Ac [B4E,4^G,4B,4D4] | E2 [A4A,4C4E4] |
+B2 [c2A2C2E2] B2 | A2 [e2D,2F,2A,2] dc | BA [B4E,4^G,4B,4D4] | E2 [A2A,2C2E2] Ac |
+Bd [c2A,2C2E2] B2 | A2 [^G2E,2G,2B,2D2] GB | Ac [B4E,4^G,4B,4D4] | E2 [A4A,4C4E4] |
+B2 [c2A2C2E2] B2 | A2 [e2D,2F,2A,2] dc | BA [B4E,4^G,4B,4D4] | E2 [A2A,2C2E2] Ac |
+Bd [c2A,2C2E2] B2 | A2 [^G2E,2G,2B,2D2] GB | Ac [B4E,4^G,4B,4D4] | B2 [c4A,4C4E4] |
+c2 [d4G4B,4D4] | d2 [e2C,2E,2G,2] e2 | f2 [e4C,4E,4G,4] | d2 [cA,CE]B cd |
+c2 [dGB,DF]c de | d2 [eC,E,G,]f ef | ef2< [g2G,2B,2D2F2]f | ed [cC,E,G,]B cd |
+ec [dG,B,D]c de | fd [e2A,2C2E2] e2 | a2 [^g2E,2G,2B,2D2] ga | b^g [a2A,2C2E2] e2 |
+c2 [f2D,2F,2A,2] e2 | d2 [c2E,2^G,2B,2D2] dc | Bc [A4A,4C4E4] |
+
+
+X:140
+T:Waltzes simple chords 12
+M:3/4
+L:1/8
+K:Em
+BA [G2G,2B,2D2] G2 | GA [B2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | g2 [a4D,4F,4A,4C4] | ga [b2G,2B,2D2] b3 |
+a [g2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | g2 [e2D,2F,2A,2C2] dc | BA [G2G,2B,2D2] G2 |
+GA [B2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | g2 [a4D,4F,4A,4C4] | ga [b2G,2B,2D2] b3 |
+a [g2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | f2 [g2G,2B,2D2] f2 | g2 [a2D,2F,2A,2] a3 |
+g [f2D,2F,2A,2] d2 | d2 [g2C,2E,2G,2] g2 | e2 [d4G,4B,4D4] | d2 [a2D,2F,2A,2] a3 |
+g [f2D,2F,2A,2] d2 | d2 [g2C,2E,2G,2] g2 | e2 [d2D,2F,2A,2C2]>c2 | BA [G2G,2B,2D2] G2 |
+GA [B2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | g2 [a4D,4F,4A,4C4] | ga [b2G,2B,2D2] b3 |
+a [g2G,2B,2D2] d2 | d2 [e2C,2E,2G,2] g2 | f2 [g4G,4B,4D4] |
+
+
+X:141
+T:Waltzes simple chords 13
+M:3/4
+L:1/8
+K:G
+D2 [B2G,2B,2D2]>^A2 | B2 [A2B,2^D2F2A2] B2 | A2 [G2E,2G,2B,2]>F2 | G2 [G2C,2^D,2G,2] D2 | C2 [B,4G,4B,4D4] |
+B2 [B2G,2B,2D2] A2 | G2 [A2A,2C2E2] c2 | e2 [d2D,2F,2A,2C2] ^c2 | c2 [B2G,2B,2D2]>^A2 |
+B2 [A2B,2^D2F2A2] B2 | A2 [G2E,2G,2B,2]>F2 | G2 [G2C,2^D,2G,2] D2 | C2 [B,2G,2B,2D2]>D2 |
+B2 [B4D,4F,4A,4C4] | A4< [G4G,4B,4D4] | [G2G,2B,2D2=F2] A2 | B2 [c2C,2E,2G,2]>B2 |
+c2 [e2C,2E,2G,2] d2 | c2 [B2G,2B,2D2]>^A2 | B2 [d2G,2B,2D2] c2 | B2 [A2A,2^C2E2]>B2 |
+^c2 [A2A,2C2E2G2] B2 | ^c4< [d4D,4F,4A,4] | [d4D,4F,4A,4C4] | D2 [B2G,2B,2D2]>^A2 |
+B2 [A2B,2^D2F2A2] B2 | A2 [G2E,2G,2B,2]>F2 | G2 [G2C,2^D,2G,2] D2 | C2 [B,2G,2B,2D2]>D2 |
+B2 [B4D,4F,4A,4C4] | A4< [G4G,4B,4D4] | [G4G,4B,4D4] | D2 [G4G,4B,4D4] |
+G2 [F4G,4B,4D4] | F2 [E4G,4B,4D4] | G2 [c2G,2B,2D2] G2 | A2 [G4G,4B,4D4] |
+B2 [d2G,2B,2D2] c2 | B2 [A4G,4B,4D4] | E2 [D2G,2B,2D2] E2 | F2 [B2G,2B,2D2]>^A2 |
+B2 [A2B,2^D2F2A2] B2 | A2 [G2E,2G,2B,2]>F2 | G2 [G2C,2^D,2G,2] D2 | C2 [G2C,2^D,2G,2] B2 |
+d2 [d2C,2^D,2G,2] e2 | f2 [g2C,2^D,2G,2] =f2 | d2 [B2C,2^D,2G,2] c2 | d2 [e4C,4^D,4G,4] |
+e2 [c2C,2^D,2G,2] =d2 | e2 [d4C,4^D,4G,4] | d2 [B2C,2^D,2G,2] c2 | d2 [^c2=C,2^D,2G,2] e2 |
+g2 [a2C,2^D,2G,2] g2 | e2 [d2C,2^D,2G,2] c2 | A2 [F2C,2^D,2G,2] A2 | c2 [d4C,4^D,4G,4] |
+G2 [F4C,4^D,4G,4] | F2 [E4C,4^D,4G,4] | G2 [c2C,2^D,2G,2] G2 | A2 [G4C,4^D,4G,4] |
+B2 [d2C,2^D,2G,2] c2 | A2 [B2C,2^D,2G,2] =d2 | e2 [G4C,4^D,4G,4] |
+
+
+X:142
+T:Waltzes simple chords 15
+M:3/4
+L:1/8
+K:Dm
+A2 [AD,F,A,]d A=B | ^cd [e2A,2C2E2] A4 | [fG,B,D]g fe | de [^c2A,2C2E2G2] A4 | [AD,F,A,]d AG |
+AF [BG,B,D]d BA | BG [FDFA,]A F2 | E2 [D4D,4F,4A,4] | A2 [AD,F,A,]d A=B |
+^cd [e2A,2C2E2] A4 | [fG,B,D]g fe | de [^c2A,2C2E2G2] A4 | [AD,F,A,]d AG |
+AF [BG,B,D]d BA | BG [FDFA,]A F2 | E2 [D4D,4F,4A,4] | A2 [AD,F,A,]d A=B |
+^cd [e2A,2C2E2] A4 | [fG,B,D]g fe | de [^c2A,2C2E2G2] A4 | [AD,F,A,]d AG |
+AF [BG,B,D]d BA | BG [FDFA,]A F2 | E2 [D4D,4F,4A,4] | A2 [AD,F,A,]d A=B |
+^cd [e2A,2C2E2] A4 | [fG,B,D]g fe | de [^c2A,2C2E2G2] A4 | [AD,F,A,]d AG |
+AF [BG,B,D]d BA | BG [FDFA,]A F2 | E2 [D4D,4F,4A,4] | D2 [A2F,2A,2C2] c3 |
+A [G2C,2E,2G,2] A4 | [A2F,2A,2C2] c3 |d [e2A,2C2E2] A4 | [f2D,2F,2A,2] g3 |
+f [f2A,2C2E2] e2 | d2 [cE,^G,=B,D]e c2 | =B2 [A4A,4C4E4] | A2 [AD,F,A,]d A=B |
+^cd [e2A,2C2E2] A4 | [fG,B,D]g fe | de [^c2A,2C2E2G2] A4 | [AD,F,A,]d AG |
+AF [BG,B,D]d BA | BG [FDFA,]A F2 | E2 [D4D,4F,4A,4] |
+
+
+X:143
+T:Waltzes simple chords 20
+M:3/4
+L:1/8
+K:Edor
+E2 [E2A,2C2E2] c2 | A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] c2 | A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] A2 |
+c2 [e2F,2A,2C2] d3 |c [B2D,2F,2A,2] c2 | A2 [B4E,4^G,4B,4D4] | E2 [E2A,2C2E2] c2 |
+A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] c2 | A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] A2 |
+c2 [e2F,2A,2C2] d3 |c [B2D,2F,2A,2] c2 | A2 [e4E,4^G,4B,4D4] | ee [e2C,2E,2G,2_B,2] f2 |
+g2 [a4F,4A,4C4] | fe [d2G,2B,2D2F2] e2 | f2 [g4C,4E,4G,4] | cc [d2_B,2D2F2] c2 |
+d2 [eA,CE]c A2 | AA [c2F,2A,2C2] B2 | A2 [e4E,4^G,4B,4D4] | ee [e2C,2E,2G,2_B,2] f2 |
+g2 [aF,A,C]f d2 | dd [d2G,2B,2D2F2] e2 | f2 [gC,E,G,]e c2 | cc [d2_B,2D2F2] c2 |
+d2 [eA,CE]c A2 | EE [EE,^G,B,D]c A2 | ^G2 [A4A,4C4E4] | E2 [E2A,2C2E2] c2 |
+A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] c2 | A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] A2 |
+c2 [e2F,2A,2C2] d3 |c [B2D,2F,2A,2] c2 | A2 [B4E,4^G,4B,4D4] | E2 [E2A,2C2E2] c2 |
+A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] c2 | A2 [B2E,2^G,2B,2D2] F2 | E2 [E2A,2C2E2] A2 |
+c2 [e2F,2A,2C2] d3 |c [B2D,2F,2A,2] c2 | A2 [e4E,4^G,4B,4D4] | ee [e2C,2E,2G,2_B,2] f2 |
+g2 [a4F,4A,4C4] | fe [d2G,2B,2D2F2] e2 | f2 [g4C,4E,4G,4] | cc [d2_B,2D2F2] c2 |
+d2 [eA,CE]c A2 | AA [c2F,2A,2C2] B2 | A2 [e4E,4^G,4B,4D4] | ee [e2C,2E,2G,2_B,2] f2 |
+g2 [aF,A,C]f d2 | dd [d2G,2B,2D2F2] e2 | f2 [gC,E,G,]e c2 | cc [d2_B,2D2F2] c2 |
+d2 [eA,CE]c A2 | EE [EE,^G,B,D]c A2 | ^G2 [A4A,4C4E4] |
+
+
+X:144
+T:Waltzes simple chords 26
+M:3/4
+L:1/8
+K:Em
+D2 [G2G,2B,2D2] B2 | d2 [g2G,2B,2D2]>g2 | fg [a2C,2E,2G,2] g2 | e2 [e2G,2B,2D2] d2 | d2 [D2D,2F,2A,2] F2 |
+A2 [d2D,2F,2A,2]>d2 | ^cd [e2D,2F,2A,2=C2] d2 | c2 [B4G,4B,4D4] | BA [G2G,2B,2D2] B2 |
+d2 [g2G,2B,2D2]>g2 | fg [a2C,2E,2G,2] g2 | e2 [e2G,2B,2D2] d2 | d2 [D2D,2F,2A,2] F2 |
+A2 [d2D,2F,2A,2]>d2 | ^cd [=c2D,2F,2A,2C2] B2 | A2 [G4G,4B,4D4] | BA [G2G,2B,2D2] B2 |
+e2 [d4G,4B,4D4] | d2 [G2G,2B,2D2] B2 | e2 [d4G,4B,4D4] | d2 [D2D,2F,2A,2] F2 |
+A2 [d2D,2F,2A,2]>d2 | ^cd [e2D,2F,2A,2=C2] d2 | c2 [B4G,4B,4D4] | BA [G2G,2B,2D2] B2 |
+e2 [d4G,4B,4D4] | d2 [G2G,2B,2D2] B2 | e2 [d4G,4B,4D4] | d2 [D2D,2F,2A,2] F2 |
+A2 [d2D,2F,2A,2]>d2 | ^cd [=c2D,2F,2A,2C2] B2 | A2 [G4G,4B,4D4] |
+
+
+X:145
+T:Waltzes simple chords 31
+M:3/4
+L:1/8
+K:A
+ed2< [c2A,2C2E2]B | A2 [A2A,2C2E2] c2 | e2 [a2D,2F,2A,2] g2 | f2 [e4A,4C4E4] | ed2< [c2A,2C2E2]B |
+c2 [A2F,2A,2C2] B2 | c2 [d2B2D2F2]>c2 | d2 [B2E,2G,2B,2D2] e2 | d2 [c2A,2C2E2]>B2 |
+A2 [A2A,2C2E2] c2 | e2 [a2D,2F,2A,2] g2 | f2 [e4A,4C4E4] | d2 [c2A,2C2E2]>A2 |
+c2 [B2=G,2B,2D2]>G2 | B2 [A2A,2C2E2]>B2 | A2 [A4A,4C4E4] | E2 [A2A,2C2E2]>B2 |
+c2 [c2A,2C2E2] B2 | c2 [e2A,2C2E2]>d2 | c2 [c4F,4A,4C4] | e2 [d2B,2D2F2]>c2 |
+d2 [B2E,2G,2B,2D2] c2 | d2 [e2A,2C2E2]>c2 | A2 [A2A,2C2E2=G2] ce | ce2< [f2D,2F,2A,2]d |
+f2 [a2D,2F,2A,2] g2 | f2 [e2A,2C2E2]>d2 | c2 [a4A,4C4E4] | d2 [c2A,2C2E2]>A2 |
+c2 [B2=G,2B,2D2]>G2 | B2 [A2A,2C2E2]>B2 | A2 [A4A,4C4E4] |
+
+
+X:146
+T:Waltzes simple chords 36
+M:3/4
+L:1/8
+K:Bm
+A2 [d4D,4F,4A,4] | c2 [B2G,2B,2D2] c2 | d2 [A4A,4C4E4G4] | G2 [F2D,2F,2A,2] E2 | D2 [G4A,4C4E4G4] |
+E2 [F2D,2F,2A,2] G2 | A2 [C4A,4C4E4] | D2 [E4A,4C4E4G4] | A2 [d4D,4F,4A,4] |
+c2 [B2G,2B,2D2] c2 | d2 [A4A,4C4E4G4] | G2 [F2D,2F,2A,2] E2 | D2 [G4E,4G,4B,4] |
+E2 [F2B,2D2F2] G2 | A2 [D4E,4G,4B,4] | C2 [D4D,4F,4A,4] | A2 [d4D,4F,4A,4] |
+d2 [d2D,2F,2A,2] c2 | d2 [e4E,4G,4B,4] | e2 [e2A,2C2E2G2] c2 | A2 [f4D,4F,4A,4] |
+f2 [e4A,4C4E4] | d2 [d2E,2^G,2B,2D2] c2 | B2 [A2A,2C2E2G2] B2 | c2 [d4D,4F,4A,4] |
+c2 [B2G,2B,2D2] c2 | d2 [A4A,4C4E4G4] | G2 [F2D,2F,2A,2] E2 | D2 [G4E,4G,4B,4] |
+E2 [F2B,2D2F2] G2 | A2 [D4E,4G,4B,4] | C2 [D4D,4F,4A,4] | A2 |
+
+
+X:147
+T:Waltzes simple chords 39
+M:3/4
+L:1/8
+K:Bm
+AG2< [F2D,2F,2A,2]G | ^GA [D4D,4F,4A,4] | d2 [c2A,2C2E2G2]>d2 | ^de [A4A,4C4E4G4] | G2 [F2D,2F,2A,2]>G2 |
+^GA [D4B,4D4F4] | F4< [E4E,4G,4B,4] | [A,2C2E2G2] A2 | G2 [F2D,2F,2A,2]>G2 |
+^GA [D4D,4F,4A,4] | d2 [c2A,2C2E2G2]>d2 | ^de [A4A,4C4E4G4] | G2 [F2D,2F,2A,2]>G2 |
+F2 [E2A,2C2E2G2]>F2 | E2 [D2D,2F,2A,2] F2 | A2 [d2D,2F,2A,2] d2 | e2 [f4D,4F,4A,4] |
+e2 [d4D,4F,4A,4] | c2 [d2G,2B,2D2] c2 | B4< [A4D,4F,4A,4] | [g4E,4G,4B,4] |
+f2 [e4E,4^G,4B,4D4] | d2 [cA,CEG]e5 | [e2A,2C2E2G2] d2 | e2 [f4D,4F,4A,4] |
+e2 [d4D,4F,4A,4] | c2 [d2G,2B,2D2] c2 | B2 [A4D,4F,4A,4] | G2 [F2B,2D2F2]>G2 |
+F2 [E2A,2C2E2G2]>F2 | E4< [D4D,4F,4A,4] | [D,6F,6A,6] |
+
+
+X:148
+T:Waltzes simple chords 44
+M:3/4
+L:1/8
+K:Em
+B2 c4< [d4G,4B,4D4] | [B4G,4B,4D4] | d2 [d2G,2B,2D2] | e2>d2 [d2G,2B,2D2] | B4 [c6D,6F,6A,6C6] |
+[A4D,4F,4A,4C4] | d2 [d2G,2B,2D2] | e2>d2 [d2G,2B,2D2] | B4 [d6G,6B,6D6] |
+[g4G,4B,4D4] | f2 [e2C,2E,2G,2] | e2>e2 [g2C,2E,2G,2] | f2 ee [d6G,6B,6D6] |
+[d2G,2B,2D2] | c2 B4< [A4D,4F,4A,4C4] | [D,2F,2A,2C2] | B2 c2 [d3G,3B,3D3] |
+e d2 [c2D,2F,2A,2C2] | B2 A4< [G4G,4B,4D4] | [G,2B,2D2] | B2 c4< [d4G,4B,4D4] |
+[B4G,4B,4D4] | d2 [d2G,2B,2D2] | e2>d2 [d2G,2B,2D2] | B4 [c6D,6F,6A,6C6] |
+[A4D,4F,4A,4C4] | d2 [d2G,2B,2D2] | e2>d2 [d2G,2B,2D2] | B4 [d6G,6B,6D6] |
+[g4G,4B,4D4] | f2 [e2C,2E,2G,2] | e2>e2 [g2C,2E,2G,2] | f2 ee [d6G,6B,6D6] |
+[d2G,2B,2D2] | c2 B4< [A4D,4F,4A,4C4] | [D,2F,2A,2C2] | B2 c2 [d3G,3B,3D3] |
+e d2 [c2D,2F,2A,2C2] | B2 A4< [G4G,4B,4D4] | [G,6B,6D6] |
+
+
+X:149
+T:Waltzes simple chords 48
+M:3/4
+L:1/8
+K:Em
+d2 [g2G,2B,2D2]>f2 | e2 [d2G2B,2D2]>c2 | B2 [A2C,2E,2G,2]>B2 | G2 [F2D,2F,2A,2C2] E2 | D2 [G2G,2B,2D2]>A2 |
+B2 [d2G,2B,2D2]>e2 | B2 [d2E,2G,2B,2]>e2 | B2 [d4D,4F,4A,4] | ef2< [g2E,2G,2B,2]f |
+e2 [d2B,2D2F2]>c2 | B2 [A2A,2^C2E2G2]>B2 | G2 [F2D,2F,2A,2C2] E2 | D2 [G2G,2B,2D2]>E2 |
+D2 [G2E,2G,2B,2]>E2 | D2 [G2C,2E,2G,2]>E2 | D2 [G4G,4B,4D4] | d2 [e2E,2G,2B,2]>f2 |
+e2 [B2E,2G,2B,2] ^A2 | B2 [d2B,2D2F2]>e2 | d2 [d2B,2D2F2] c2 | B2 [e2E,2G,2B,2]>f2 |
+e2 [B2E,2G,2B,2] ^A2 | B2 [d2B,2D2F2]>e2 | d2 [d2D,2F,2A,2C2] e2 | f2 [g2G,2B,2D2]>f2 |
+e2 [d2B,2D2F2]>c2 | B2 [A2A,2^C2E2G2]>B2 | G2 [F2D,2F,2A,2C2] E2 | D2 [G2G,2B,2D2]>E2 |
+D2 [G2E,2G,2B,2]>E2 | D2 [G2C,2E,2G,2]>E2 | D2 [G4G,4B,4D4] |
+
+
+X:150
+T:Waltzes simple chords 50
+M:3/4
+L:1/8
+K:Bm
+A2 [d2D,2F,2A,2] d2 | e2 [f2D,2F,2A,2] e2 | d2 [G2G,2B,2D2] B2 | B2 [B2G,2B,2D2]<B2 | B2 [A2A,2C2E2] c3 |
+B [A2A,2C2E2] c2 | A2 [g2A,2C2E2G2] f2 | e2 [f4D,4F,4A,4] | A2 [d2D,2F,2A,2] d2 |
+e2 [f2D,2F,2A,2] e2 | d2 [G2G,2B,2D2] B2 | B2 [B2E,2G,2B,2]<B2 | B2 [A2A,2C2E2] c3 |
+B [A2A,2C2E2] c2 | A2 [g2A,2C2E2G2] f2 | e2 [d4D,4F,4A,4] | de [f6D,6F,6A,6] |
+[a6B,6D6F6] | [a2D,2F,2A,2]>g2 | f2 [e2B,2D2F2] f4 | [D,2F,2A,2] A2 |
+A2 [d2D,2F,2A,2] e2 | f2 [g2G,2B,2D2] B2 | e2 [d2A,2C2E2G2] c2 | AA [d2D,2F,2A,2] d2 |
+e2 [f2D,2F,2A,2] e2 | d2 [G2G,2B,2D2] B2 | B2 [B2E,2G,2B,2]<B2 | B2 [A2A,2C2E2] c3 |
+B [A2A,2C2E2] c2 | A2 [g2A,2C2E2G2] f2 | e2 [d4D,4F,4A,4] |
+
+
+X:151
+T:Xmas simple chords 1
+M:3/4
+L:1/8
+K:C
+G2 [c4C,4E,4G,4] | c2 c2 [B2G,2B,2D2] | c2 G2>E2 | [F2F,2A,2C2] F2 A2 | F2 [G2G,2B,2D2] AB |
+c2 G2 [c4C,4E,4G,4] | c2 c2 | [B2G,2B,2D2] c2 G3 |E [F2F,2A,2C2] F2 |
+A2 F2 [G2G,2B,2D2] | AB c4 | [e2C,2E,2G,2] e2 d2 | d2 [A2A,2C2E2] A2 |
+G2>E2 [F2F,2A,2C2] | F2 A2 F2 | [G2G,2B,2D2] AB c2 |
+
+
+X:152
+T:Xmas simple chords 2
+M:3/4
+L:1/8
+K:Bb
+[B2B,2D2F2] B2 cB | AG [F6F,6A,6C6] | F2 [G2E,2G,2B,2] | B2 B2 A2 | [B4B,4D4F4] B4 |
+[B2B,2D2F2] B2 | cB AG [F6F,6A,6C6] | F2 | [G2E,2G,2B,2] B2 B2 |
+A2 [B4B,4D4F4] | B4 [f3B,3D3F3] |e de fd | [e2E,2G,2B,2]>d2 cd |
+ec2< [d2B,2D2F2]c | Bc dB2< [c2C,2E,2G,2] |B AB cA | [B2G,2B,2D2]>A2 GA |
+BG2< [A2F,2A,2C2E2]G | F2 F2 [G2E,2G,2B,2] | B2 B2 A2 | [B4B,4D4F4] B4 |
+[f2B,2D2F2]>e2 | de fd2< [e2E,2G,2B,2] |d cd ec | [d2B,2D2F2]>c2 Bc |
+dB2< [c2C,2E,2G,2]B | AB cA2< [B2G,2B,2D2] |A GA BG | [A2F,2A,2C2E2]>G2 F2 |
+F2 [G2E,2G,2B,2] B2 | B2 A2 [B4B,4D4F4] | B4 |
+
+
+X:153
+T:Xmas simple chords 6
+M:3/4
+L:1/8
+K:Bm
+^E2 d2 =e2 | [^e2D,2F,2A,2] =e2 d2 | [A2A,2C2E2G2] d2 e2 | [d6D,6F,6A,6] | [D,2F,2A,2] a2 a2 |
+[a2D,2F,2A,2] ^e2 d2 | [e4E,4^G,4B,4D4] ^e2 | [e6A,6C6E6G6] | [A,4C4E4G4] a2 |
+[a4D,4F,4A,4] ^e2 | [^e2D,2F,2A,2=C2] =e2 ^e2 | [g2G,2B,2D2] g2 g2 | [g4G,4^A,4D4] g2 |
+[^e2D,2F,2A,2] =e2 d2 | [e2A,2C2E2G2] d2 =c2 | [d6D,6F,6A,6] | [D,6F,6A,6] |
+
+
+X:154
+T:Xmas simple chords 7
+M:3/4
+L:1/8
+K:Am
+[c4C,4E,4G,4] d4 | [e2G,2B,2D2F2] c2 | c2 B2 [c2G,2B,2D2F2] | A2 G2 F2 | [E2G,2B,2D2F2] F2 D4 |
+[C4G,4B,4D4F4] | G,2 G,2 [C4G,4B,4D4F4] |
+
+
+X:155
+T:Xmas simple chords 9
+M:3/4
+L:1/8
+K:G
+d[d2G,2B,2D2]B c2 | d[BG,B,D] AG A2 | F[G2G,2B,2D2]G AB | c[B2D,2F,2A,2C2]A G2 | d[d2G,2B,2D2]B c2 |
+d[BG,B,D] AG A2 | F[G2G,2B,2D2]G AB | c[B2D,2F,2A,2C2]A2< G2 |[A3A,3C3E3] A2 |
+G[AD,F,A,C] Bc dc | B[A6D,6F,6A,6C6] |[d2G,,2][G,B,D] [e2C,,2] | [C,E,G,][d2D,,2][D,F,A,] [c2A,,2] |
+[BA,CE][AD,,] G[AD,F,A,C] [G2G,,2] | [G,B,D]G,,2[c2G,2B,2D2]d | [BG,,]A [GG,B,D][A2D,,2][FD,F,A,C] | [G2G,,2] [GG,B,D][AC,,] B[cC,E,G,] |
+[B2D,,2] [AD,F,A,C][G2G,,2][G,B,D] | [A2A,,2] [A,CE][A2A,,2][GA,CE] | [AD,,]B [cD,F,A,C][dG,,] c[BG,B,D] | [A2D,,2] [D,F,A,C]D,,2[D,F,A,C] |
+[d2G,,2] [G,B,D][e2C,,2][C,E,G,] | [d2D,,2] [D,F,A,][c2A,,2][BA,CE] | [AD,,]G [AD,F,A,C][G2G,,2][G,B,D] | G,, |
+
+
+X:156
+T:Xmas simple chords 12
+M:3/4
+L:1/8
+K:G
+G[G2G,2B,2D2]A B2 | A[G2G,2B,2D2]A B2 | A[G2G,2B,2D2]d d2 | d[d5D,5F,5A,5C5] | G[G2G,2B,2D2]A B2 |
+A[G2G,2B,2D2]A B2 | A[G2G,2B,2D2]d d2 | d[d5D,5F,5A,5C5] | d[e2C,2E,2G,2]e d2 |
+B2<[d2G,2B,2D2] c2 | B[A2A,2C2E2]G A2 | B2<[c2D,2F,2A,2C2] B2 | c2 [d2G,,2] [G,2B,2D2] |
+[g2C,,2] [e2C,2E,2G,2] [d2G,,2] | [G,2B,2D2] [B2D,,2] [c2D,2F,2A,2C2] | [d2G,,2] [d2G,2B,2D2] [g2C,,2] | [e2C,2E,2G,2] [d2G,,2] [G,2B,2D2] |
+[B2D,,2] [c2D,2F,2A,2C2] [d2G,,2] | [G,2B,2D2] [e2E,,2] [B2E,2G,2B,2] | [c2A,,2] [A2A,2C2E2] [G2D,,2] | [F2D,2F,2A,2C2] [G2G,,2] [G,B,D]A |
+[B2G,,2] [G2G,2B,2D2] [c2C,,2] | [C,2E,2G,2] [B2D,,2] [c2D,2F,2A,2C2] | [d2G,,2] [G,2B,2D2] [e2E,,2] | [B2E,2G,2B,2] [c2A,,2] [A2A,2C2E2] |
+[G2D,,2] [F2D,2F,2A,2C2] [G2G,,2] | [G,2B,2D2] G,,2 [G,2B,2D2] | G,,2 [G,2B,2D2] G,, |
+

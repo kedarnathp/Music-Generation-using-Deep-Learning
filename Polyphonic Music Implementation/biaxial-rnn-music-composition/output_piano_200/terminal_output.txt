@@ -1,0 +1,282 @@
+Mapped name None to device cuda: GeForce GTX 1060 (0000:01:00.0)
+Loaded ashover_simple_chords_32
+Loaded ashover_simple_chords_33
+Loaded ashover_simple_chords_38
+Loaded ashover_simple_chords_8
+Loaded hpps_simple_chords_1
+Loaded hpps_simple_chords_13
+Loaded hpps_simple_chords_15
+Loaded hpps_simple_chords_2
+Loaded hpps_simple_chords_24
+Loaded hpps_simple_chords_25
+Loaded hpps_simple_chords_27
+Loaded hpps_simple_chords_37
+Loaded hpps_simple_chords_38
+Loaded hpps_simple_chords_42
+Loaded hpps_simple_chords_48
+Loaded hpps_simple_chords_51
+Loaded hpps_simple_chords_55
+Loaded hpps_simple_chords_57
+Loaded hpps_simple_chords_60
+Loaded hpps_simple_chords_61
+Loaded hpps_simple_chords_63
+Loaded hpps_simple_chords_8
+Loaded morris_simple_chords_12
+Loaded morris_simple_chords_18
+Loaded morris_simple_chords_2
+Loaded morris_simple_chords_25
+Loaded morris_simple_chords_26
+Loaded playford_simple_chords_1
+Loaded playford_simple_chords_12
+Loaded playford_simple_chords_14
+Loaded reels_simple_chords_1
+Loaded reels_simple_chords_102
+Loaded reels_simple_chords_105
+Loaded reels_simple_chords_120
+Loaded reels_simple_chords_123
+Loaded reels_simple_chords_134
+Loaded reels_simple_chords_139
+Loaded reels_simple_chords_14
+Loaded reels_simple_chords_162
+Loaded reels_simple_chords_171
+Loaded reels_simple_chords_180
+Loaded reels_simple_chords_188
+Loaded reels_simple_chords_207
+Loaded reels_simple_chords_21
+Loaded reels_simple_chords_222
+Loaded reels_simple_chords_224
+Loaded reels_simple_chords_234
+Loaded reels_simple_chords_240
+Loaded reels_simple_chords_254
+Loaded reels_simple_chords_272
+Loaded reels_simple_chords_285
+Loaded reels_simple_chords_289
+Loaded reels_simple_chords_297
+Loaded reels_simple_chords_302
+Loaded reels_simple_chords_32
+Loaded reels_simple_chords_324
+Loaded reels_simple_chords_336
+Loaded reels_simple_chords_344
+Loaded reels_simple_chords_349
+Loaded reels_simple_chords_369
+Loaded reels_simple_chords_373
+Loaded reels_simple_chords_384
+Loaded reels_simple_chords_403
+Loaded reels_simple_chords_414
+Loaded reels_simple_chords_420
+Loaded reels_simple_chords_43
+Loaded reels_simple_chords_444
+Loaded reels_simple_chords_445
+Loaded reels_simple_chords_450
+Loaded reels_simple_chords_462
+Loaded reels_simple_chords_463
+Loaded reels_simple_chords_68
+Loaded reels_simple_chords_84
+Loaded reels_simple_chords_87
+Loaded reels_simple_chords_9
+Loaded xmas_simple_chords_1
+Loaded xmas_simple_chords_2
+D:\Sem 8\biaxial-rnn-music-composition-master\model.py:370: UserWarning: Updating an `OrderedUpdates` with a non-ordered dictionary with 2+ elements could make your code non-deterministic
+  self.walk_input: next_input
+D:\Sem 8\biaxial-rnn-music-composition-master\model.py:373: UserWarning: Updating an `OrderedUpdates` with a non-ordered dictionary with 2+ elements could make your code non-deterministic
+  updates.update({hidden:newstate for hidden, newstate, layer in zip(self.walk_hiddens, new_states, self.time_model.layers) if has_hidden(layer)})
+epoch 0, error=45725.7695312
+epoch 100, error=8146.66552734
+epoch 200, error=4866.42675781
+epoch 300, error=3490.35888672
+epoch 400, error=3528.72924805
+epoch 500, error=2721.86914062
+epoch 600, error=2094.65185547
+epoch 700, error=1509.58276367
+epoch 800, error=1841.76794434
+epoch 900, error=1416.40185547
+epoch 1000, error=1458.26989746
+epoch 1100, error=1480.11560059
+epoch 1200, error=1490.67980957
+epoch 1300, error=1140.70166016
+epoch 1400, error=1326.3026123
+epoch 1500, error=1153.39038086
+epoch 1600, error=930.510498047
+epoch 1700, error=1119.015625
+epoch 1800, error=971.65246582
+epoch 1900, error=1154.24658203
+epoch 2000, error=820.266906738
+epoch 2100, error=957.334838867
+epoch 2200, error=1012.1282959
+epoch 2300, error=976.178161621
+epoch 2400, error=888.096252441
+epoch 2500, error=720.422851562
+epoch 2600, error=725.145874023
+epoch 2700, error=819.250610352
+epoch 2800, error=755.271606445
+epoch 2900, error=644.403991699
+epoch 3000, error=631.551452637
+epoch 3100, error=601.885498047
+epoch 3200, error=675.882507324
+epoch 3300, error=657.573486328
+epoch 3400, error=602.040222168
+epoch 3500, error=563.472229004
+epoch 3600, error=482.661529541
+epoch 3700, error=515.822998047
+epoch 3800, error=576.232910156
+epoch 3900, error=672.971130371
+epoch 4000, error=415.647613525
+epoch 4100, error=575.040039062
+epoch 4200, error=458.296234131
+epoch 4300, error=416.23626709
+epoch 4400, error=395.850952148
+epoch 4500, error=437.251708984
+epoch 4600, error=405.195556641
+epoch 4700, error=362.496612549
+epoch 4800, error=387.990142822
+epoch 4900, error=429.2862854
+epoch 5000, error=308.203216553
+epoch 5100, error=386.365478516
+epoch 5200, error=398.866973877
+epoch 5300, error=713.419189453
+epoch 5400, error=352.816314697
+epoch 5500, error=343.34487915
+epoch 5600, error=386.025939941
+epoch 5700, error=347.9793396
+epoch 5800, error=325.833099365
+epoch 5900, error=285.991394043
+epoch 6000, error=332.47088623
+epoch 6100, error=297.411499023
+epoch 6200, error=303.54083252
+epoch 6300, error=319.085235596
+epoch 6400, error=305.998321533
+epoch 6500, error=304.608093262
+epoch 6600, error=301.554077148
+epoch 6700, error=364.3855896
+epoch 6800, error=301.507995605
+epoch 6900, error=281.516326904
+epoch 7000, error=305.05078125
+epoch 7100, error=172.18145752
+epoch 7200, error=303.308563232
+epoch 7300, error=309.082519531
+epoch 7400, error=269.475006104
+epoch 7500, error=236.040237427
+epoch 7600, error=260.363067627
+epoch 7700, error=292.488372803
+epoch 7800, error=259.928710938
+epoch 7900, error=296.701751709
+epoch 8000, error=184.736404419
+epoch 8100, error=202.119995117
+epoch 8200, error=239.341079712
+epoch 8300, error=291.573822021
+epoch 8400, error=249.639129639
+epoch 8500, error=306.701263428
+epoch 8600, error=305.457183838
+epoch 8700, error=254.238876343
+epoch 8800, error=206.306060791
+epoch 8900, error=233.065002441
+epoch 9000, error=203.894454956
+epoch 9100, error=203.378509521
+epoch 9200, error=233.051834106
+epoch 9300, error=265.526397705
+epoch 9400, error=272.68927002
+epoch 9500, error=209.9246521
+epoch 9600, error=213.545074463
+epoch 9700, error=397.153656006
+epoch 9800, error=198.719284058
+epoch 9900, error=228.437744141
+epoch 10000, error=175.670700073
+epoch 10100, error=177.104675293
+epoch 10200, error=259.613983154
+epoch 10300, error=215.173370361
+epoch 10400, error=272.599090576
+epoch 10500, error=156.195800781
+epoch 10600, error=190.794754028
+epoch 10700, error=193.5574646
+epoch 10800, error=198.576690674
+epoch 10900, error=184.614959717
+epoch 11000, error=214.667236328
+epoch 11100, error=199.02192688
+epoch 11200, error=222.901855469
+epoch 11300, error=152.352966309
+epoch 11400, error=198.570388794
+epoch 11500, error=220.895446777
+epoch 11600, error=183.004043579
+epoch 11700, error=148.601791382
+epoch 11800, error=194.24319458
+epoch 11900, error=236.472900391
+epoch 12000, error=170.736709595
+epoch 12100, error=199.042770386
+epoch 12200, error=217.387664795
+epoch 12300, error=255.252075195
+epoch 12400, error=207.618392944
+epoch 12500, error=193.03578186
+epoch 12600, error=191.973358154
+epoch 12700, error=189.121841431
+epoch 12800, error=197.220108032
+epoch 12900, error=209.646118164
+epoch 13000, error=206.839981079
+epoch 13100, error=167.983306885
+epoch 13200, error=187.198577881
+epoch 13300, error=199.56918335
+epoch 13400, error=155.580291748
+epoch 13500, error=189.893051147
+epoch 13600, error=246.060638428
+epoch 13700, error=179.110336304
+epoch 13800, error=206.760040283
+epoch 13900, error=184.734115601
+epoch 14000, error=128.503860474
+epoch 14100, error=181.864120483
+epoch 14200, error=153.93069458
+epoch 14300, error=133.321533203
+epoch 14400, error=174.235427856
+epoch 14500, error=148.954986572
+epoch 14600, error=179.716674805
+epoch 14700, error=179.291473389
+epoch 14800, error=250.628341675
+epoch 14900, error=136.593902588
+epoch 15000, error=158.104751587
+epoch 15100, error=204.887969971
+epoch 15200, error=147.817016602
+epoch 15300, error=169.48274231
+epoch 15400, error=135.611679077
+epoch 15500, error=118.605270386
+epoch 15600, error=141.102890015
+epoch 15700, error=154.030181885
+epoch 15800, error=138.235977173
+epoch 15900, error=146.955474854
+epoch 16000, error=240.574172974
+epoch 16100, error=131.920410156
+epoch 16200, error=179.693893433
+epoch 16300, error=145.427810669
+epoch 16400, error=211.738586426
+epoch 16500, error=177.626220703
+epoch 16600, error=165.602737427
+epoch 16700, error=204.324539185
+epoch 16800, error=144.434906006
+epoch 16900, error=153.9347229
+epoch 17000, error=138.73034668
+epoch 17100, error=110.183021545
+epoch 17200, error=151.107955933
+epoch 17300, error=125.569610596
+epoch 17400, error=148.118057251
+epoch 17500, error=162.952407837
+epoch 17600, error=141.838653564
+epoch 17700, error=132.22946167
+epoch 17800, error=135.70098877
+epoch 17900, error=110.341995239
+epoch 18000, error=145.792144775
+epoch 18100, error=200.326171875
+epoch 18200, error=147.674057007
+epoch 18300, error=160.4375
+epoch 18400, error=157.380462646
+epoch 18500, error=134.453125
+epoch 18600, error=186.924591064
+epoch 18700, error=149.664520264
+epoch 18800, error=142.749420166
+epoch 18900, error=146.428268433
+epoch 19000, error=124.634513855
+epoch 19100, error=141.405944824
+epoch 19200, error=130.459884644
+epoch 19300, error=113.700683594
+epoch 19400, error=128.415588379
+epoch 19500, error=133.383026123
+epoch 19600, error=113.905418396
+epoch 19700, error=127.331924438
+epoch 19800, error=203.89239502
+epoch 19900, error=123.460029602
